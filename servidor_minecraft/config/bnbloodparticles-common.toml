@@ -1,0 +1,77 @@
+
+["Graphic Settings"]
+	#Style Settings
+	#Choose the texture style. Choose between "HD" or "OLD".
+	#"OLD" - Style from early versions of the modification. Textures of low definition, without variability.
+	#"HD" - A style with high definition textures and lots of variations.
+	#Recommended style "HD".
+	Style = "HD"
+	#Lifetime Settings
+	#Possible lags at high values.
+	#1 second = 20 ticks.
+	#Default is 100 ticks.
+	#Range: > 1
+	MinLifeTime = 100
+	#Range: > 1
+	MaxLifeTime = 100
+	#Size Settings
+	#Default is 0.05.
+	#Range: -0.1 ~ 1.0
+	ParticlesSizeMultiplier = 0.05
+
+["General Settings"]
+	#Particles Count Settings
+	#Possible lags at high values.
+	#Default 1.0 for all particle count multipliers.
+	#Multiplier of the number of particles when damaged by a hand or an object that is not a weapon.
+	#Range: 0.01 ~ 10.0
+	HandMultiplier = 1.0
+	#Multiplier of the number of particles when damaged by any melee weapon.
+	#Range: 0.01 ~ 10.0
+	WeaponMultiplier = 1.0
+	#Multiplier of the number of particles when damaged by any projectile.
+	#Range: 0.01 ~ 10.0
+	ProjectileMultiplier = 1.0
+	#Particle count multiplier for fall damage.
+	#Range: 0.01 ~ 10.0
+	FallMultiplier = 1.0
+	#Multiplier of the number of particles when damaged by an explosion.
+	#Range: 0.01 ~ 10.0
+	ExplosionMultiplier = 1.0
+	#Multiplier of the number of particles when a creature dies.
+	#Range: 0.01 ~ 10.0
+	DeathMultiplier = 1.0
+
+["Entity Settings"]
+	#Add entities to the blacklist to disable particle generation or to the whitelist to enable particle generation.
+	#Red Blood Settings
+	RedPresetBlacklist = ["modid:entity", "modid:entity"]
+	RedPresetWhitelist = ["modid:entity", "modid:entity"]
+	#Creeper Blood Settings
+	CreeperPresetWhitelist = ["modid:entity", "modid:entity"]
+	#Ender Blood Settings
+	EnderPresetWhitelist = ["modid:entity", "modid:entity"]
+	#Warden Blood Settings
+	WardenPresetWhitelist = ["modid:entity", "modid:entity"]
+	#Zombie Blood Settings
+	ZombiePresetWhitelist = ["modid:entity", "modid:entity"]
+	#Snow Particles Settings
+	SnowPresetWhitelist = ["modid:entity", "modid:entity"]
+	#Iron Chunks Settings
+	IronPresetWhitelist = ["modid:entity", "modid:entity"]
+	#Magma Chunks Settings
+	MagmaPresetWhitelist = ["modid:entity", "modid:entity"]
+	#Slime Chunks Settings
+	SlimePresetWhitelist = ["modid:entity", "modid:entity"]
+	#Skeleton Bones Settings
+	SkeletonPresetWhitelist = ["modid:entity", "modid:entity"]
+	#Wither Bones Settings
+	WitherPresetWhitelist = ["modid:entity", "modid:entity"]
+
+["Extra Settings"]
+	#Physics Settings
+	#Enable or disable physics simulation. Default is true.
+	#Works 50% optimized with physics disabled., but disables particle sticking and spreading effects.
+	#There is also a bug with the levitation of particles if the block under them has been destroyed.
+	enablePhysicsSimulation = true
+
