@@ -1,0 +1,17 @@
+{
+	id: "dcec059e-5777-39ca-a449-3f50e71571e6"
+	type: "player"
+	player_name: "ElTermi04"
+	ranks: {
+		dcec059e-5777-39ca-a449-3f50e71571e6: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ElTermi04"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5982FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

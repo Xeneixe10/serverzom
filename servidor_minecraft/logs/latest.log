@@ -2519,3 +2519,52 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [08Apr2025 02:14:25.911] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player dcec059e-5777-39ca-a449-3f50e71571e6
 [08Apr2025 02:14:25.914] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ElTermi04 (dcec059e-5777-39ca-a449-3f50e71571e6) successfully connected to voice chat
 [08Apr2025 02:14:27.851] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[08Apr2025 02:15:30.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTermi04 was slain by Looter
+[08Apr2025 02:16:33.744] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElTermi04 lost connection: Disconnected
+[08Apr2025 02:16:33.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTermi04 left the game
+[08Apr2025 02:16:33.747] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ElTermi04
+[08Apr2025 02:18:37.751] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7d11f23f
+[08Apr2025 02:18:37.759] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElTermi04[/172.24.55.145:63028] logged in with entity id 1060 at (-0.25650815014262796, 33.0, -0.5010730801132677)
+[08Apr2025 02:18:37.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTermi04 joined the game
+[08Apr2025 02:18:37.824] [Server thread/INFO] [APTweaks(Player)/]: Player ElTermi04 ServerPlayer['ElTermi04'/1060, l='ServerLevel[world]', x=-0.26, y=33.00, z=-0.50] logged in and will be protected for 90 secs.
+[08Apr2025 02:18:37.824] [Server thread/INFO] [Jade/]: Syncing config to ElTermi04 (dcec059e-5777-39ca-a449-3f50e71571e6)
+[08Apr2025 02:18:38.480] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ElTermi04 (18)
+[08Apr2025 02:18:38.480] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ElTermi04
+[08Apr2025 02:18:42.123] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player dcec059e-5777-39ca-a449-3f50e71571e6
+[08Apr2025 02:18:43.126] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player dcec059e-5777-39ca-a449-3f50e71571e6
+[08Apr2025 02:18:43.126] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ElTermi04 (dcec059e-5777-39ca-a449-3f50e71571e6) successfully connected to voice chat
+[08Apr2025 02:18:48.739] [Server thread/INFO] [APTweaks(Player)/]: Protected Player ElTermi04 was successful validated after 10 secs.
+[08Apr2025 02:18:57.660] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/api/chemical/merged/MergedChemicalTank$Current
+[08Apr2025 02:18:57.660] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/capabilities/merged/MergedTank$CurrentType
+[08Apr2025 02:19:55.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTermi04 was slain by Looter
+[08Apr2025 02:20:15.146] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/RenderShape
+[08Apr2025 02:20:39.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTermi04 has made the advancement [Monster Hunter]
+[08Apr2025 02:20:41.471] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[08Apr2025 02:21:03.567] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/alrex/parcool/common/network/SyncActionStateMessage$DataType
+[08Apr2025 02:22:15.095] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElTermi04 lost connection: Disconnected
+[08Apr2025 02:22:15.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTermi04 left the game
+[08Apr2025 02:22:15.095] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of dcec059e-5777-39ca-a449-3f50e71571e6 was unloaded
+[08Apr2025 02:22:15.096] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ElTermi04
+[08Apr2025 02:22:25.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[08Apr2025 02:22:25.991] [Server thread/INFO] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: stop local service
+[08Apr2025 02:22:25.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08Apr2025 02:22:25.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08Apr2025 02:22:25.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08Apr2025 02:22:26.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08Apr2025 02:22:28.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ava:northern
+[08Apr2025 02:22:28.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08Apr2025 02:22:28.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ava:after_place
+[08Apr2025 02:22:28.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08Apr2025 02:22:28.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ava:southern
+[08Apr2025 02:22:28.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[08Apr2025 02:22:29.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08Apr2025 02:22:29.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (northern): All chunks are saved
+[08Apr2025 02:22:29.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Apr2025 02:22:29.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (after_place): All chunks are saved
+[08Apr2025 02:22:29.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08Apr2025 02:22:29.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (southern): All chunks are saved
+[08Apr2025 02:22:29.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[08Apr2025 02:22:29.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08Apr2025 02:22:29.049] [Server thread/INFO] [Framework/]: Unloading server configs...
+[08Apr2025 02:22:29.050] [Server thread/INFO] [configured/]: Unloading server configs...
+[08Apr2025 02:22:29.051] [Server thread/INFO] [configured/]: Sending config unload event for configured.developer.toml

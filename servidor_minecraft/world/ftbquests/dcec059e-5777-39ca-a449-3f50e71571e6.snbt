@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "dcec059e577739caa4493f50e71571e6"
+	name: "ElTermi04"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
