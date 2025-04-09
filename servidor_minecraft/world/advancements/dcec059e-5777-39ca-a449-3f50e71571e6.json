@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-04-09 03:30:40 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/akm": {
     "criteria": {
       "has_planks": "2025-04-09 02:27:33 +0000"
@@ -62,6 +68,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-09 02:29:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-09 03:30:40 +0000"
     },
     "done": true
   },
@@ -149,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-04-09 03:30:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-04-09 02:26:34 +0000"
@@ -188,6 +206,12 @@
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-04-08 02:20:43 +0000"
+    },
+    "done": true
+  },
+  "projectarsenal:recipes/projectarsenal/dp27": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-09 03:30:40 +0000"
     },
     "done": true
   },
@@ -575,6 +599,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-04-09 03:30:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:drowned": "2025-04-09 02:57:57 +0000"
@@ -596,6 +626,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-04-09 02:29:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-09 03:30:40 +0000"
     },
     "done": true
   },
@@ -698,6 +734,12 @@
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-04-09 02:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-04-09 03:30:40 +0000"
     },
     "done": true
   },
@@ -818,6 +860,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-09 02:29:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-04-09 03:30:40 +0000"
     },
     "done": true
   },
@@ -968,6 +1016,12 @@
   "cgm:recipes/cgm/shell": {
     "criteria": {
       "has_gunpowder": "2025-04-08 02:20:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-09 03:30:40 +0000"
     },
     "done": true
   },
@@ -1242,6 +1296,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-04-09 03:02:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-09 03:30:40 +0000"
     },
     "done": true
   },
