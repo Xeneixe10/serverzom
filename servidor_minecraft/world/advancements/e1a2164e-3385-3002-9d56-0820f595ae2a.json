@@ -635,6 +635,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-04-09 04:22:42 +0000"
+    },
+    "done": true
+  },
   "ava:recipes/survival/lens": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 04:00:13 +0000"
@@ -1026,6 +1032,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-04-09 04:22:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-04-09 02:34:37 +0000"
@@ -1149,6 +1161,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-04-09 02:34:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-04-09 04:22:42 +0000"
     },
     "done": true
   },
@@ -1911,6 +1929,12 @@
   "securitycraft:recipes/securitycraft/keycard_lv5": {
     "criteria": {
       "has_iron": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-04-09 04:17:07 +0000"
     },
     "done": true
   },

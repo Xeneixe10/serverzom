@@ -1614,6 +1614,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-09 04:16:35 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/ak12": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 03:39:58 +0000"
