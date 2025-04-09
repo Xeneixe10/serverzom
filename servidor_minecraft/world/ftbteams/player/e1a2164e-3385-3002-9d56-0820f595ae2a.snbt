@@ -2,9 +2,7 @@
 	id: "e1a2164e-3385-3002-9d56-0820f595ae2a"
 	type: "player"
 	player_name: "qdrix"
-	ranks: {
-		e1a2164e-3385-3002-9d56-0820f595ae2a: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "qdrix"
 		"ftbteams:description": ""

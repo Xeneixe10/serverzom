@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "86e7648f1b724677864423c8c277b878"
+	name: "Los Pajas locas"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

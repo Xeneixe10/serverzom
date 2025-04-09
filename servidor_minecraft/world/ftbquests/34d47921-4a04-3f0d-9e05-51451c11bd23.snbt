@@ -4,8 +4,15 @@
 	name: "axel"
 	lock: false
 	rewards_blocked: false
-	task_progress: { }
-	started: { }
+	task_progress: {
+		3947964AF6E27C87: 3
+	}
+	started: {
+		01FE278037141E29: 1744165911369L
+		3947964AF6E27C87: 1744165911369L
+		5C23F2F76D256ABA: 1744165911369L
+		0000000000000001: 1744165911369L
+	}
 	completed: { }
 	claimed_rewards: { }
 	player_data: { }

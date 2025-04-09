@@ -4,8 +4,18 @@
 	name: "ElTermi04"
 	lock: false
 	rewards_blocked: false
-	task_progress: { }
-	started: { }
+	task_progress: {
+		3947964AF6E27C87: 3
+		41EBA11C7B3A66A3: 1
+	}
+	started: {
+		41EBA11C7B3A66A3: 1744165615479L
+		5C23F2F76D256ABA: 1744165615479L
+		0000000000000001: 1744165615479L
+		1DCC4CA0331EADF9: 1744165615479L
+		01FE278037141E29: 1744165675271L
+		3947964AF6E27C87: 1744165675271L
+	}
 	completed: { }
 	claimed_rewards: { }
 	player_data: { }

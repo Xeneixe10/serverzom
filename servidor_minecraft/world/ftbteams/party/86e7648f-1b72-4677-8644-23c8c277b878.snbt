@@ -1,0 +1,23 @@
+{
+	id: "86e7648f-1b72-4677-8644-23c8c277b878"
+	type: "party"
+	owner: "e1a2164e-3385-3002-9d56-0820f595ae2a"
+	ranks: {
+		e1a2164e-3385-3002-9d56-0820f595ae2a: "owner"
+		dcec059e-5777-39ca-a449-3f50e71571e6: "invited"
+		34d47921-4a04-3f0d-9e05-51451c11bd23: "invited"
+	}
+	properties: {
+		"ftbteams:display_name": "Los Pajas locas"
+		"ftbteams:description": ""
+		"ftbteams:color": "#F359FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1744166010794L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"qdrix\"}]}" }
+		{ from: "e1a2164e-3385-3002-9d56-0820f595ae2a", date: 1744166010796L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"axel\"}]}" }
+		{ from: "e1a2164e-3385-3002-9d56-0820f595ae2a", date: 1744166010796L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"ElTermi04\"}]}" }
+	]
+	extra: { }
+}
