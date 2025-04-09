@@ -1,0 +1,17 @@
+{
+	id: "34d47921-4a04-3f0d-9e05-51451c11bd23"
+	type: "player"
+	player_name: "axel"
+	ranks: {
+		34d47921-4a04-3f0d-9e05-51451c11bd23: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "axel"
+		"ftbteams:description": ""
+		"ftbteams:color": "#E459FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

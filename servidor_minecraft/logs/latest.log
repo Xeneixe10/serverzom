@@ -1373,3 +1373,24 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [09Apr2025 02:07:12.168] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/Behavior$Status
 [09Apr2025 02:07:12.170] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$OrderPolicy
 [09Apr2025 02:07:12.172] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$RunningPolicy
+[09Apr2025 02:09:06.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTermi04 has made the advancement [Sweet Dreams]
+[09Apr2025 02:09:11.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTermi04 has made the advancement [First Day]
+[09Apr2025 02:11:49.272] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@60f8f740
+[09Apr2025 02:11:49.276] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: axel[/172.24.109.155:58390] logged in with entity id 1713 at (-5.5, 78.0, 1.5)
+[09Apr2025 02:11:49.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: axel joined the game
+[09Apr2025 02:11:49.431] [Server thread/INFO] [APTweaks(Player)/]: Player axel ServerPlayer['axel'/1713, l='ServerLevel[world]', x=-5.50, y=78.00, z=1.50] logged in and will be protected for 90 secs.
+[09Apr2025 02:11:49.432] [Server thread/INFO] [Jade/]: Syncing config to axel (34d47921-4a04-3f0d-9e05-51451c11bd23)
+[09Apr2025 02:11:50.016] [Server thread/INFO] [APTweaks(Player)/]: Protected Player axel was successful validated after 0 secs.
+[09Apr2025 02:11:50.016] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player axel!
+[09Apr2025 02:12:17.871] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of axel (18)
+[09Apr2025 02:12:17.871] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to axel
+[09Apr2025 02:12:19.112] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 34d47921-4a04-3f0d-9e05-51451c11bd23 was loaded
+[09Apr2025 02:12:41.068] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 34d47921-4a04-3f0d-9e05-51451c11bd23
+[09Apr2025 02:12:42.069] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 34d47921-4a04-3f0d-9e05-51451c11bd23
+[09Apr2025 02:12:42.069] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player axel (34d47921-4a04-3f0d-9e05-51451c11bd23) successfully connected to voice chat
+[09Apr2025 02:13:15.703] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=33, z=0}
+[09Apr2025 02:15:43.025] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@28671d6c[id=<null>,name=qdrix,properties={},legacy=false] (/172.24.22.218:58837) lost connection: Disconnected
+[09Apr2025 02:16:32.272] [Server thread/WARN] [cgm/]: literal{ElTermi04}(dcec059e-5777-39ca-a449-3f50e71571e6) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 92
+[09Apr2025 02:16:54.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[09Apr2025 02:17:00.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[09Apr2025 02:17:14.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set the time to 1000]
