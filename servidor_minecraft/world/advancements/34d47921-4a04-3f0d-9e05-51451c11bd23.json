@@ -252,6 +252,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-04-09 03:38:34 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/bullet_short": {
     "criteria": {
       "has_gunpowder": "2025-04-09 02:21:46 +0000"
@@ -638,6 +644,12 @@
   "mekanism:root": {
     "criteria": {
       "automatic": "2025-04-09 02:11:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-04-09 03:38:34 +0000"
     },
     "done": true
   },
