@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "dcec059e-5777-39ca-a449-3f50e71571e6",
+    "name": "ElTermi04",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
