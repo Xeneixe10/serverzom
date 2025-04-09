@@ -77,17 +77,17 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-09 02:31:59 +0000"
-    },
-    "done": false
-  },
   "projectarsenal:recipes/projectarsenal/akx": {
     "criteria": {
       "has_planks": "2025-04-09 02:31:08 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-09 02:31:59 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
@@ -101,15 +101,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_wood": {
-    "criteria": {
-      "has_log": "2025-04-09 02:30:59 +0000"
-    },
-    "done": true
-  },
   "cgm:recipes/cgm/advanced_bullet": {
     "criteria": {
       "has_gunpowder": "2025-04-09 02:21:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-04-09 02:30:59 +0000"
     },
     "done": true
   },
@@ -197,15 +197,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/jungle_button": {
-    "criteria": {
-      "has_planks": "2025-04-09 02:31:08 +0000"
-    },
-    "done": true
-  },
   "parcool:grant_parcool_guide": {
     "criteria": {
       "tick": "2025-04-09 02:11:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-04-09 02:31:08 +0000"
     },
     "done": true
   },
@@ -281,21 +281,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-04-09 02:31:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-04-09 02:21:46 +0000"
     },
     "done": true
   },
-  "additionalguns:recipes/additionalguns/bullet_heavy": {
+  "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
-      "has_gunpowder": "2025-04-09 02:21:46 +0000"
+      "has_planks": "2025-04-09 02:31:50 +0000"
     },
     "done": true
   },
@@ -304,6 +298,12 @@
       "log_spam_fixer": "2025-04-09 02:11:50 +0000"
     },
     "done": false
+  },
+  "additionalguns:recipes/additionalguns/bullet_heavy": {
+    "criteria": {
+      "has_gunpowder": "2025-04-09 02:21:46 +0000"
+    },
+    "done": true
   },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
@@ -344,15 +344,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_button": {
-    "criteria": {
-      "has_planks": "2025-04-09 02:31:50 +0000"
-    },
-    "done": true
-  },
   "cgm:recipes/cgm/grenade": {
     "criteria": {
       "has_gunpowder": "2025-04-09 02:21:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-04-09 02:31:50 +0000"
     },
     "done": true
   },
@@ -368,17 +368,17 @@
     },
     "done": false
   },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-09 02:31:59 +0000"
-    },
-    "done": false
-  },
   "rottencreatures:recipes/rottencreatures.rottencreatures/tnt_barrel": {
     "criteria": {
       "has_gunpowder": "2025-04-09 02:21:46 +0000"
     },
     "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-09 02:31:59 +0000"
+    },
+    "done": false
   },
   "additionalguns:recipes/additionalguns/aks74u": {
     "criteria": {
@@ -456,15 +456,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/sonic_security_system": {
-    "criteria": {
-      "has_stick": "2025-04-09 02:31:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-04-09 02:31:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/sonic_security_system": {
+    "criteria": {
+      "has_stick": "2025-04-09 02:31:30 +0000"
     },
     "done": true
   },
@@ -619,9 +619,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/oak_boat": {
+  "ava:recipes/survival/packed_gunpowder": {
     "criteria": {
-      "in_water": "2025-04-09 02:32:42 +0000"
+      "has_gunpowder": "2025-04-09 02:21:46 +0000"
     },
     "done": true
   },
@@ -631,9 +631,9 @@
     },
     "done": true
   },
-  "ava:recipes/survival/packed_gunpowder": {
+  "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
-      "has_gunpowder": "2025-04-09 02:21:46 +0000"
+      "in_water": "2025-04-09 02:32:42 +0000"
     },
     "done": true
   },

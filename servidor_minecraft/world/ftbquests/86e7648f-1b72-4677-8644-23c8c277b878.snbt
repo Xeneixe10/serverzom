@@ -4,8 +4,15 @@
 	name: "Los Pajas locas"
 	lock: false
 	rewards_blocked: false
-	task_progress: { }
-	started: { }
+	task_progress: {
+		41EBA11C7B3A66A3: 1
+	}
+	started: {
+		41EBA11C7B3A66A3: 1744166476269L
+		5C23F2F76D256ABA: 1744166476269L
+		0000000000000001: 1744166476269L
+		1DCC4CA0331EADF9: 1744166476269L
+	}
 	completed: { }
 	claimed_rewards: { }
 	player_data: { }

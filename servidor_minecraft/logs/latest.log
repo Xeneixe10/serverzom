@@ -3390,3 +3390,35 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [09Apr2025 02:35:54.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix has made the advancement [Getting an Upgrade]
 [09Apr2025 02:36:13.372] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2c22195[id=<null>,name=axel,properties={},legacy=false] (/172.24.109.155:59899) lost connection: Disconnected
 [09Apr2025 02:37:05.921] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@68f87d2d[id=<null>,name=axel,properties={},legacy=false] (/172.24.109.155:59972) lost connection: Disconnected
+[09Apr2025 02:38:26.218] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@71008509[id=<null>,name=axel,properties={},legacy=false] (/172.24.109.155:60054) lost connection: Disconnected
+[09Apr2025 02:38:32.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[09Apr2025 02:39:19.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[09Apr2025 02:39:28.687] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[09Apr2025 02:39:28.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElTermi04> zzz
+[09Apr2025 02:39:33.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[09Apr2025 02:39:45.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[09Apr2025 02:40:29.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[09Apr2025 02:40:36.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[09Apr2025 02:40:47.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix has made the advancement [Sweet Dreams]
+[09Apr2025 02:40:52.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix has made the advancement [First Day]
+[09Apr2025 02:45:34.973] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@32d94fca
+[09Apr2025 02:45:34.976] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: axel[/172.24.109.155:60560] logged in with entity id 5121 at (-78.32647139618214, 68.7531999805212, 116.60501520137773)
+[09Apr2025 02:45:34.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: axel joined the game
+[09Apr2025 02:45:34.988] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/136, l='ServerLevel[world]', x=-7.49, y=49.42, z=181.37, removed=DISCARDED]
+[09Apr2025 02:45:35.022] [Server thread/INFO] [APTweaks(Player)/]: Player axel ServerPlayer['axel'/5121, l='ServerLevel[world]', x=-78.33, y=68.75, z=116.61] logged in and will be protected for 90 secs.
+[09Apr2025 02:45:35.022] [Server thread/INFO] [Jade/]: Syncing config to axel (34d47921-4a04-3f0d-9e05-51451c11bd23)
+[09Apr2025 02:45:36.825] [Worker-Main-16/WARN] [ModernFix/]: The namespace ava contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[09Apr2025 02:45:41.703] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of axel (18)
+[09Apr2025 02:45:41.703] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to axel
+[09Apr2025 02:45:41.988] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 34d47921-4a04-3f0d-9e05-51451c11bd23 was loaded
+[09Apr2025 02:45:50.981] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 34d47921-4a04-3f0d-9e05-51451c11bd23
+[09Apr2025 02:45:51.985] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 34d47921-4a04-3f0d-9e05-51451c11bd23
+[09Apr2025 02:45:51.985] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player axel (34d47921-4a04-3f0d-9e05-51451c11bd23) successfully connected to voice chat
+[09Apr2025 02:45:53.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: axel was kicked for floating too long!
+[09Apr2025 02:45:53.720] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: axel lost connection: Flying is not enabled on this server
+[09Apr2025 02:45:53.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: axel left the game
+[09Apr2025 02:45:53.721] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 34d47921-4a04-3f0d-9e05-51451c11bd23 was unloaded
+[09Apr2025 02:45:53.721] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client axel
+[09Apr2025 02:45:53.780] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Apr2025 02:47:26.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[09Apr2025 02:47:29.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
