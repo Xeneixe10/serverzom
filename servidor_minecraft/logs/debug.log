@@ -9794,3 +9794,53 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [09Apr2025 01:54:54.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTermi04 has made the advancement [Stone Age]
 [09Apr2025 01:56:27.661] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/LastSeenMessagesValidator$ErrorCondition
 [09Apr2025 01:56:27.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[09Apr2025 01:57:42.690] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[09Apr2025 01:57:44.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[09Apr2025 01:57:59.212] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Apr2025 01:57:59.229] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Apr2025 01:58:02.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[09Apr2025 01:59:45.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[09Apr2025 02:02:59.188] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Apr2025 02:02:59.200] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Apr2025 02:04:17.879] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/alrex/parcool/common/network/SyncActionStateMessage$DataType
+[09Apr2025 02:04:27.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[09Apr2025 02:04:46.881] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mrcrayfish/guns/item/attachment/IAttachment$Type
+[09Apr2025 02:04:48.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[09Apr2025 02:07:09.798] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/2/top
+[09Apr2025 02:07:09.800] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/2/bottom
+[09Apr2025 02:07:10.363] [Worker-Main-18/DEBUG] [mixin/]: Mixing gen.chunk_region.WorldGenRegionMixin from canary.mixins.json into net.minecraft.server.level.WorldGenRegion
+[09Apr2025 02:07:10.595] [Worker-Main-36/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[09Apr2025 02:07:10.596] [Worker-Main-36/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[09Apr2025 02:07:11.397] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of bunker_down:animalbunker2
+[09Apr2025 02:07:11.399] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of bunker_down:netherportalbunker2
+[09Apr2025 02:07:11.402] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of campsite_structures:farmer_campsite
+[09Apr2025 02:07:11.404] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of campsite_structures:butcher_campsite
+[09Apr2025 02:07:11.405] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of campsite_structures:cartographer_campsite
+[09Apr2025 02:07:11.407] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of campsite_structures:cleric_campsite
+[09Apr2025 02:07:11.410] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of campsite_structures:fisher_campsite
+[09Apr2025 02:07:11.412] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of bunker_down:redstonebunker4_rundown
+[09Apr2025 02:07:11.415] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of bunker_down:farmbunker
+[09Apr2025 02:07:11.418] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of campsite_structures:armorer_campsite
+[09Apr2025 02:07:11.419] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of fallout_inspired_power_armor:armorspawner
+[09Apr2025 02:07:12.154] [Server thread/DEBUG] [mixin/]: Mixing allocations.do_nothing.VillagerGoalPackagesMixin from saturn.mixins.json into net.minecraft.world.entity.ai.behavior.VillagerGoalPackages
+[09Apr2025 02:07:12.167] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/memory/MemoryStatus
+[09Apr2025 02:07:12.168] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/Behavior$Status
+[09Apr2025 02:07:12.170] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$OrderPolicy
+[09Apr2025 02:07:12.171] [Server thread/DEBUG] [mixin/]: Mixing ai.task.replace_streams.ShufflingListMixin from canary.mixins.json into net.minecraft.world.entity.ai.behavior.ShufflingList
+[09Apr2025 02:07:12.172] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$RunningPolicy
+[09Apr2025 02:07:12.218] [Server thread/DEBUG] [mixin/]: Mixing ai.poi.tasks.LocateHidingPlaceMixin from canary.mixins.json into net.minecraft.world.entity.ai.behavior.LocateHidingPlace
+[09Apr2025 02:07:14.503] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:militarybase
+[09Apr2025 02:07:14.582] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:acidentedeaviao
+[09Apr2025 02:07:14.610] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:farmacia
+[09Apr2025 02:07:14.614] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:gasstation
+[09Apr2025 02:07:14.624] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:campoderefugiados2
+[09Apr2025 02:07:14.650] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:store3
+[09Apr2025 02:07:14.669] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:acampamentinho
+[09Apr2025 02:07:14.694] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:refugecamp
+[09Apr2025 02:07:14.706] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:store1
+[09Apr2025 02:07:14.710] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:cabine
+[09Apr2025 02:07:14.714] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:camp2
+[09Apr2025 02:07:14.716] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:camp1
+[09Apr2025 02:07:14.724] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:store2
+[09Apr2025 02:07:14.733] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:farm
+[09Apr2025 02:07:14.742] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:militarycamp2

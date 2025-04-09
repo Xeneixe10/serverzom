@@ -1,27 +1,15 @@
 {
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2025-04-08 02:20:43 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-08 02:21:24 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-04-08 02:20:43 +0000"
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
+  "securitycraft:recipes/securitycraft/reinforced_diorite": {
     "criteria": {
-      "log_spam_fixer": "2025-04-08 02:21:24 +0000"
+      "has_cobblestone": "2025-04-09 01:54:54 +0000"
     },
-    "done": false
+    "done": true
   },
   "incendium:technical/using/trailblazer": {
     "criteria": {
@@ -32,6 +20,18 @@
   "additionalguns:recipes/additionalguns/bullet_heavy": {
     "criteria": {
       "has_gunpowder": "2025-04-08 02:20:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-04-09 01:54:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-04-09 01:54:54 +0000"
     },
     "done": true
   },
@@ -74,12 +74,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-08 02:21:24 +0000"
-    },
-    "done": false
-  },
   "cgm:recipes/cgm/grenade": {
     "criteria": {
       "has_gunpowder": "2025-04-08 02:20:43 +0000"
@@ -92,45 +86,15 @@
     },
     "done": true
   },
-  "ags_day_counter:day_counter_root_advancement": {
-    "criteria": {
-      "day_counter_root_advancement": "2025-04-08 02:14:09 +0000"
-    },
-    "done": true
-  },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
       "log_spam_fixer": "2025-04-08 02:14:10 +0000"
     },
     "done": false
   },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-08 02:21:24 +0000"
-    },
-    "done": false
-  },
   "rottencreatures:recipes/rottencreatures.rottencreatures/tnt_barrel": {
     "criteria": {
       "has_gunpowder": "2025-04-08 02:20:43 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-08 02:21:24 +0000"
-    },
-    "done": false
-  },
-  "mekanism:root": {
-    "criteria": {
-      "automatic": "2025-04-08 02:14:09 +0000"
-    },
-    "done": true
-  },
-  "mutantmonsters:root": {
-    "criteria": {
-      "killed_by_something": "2025-04-08 02:15:30 +0000"
     },
     "done": true
   },
@@ -146,21 +110,21 @@
     },
     "done": true
   },
-  "cgm:recipes/cgm/basic_bullet": {
+  "minecraft:story/mine_stone": {
     "criteria": {
-      "has_gunpowder": "2025-04-08 02:20:43 +0000"
+      "get_stone": "2025-04-09 01:54:54 +0000"
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
+  "minecraft:recipes/building_blocks/stone": {
     "criteria": {
-      "log_spam_fixer": "2025-04-08 02:21:24 +0000"
+      "has_cobblestone": "2025-04-09 01:54:54 +0000"
     },
-    "done": false
+    "done": true
   },
-  "parcool:grant_parcool_guide": {
+  "minecraft:recipes/decorations/furnace": {
     "criteria": {
-      "tick": "2025-04-08 02:14:09 +0000"
+      "has_cobblestone": "2025-04-09 01:54:54 +0000"
     },
     "done": true
   },
@@ -170,17 +134,11 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bone_meal": {
+  "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "has_bone": "2025-04-08 02:20:45 +0000"
+      "minecraft:lush_caves": "2025-04-09 01:54:58 +0000"
     },
-    "done": true
-  },
-  "additionalguns:recipes/additionalguns/bullet_small": {
-    "criteria": {
-      "has_gunpowder": "2025-04-08 02:20:43 +0000"
-    },
-    "done": true
+    "done": false
   },
   "incendium:technical/using/ragnarok": {
     "criteria": {
@@ -188,9 +146,9 @@
     },
     "done": false
   },
-  "cgm:recipes/cgm/stun_grenade": {
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
-      "has_gunpowder": "2025-04-08 02:20:43 +0000"
+      "has_cobblestone": "2025-04-09 01:54:54 +0000"
     },
     "done": true
   },
@@ -206,33 +164,141 @@
     },
     "done": true
   },
-  "additionalguns:recipes/additionalguns/bullet_short": {
+  "minecraft:recipes/combat/stone_sword": {
     "criteria": {
-      "has_gunpowder": "2025-04-08 02:20:43 +0000"
+      "has_cobblestone": "2025-04-09 01:54:54 +0000"
     },
     "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
-      "log_spam_fixer": "2025-04-08 02:21:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-08 02:21:24 +0000"
-    },
-    "done": false
-  },
-  "additionalguns:recipes/additionalguns/bullet_special": {
-    "criteria": {
-      "has_gunpowder": "2025-04-08 02:20:43 +0000"
+      "has_cobblestone": "2025-04-09 01:54:54 +0000"
     },
     "done": true
   },
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2025-04-08 02:14:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-09 01:54:54 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/advanced_bullet": {
+    "criteria": {
+      "has_gunpowder": "2025-04-08 02:20:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-04-08 02:15:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-04-09 01:54:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-04-09 01:54:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-04-08 02:20:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-09 01:54:54 +0000"
+    },
+    "done": true
+  },
+  "ags_day_counter:day_counter_root_advancement": {
+    "criteria": {
+      "day_counter_root_advancement": "2025-04-08 02:14:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2025-04-09 01:54:54 +0000"
+    },
+    "done": true
+  },
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2025-04-08 02:14:09 +0000"
+    },
+    "done": true
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_by_something": "2025-04-08 02:15:30 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/basic_bullet": {
+    "criteria": {
+      "has_gunpowder": "2025-04-08 02:20:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-04-09 01:54:54 +0000"
+    },
+    "done": true
+  },
+  "parcool:grant_parcool_guide": {
+    "criteria": {
+      "tick": "2025-04-08 02:14:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-04-08 02:20:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-04-09 01:54:54 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/bullet_small": {
+    "criteria": {
+      "has_gunpowder": "2025-04-08 02:20:43 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/stun_grenade": {
+    "criteria": {
+      "has_gunpowder": "2025-04-08 02:20:43 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/bullet_short": {
+    "criteria": {
+      "has_gunpowder": "2025-04-08 02:20:43 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/bullet_special": {
+    "criteria": {
+      "has_gunpowder": "2025-04-08 02:20:43 +0000"
     },
     "done": true
   },
@@ -248,33 +314,15 @@
     },
     "done": true
   },
-  "cgm:recipes/cgm/advanced_bullet": {
-    "criteria": {
-      "has_gunpowder": "2025-04-08 02:20:43 +0000"
-    },
-    "done": true
-  },
   "cgm:recipes/cgm/shell": {
     "criteria": {
       "has_gunpowder": "2025-04-08 02:20:43 +0000"
     },
     "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/tools/stone_axe": {
     "criteria": {
-      "log_spam_fixer": "2025-04-08 02:21:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-08 02:21:24 +0000"
-    },
-    "done": false
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "2025-04-08 02:15:30 +0000"
+      "has_cobblestone": "2025-04-09 01:54:54 +0000"
     },
     "done": true
   },
@@ -284,23 +332,11 @@
     },
     "done": false
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-08 02:21:24 +0000"
-    },
-    "done": false
-  },
   "majruszsdifficulty:game_stage_normal": {
     "criteria": {
       "is_triggered": "2025-04-08 02:14:09 +0000"
     },
     "done": true
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-08 02:21:24 +0000"
-    },
-    "done": false
   },
   "DataVersion": 3120
 }
