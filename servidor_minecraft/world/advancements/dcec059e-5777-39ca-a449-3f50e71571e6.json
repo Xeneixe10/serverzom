@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-09 04:32:08 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-04-09 01:54:54 +0000"
@@ -857,6 +863,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-09 04:32:08 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-04-08 02:15:30 +0000"
@@ -978,6 +990,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-09 04:32:08 +0000"
+    },
+    "done": false
+  },
   "mekanism:root": {
     "criteria": {
       "automatic": "2025-04-08 02:14:09 +0000"
@@ -1080,6 +1098,12 @@
     },
     "done": true
   },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-09 04:32:08 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-04-09 02:28:10 +0000"
@@ -1163,6 +1187,12 @@
       "has_sand": "2025-04-09 02:29:45 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-09 04:32:08 +0000"
+    },
+    "done": false
   },
   "majruszsdifficulty:game_stage_normal": {
     "criteria": {
@@ -1295,6 +1325,12 @@
       "has_iron_ingot": "2025-04-09 03:39:58 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-09 04:32:08 +0000"
+    },
+    "done": false
   },
   "additionalguns:recipes/additionalguns/p250": {
     "criteria": {
@@ -1782,6 +1818,12 @@
     },
     "done": true
   },
+  "apocalypsenow:bobtheconstructor": {
+    "criteria": {
+      "bobtheconstructor": "2025-04-09 04:29:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:blaze": "2025-04-08 02:20:39 +0000",
@@ -1857,6 +1899,12 @@
     },
     "done": true
   },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-09 04:32:08 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/securitycraft/limited_use_keycard": {
     "criteria": {
       "has_iron": "2025-04-09 03:39:58 +0000"
@@ -1887,6 +1935,12 @@
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-09 04:32:08 +0000"
+    },
+    "done": false
+  },
   "cgm:recipes/cgm/missile": {
     "criteria": {
       "has_gunpowder": "2025-04-08 02:20:43 +0000"
@@ -1903,6 +1957,7 @@
     "criteria": {
       "minecraft:deep_ocean": "2025-04-09 03:11:23 +0000",
       "minecraft:beach": "2025-04-09 02:28:57 +0000",
+      "minecraft:dark_forest": "2025-04-09 04:27:24 +0000",
       "minecraft:sparse_jungle": "2025-04-09 02:34:55 +0000",
       "minecraft:lukewarm_ocean": "2025-04-09 02:52:55 +0000",
       "minecraft:river": "2025-04-09 02:52:54 +0000",
@@ -1996,6 +2051,12 @@
     },
     "done": true
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-09 04:32:08 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/securitycraft/motion_activated_light": {
     "criteria": {
       "has_stick": "2025-04-09 02:26:34 +0000"
@@ -2038,6 +2099,12 @@
     },
     "done": true
   },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-09 04:32:08 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-04-09 02:29:16 +0000"
@@ -2062,6 +2129,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-09 04:32:08 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-04-09 02:51:30 +0000"
@@ -2073,6 +2146,12 @@
       "has_iron_ingots": "2025-04-09 03:39:58 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-09 04:32:08 +0000"
+    },
+    "done": false
   },
   "additionalguns:recipes/additionalguns/mat_49": {
     "criteria": {

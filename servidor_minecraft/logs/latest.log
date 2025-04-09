@@ -13448,3 +13448,47 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [09Apr2025 04:28:30.565] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-211, y=61, z=554}
 [09Apr2025 04:28:30.879] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/540996, l='ServerLevel[world]', x=-130.65, y=59.61, z=432.38, removed=DISCARDED]
 [09Apr2025 04:28:31.071] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/540997, l='ServerLevel[world]', x=-131.59, y=58.53, z=432.34, removed=DISCARDED]
+[09Apr2025 04:29:30.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTermi04 has made the advancement [Bob the constructor]
+[09Apr2025 04:30:31.071] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/475848, l='ServerLevel[world]', x=66.36, y=56.24, z=462.64, removed=DISCARDED]
+[09Apr2025 04:30:31.071] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/475850, l='ServerLevel[world]', x=66.71, y=57.52, z=462.67, removed=DISCARDED]
+[09Apr2025 04:30:31.121] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/475849, l='ServerLevel[world]', x=67.35, y=56.45, z=462.44, removed=DISCARDED]
+[09Apr2025 04:30:31.121] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/475851, l='ServerLevel[world]', x=67.36, y=57.19, z=462.51, removed=DISCARDED]
+[09Apr2025 04:30:31.175] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/475854, l='ServerLevel[world]', x=67.65, y=60.40, z=462.31, removed=DISCARDED]
+[09Apr2025 04:30:31.175] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/475847, l='ServerLevel[world]', x=67.66, y=55.19, z=462.67, removed=DISCARDED]
+[09Apr2025 04:30:31.176] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/475853, l='ServerLevel[world]', x=67.65, y=59.59, z=462.34, removed=DISCARDED]
+[09Apr2025 04:30:34.575] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/495278, l='ServerLevel[world]', x=71.60, y=-43.51, z=483.69, removed=DISCARDED]
+[09Apr2025 04:31:27.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix died because of Crawler
+[09Apr2025 04:31:29.036] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/444315, l='ServerLevel[world]', x=506.41, y=3.00, z=538.88, removed=DISCARDED]
+[09Apr2025 04:32:17.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[09Apr2025 04:32:21.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElTermi04> zzz
+[09Apr2025 04:32:31.522] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElTermi04 lost connection: Disconnected
+[09Apr2025 04:32:31.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTermi04 left the game
+[09Apr2025 04:32:31.523] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of dcec059e-5777-39ca-a449-3f50e71571e6 was unloaded
+[09Apr2025 04:32:31.523] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ElTermi04
+[09Apr2025 04:32:31.605] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: qdrix lost connection: Disconnected
+[09Apr2025 04:32:31.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix left the game
+[09Apr2025 04:32:31.605] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e1a2164e-3385-3002-9d56-0820f595ae2a was unloaded
+[09Apr2025 04:32:31.606] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client qdrix
+[09Apr2025 04:33:04.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[09Apr2025 04:33:04.917] [Server thread/INFO] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: stop local service
+[09Apr2025 04:33:04.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[09Apr2025 04:33:04.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[09Apr2025 04:33:04.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[09Apr2025 04:33:06.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09Apr2025 04:33:06.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ava:southern
+[09Apr2025 04:33:06.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[09Apr2025 04:33:06.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09Apr2025 04:33:06.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ava:northern
+[09Apr2025 04:33:06.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ava:after_place
+[09Apr2025 04:33:06.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09Apr2025 04:33:06.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09Apr2025 04:33:06.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (southern): All chunks are saved
+[09Apr2025 04:33:06.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[09Apr2025 04:33:06.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09Apr2025 04:33:06.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (northern): All chunks are saved
+[09Apr2025 04:33:06.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (after_place): All chunks are saved
+[09Apr2025 04:33:06.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09Apr2025 04:33:06.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09Apr2025 04:33:06.698] [Server thread/INFO] [Framework/]: Unloading server configs...
+[09Apr2025 04:33:06.699] [Server thread/INFO] [configured/]: Unloading server configs...
+[09Apr2025 04:33:06.700] [Server thread/INFO] [configured/]: Sending config unload event for configured.developer.toml

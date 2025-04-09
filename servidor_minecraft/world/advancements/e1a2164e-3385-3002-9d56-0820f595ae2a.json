@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-04-09 04:30:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-04-09 02:51:08 +0000"
@@ -455,6 +461,12 @@
     },
     "done": true
   },
+  "ava:recipes/decorations/cobweb": {
+    "criteria": {
+      "has_string": "2025-04-09 04:30:43 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/ak74m": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 04:00:13 +0000"
@@ -485,9 +497,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-04-09 04:30:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:drowned": "2025-04-09 03:35:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-09 04:32:08 +0000"
     },
     "done": false
   },
@@ -629,6 +653,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:recipes/misc/bandage": {
+    "criteria": {
+      "has_string": "2025-04-09 04:30:43 +0000"
+    },
+    "done": true
+  },
   "projectarsenal:recipes/projectarsenal/m249": {
     "criteria": {
       "has_iron_ingots": "2025-04-09 04:00:13 +0000"
@@ -670,6 +700,12 @@
       "has_iron_ingot": "2025-04-09 04:00:13 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-09 04:32:08 +0000"
+    },
+    "done": false
   },
   "projectarsenal:recipes/projectarsenal/m231": {
     "criteria": {
@@ -764,6 +800,12 @@
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2025-04-09 02:38:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-04-09 04:30:43 +0000"
     },
     "done": true
   },
@@ -950,6 +992,12 @@
     },
     "done": true
   },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-09 04:32:08 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/securitycraft/limited_use_keycard": {
     "criteria": {
       "has_iron": "2025-04-09 04:00:13 +0000"
@@ -967,6 +1015,12 @@
       "has_cobblestone": "2025-04-09 02:34:37 +0000"
     },
     "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-09 04:32:08 +0000"
+    },
+    "done": false
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
@@ -1049,6 +1103,12 @@
       "has_iron_ingot": "2025-04-09 04:00:13 +0000"
     },
     "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-09 04:32:08 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
@@ -1188,6 +1248,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-09 04:32:08 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-04-09 02:34:37 +0000"
@@ -1245,6 +1311,12 @@
   "projectarsenal:recipes/projectarsenal/p90": {
     "criteria": {
       "has_iron_ingots": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-04-09 04:30:43 +0000"
     },
     "done": true
   },
@@ -1524,6 +1596,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-04-09 04:30:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-09 03:08:08 +0000"
@@ -1662,6 +1740,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-09 04:32:08 +0000"
+    },
+    "done": false
+  },
   "additionalguns:recipes/additionalguns/zerkalo_scope": {
     "criteria": {
       "has_redstone": "2025-04-09 04:00:06 +0000"
@@ -1764,6 +1848,12 @@
     },
     "done": true
   },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-09 04:32:08 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-04-09 02:35:54 +0000"
@@ -1812,6 +1902,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-09 04:32:08 +0000"
+    },
+    "done": false
+  },
   "majruszsdifficulty:game_stage_normal": {
     "criteria": {
       "is_triggered": "2025-04-09 02:21:45 +0000"
@@ -1857,6 +1953,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-04-09 03:02:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-04-09 04:30:43 +0000"
     },
     "done": true
   },
@@ -2250,6 +2352,12 @@
     },
     "done": true
   },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-09 04:32:08 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-04-09 02:31:53 +0000"
@@ -2274,6 +2382,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-09 04:32:08 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-04-09 02:54:29 +0000"
@@ -2285,6 +2399,12 @@
       "has_iron_ingots": "2025-04-09 04:00:13 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-09 04:32:08 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
