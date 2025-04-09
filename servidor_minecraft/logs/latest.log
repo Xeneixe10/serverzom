@@ -3422,3 +3422,50 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [09Apr2025 02:45:53.780] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [09Apr2025 02:47:26.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
 [09Apr2025 02:47:29.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[09Apr2025 02:49:07.118] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6b3e9c3f[id=<null>,name=axel,properties={},legacy=false] (/172.24.109.155:60773) lost connection: Disconnected
+[09Apr2025 02:49:52.870] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3fc81d19[id=<null>,name=axel,properties={},legacy=false] (/172.24.109.155:60821) lost connection: Disconnected
+[09Apr2025 02:51:53.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[09Apr2025 02:52:01.369] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6267db37[id=<null>,name=axel,properties={},legacy=false] (/172.24.109.155:60971) lost connection: Disconnected
+[09Apr2025 02:52:36.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[09Apr2025 02:52:50.066] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 5.996279716491699) to LOW (avg. 25.095382690429688)
+[09Apr2025 02:52:51.314] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from VERY_LOW (avg. 9.38241202) to LOW (avg. 16.07433642)
+[09Apr2025 02:52:56.174] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/136, l='ServerLevel[world]', x=-7.49, y=49.42, z=181.37, removed=DISCARDED]
+[09Apr2025 02:52:57.564] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.095382690429688) to VERY_LOW (avg. 19.507545471191406)
+[09Apr2025 02:53:02.623] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/150, l='ServerLevel[world]', x=75.49, y=-31.52, z=177.29, removed=DISCARDED]
+[09Apr2025 02:53:16.791] [Server thread/WARN] [cgm/]: literal{ElTermi04}(dcec059e-5777-39ca-a449-3f50e71571e6) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 86
+[09Apr2025 02:53:37.291] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/150, l='ServerLevel[world]', x=75.49, y=-31.52, z=177.29, removed=DISCARDED]
+[09Apr2025 02:53:49.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix was slain by Night Hunter
+[09Apr2025 02:54:11.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[09Apr2025 02:54:25.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[09Apr2025 02:54:31.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[09Apr2025 02:54:35.065] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 9.985003471374512) to LOW (avg. 20.477764129638672)
+[09Apr2025 02:54:37.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[09Apr2025 02:54:41.185] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/150, l='ServerLevel[world]', x=75.49, y=-31.52, z=177.29, removed=DISCARDED]
+[09Apr2025 02:54:42.565] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.477764129638672) to VERY_LOW (avg. 14.140625)
+[09Apr2025 02:54:44.884] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/136, l='ServerLevel[world]', x=-7.49, y=49.42, z=181.37, removed=DISCARDED]
+[09Apr2025 02:54:51.058] [Server thread/WARN] [cgm/]: literal{ElTermi04}(dcec059e-5777-39ca-a449-3f50e71571e6) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 98
+[09Apr2025 02:54:52.322] [Server thread/WARN] [cgm/]: literal{ElTermi04}(dcec059e-5777-39ca-a449-3f50e71571e6) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 76
+[09Apr2025 02:56:06.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set the weather to clear]
+[09Apr2025 02:56:15.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set the time to 1000]
+[09Apr2025 02:56:29.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Added 20.0 sanity to ElTermi04]
+[09Apr2025 02:56:31.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Added 20.0 sanity to ElTermi04]
+[09Apr2025 02:56:32.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Added 20.0 sanity to ElTermi04]
+[09Apr2025 02:56:33.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Added 20.0 sanity to ElTermi04]
+[09Apr2025 02:56:48.210] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/150, l='ServerLevel[world]', x=75.49, y=-31.52, z=177.29, removed=DISCARDED]
+[09Apr2025 02:56:49.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Added 20.0 sanity to qdrix]
+[09Apr2025 02:56:56.298] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/136, l='ServerLevel[world]', x=-7.49, y=49.42, z=181.37, removed=DISCARDED]
+[09Apr2025 02:57:05.730] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2ac09711
+[09Apr2025 02:57:05.735] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: axel[/172.24.109.155:61349] logged in with entity id 7175 at (-78.32647139618214, 68.7531999805212, 116.60501520137773)
+[09Apr2025 02:57:05.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: axel joined the game
+[09Apr2025 02:57:05.748] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/136, l='ServerLevel[world]', x=-7.49, y=49.42, z=181.37, removed=DISCARDED]
+[09Apr2025 02:57:05.799] [Server thread/INFO] [APTweaks(Player)/]: Player axel ServerPlayer['axel'/7175, l='ServerLevel[world]', x=-78.33, y=68.75, z=116.61] logged in and will be protected for 90 secs.
+[09Apr2025 02:57:05.800] [Server thread/INFO] [Jade/]: Syncing config to axel (34d47921-4a04-3f0d-9e05-51451c11bd23)
+[09Apr2025 02:57:10.631] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of axel (18)
+[09Apr2025 02:57:10.631] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to axel
+[09Apr2025 02:57:10.745] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 34d47921-4a04-3f0d-9e05-51451c11bd23 was loaded
+[09Apr2025 02:57:17.665] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 34d47921-4a04-3f0d-9e05-51451c11bd23
+[09Apr2025 02:57:18.666] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 34d47921-4a04-3f0d-9e05-51451c11bd23
+[09Apr2025 02:57:18.667] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player axel (34d47921-4a04-3f0d-9e05-51451c11bd23) successfully connected to voice chat
+[09Apr2025 02:57:26.665] [Server thread/INFO] [APTweaks(Player)/]: Protected Player axel was successful validated after 20 secs.
+[09Apr2025 02:57:26.665] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player axel!
+[09Apr2025 02:57:34.077] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/150, l='ServerLevel[world]', x=75.49, y=-31.52, z=177.29, removed=DISCARDED]
