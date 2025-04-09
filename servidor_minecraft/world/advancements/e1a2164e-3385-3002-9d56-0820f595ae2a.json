@@ -1,4 +1,10 @@
 {
+  "securitycraft:recipes/securitycraft/universal_block_remover": {
+    "criteria": {
+      "has_iron": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-04-09 02:51:08 +0000"
@@ -10,12 +16,6 @@
       "has_bricks": "2025-04-09 02:37:46 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-09 03:45:00 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
@@ -44,6 +44,24 @@
   "minecraft:recipes/decorations/brick_wall": {
     "criteria": {
       "has_bricks": "2025-04-09 02:37:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/akm_custom": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/panic_button": {
+    "criteria": {
+      "has_redstone": "2025-04-09 04:00:06 +0000"
     },
     "done": true
   },
@@ -77,9 +95,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/sentry": {
+    "criteria": {
+      "has_iron": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "ava:recipes/survival/spring": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
   "bunker_down:first_joined_world": {
     "criteria": {
       "first_joined_world": "2025-04-09 02:21:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
     },
     "done": true
   },
@@ -107,6 +143,18 @@
     },
     "done": true
   },
+  "projectarsenal:recipes/projectarsenal/markxix": {
+    "criteria": {
+      "has_iron_ingots": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "projectarsenal:recipes/projectarsenal/shrike": {
+    "criteria": {
+      "has_iron_ingots": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-04-09 02:27:38 +0000"
@@ -116,6 +164,30 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-04-09 02:31:53 +0000"
+    },
+    "done": true
+  },
+  "projectarsenal:recipes/projectarsenal/p90": {
+    "criteria": {
+      "has_iron_ingots": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/usp": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/vintorez": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-04-09 04:02:15 +0000"
     },
     "done": true
   },
@@ -131,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-04-09 02:28:56 +0000"
@@ -140,6 +218,12 @@
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-09 02:43:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_redstone_lamp": {
+    "criteria": {
+      "has_redstone": "2025-04-09 04:00:06 +0000"
     },
     "done": true
   },
@@ -167,9 +251,33 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/track_mine": {
+    "criteria": {
+      "has_iron": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-04-09 02:35:54 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/desert_eagle": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/m16a2": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
     },
     "done": true
   },
@@ -185,15 +293,57 @@
     },
     "done": true
   },
+  "projectarsenal:recipes/projectarsenal/cz75": {
+    "criteria": {
+      "has_iron_ingots": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/blacklist_module": {
+    "criteria": {
+      "has_iron": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/speed_module": {
+    "criteria": {
+      "has_iron": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
   "projectarsenal:recipes/projectarsenal/dp27": {
     "criteria": {
       "has_spruce_planks": "2025-04-09 03:18:40 +0000"
     },
     "done": true
   },
+  "additionalguns:recipes/additionalguns/muzzle_brake": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/electrified_iron_fence": {
+    "criteria": {
+      "has_iron": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2025-04-09 02:36:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/harming_module": {
+    "criteria": {
+      "has_iron": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "projectarsenal:recipes/projectarsenal/p250": {
+    "criteria": {
+      "has_iron_ingots": "2025-04-09 04:00:13 +0000"
     },
     "done": true
   },
@@ -209,9 +359,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/scar": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
   "mutantmonsters:root": {
     "criteria": {
       "killed_something": "2025-04-09 02:27:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keypad_frame": {
+    "criteria": {
+      "has_redstone": "2025-04-09 04:00:06 +0000"
     },
     "done": true
   },
@@ -227,9 +395,9 @@
     },
     "done": true
   },
-  "projectvibrantjourneys:recipes/building_blocks/jungle_planks": {
+  "minecraft:recipes/combat/shield": {
     "criteria": {
-      "has_logs": "2025-04-09 02:38:45 +0000"
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
     },
     "done": true
   },
@@ -239,9 +407,21 @@
     },
     "done": true
   },
+  "projectvibrantjourneys:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-04-09 02:38:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-04-09 03:34:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
     },
     "done": true
   },
@@ -257,15 +437,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-04-09 02:34:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2025-04-09 03:04:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+  "ava:recipes/survival/mechanical_components": {
     "criteria": {
-      "has_cobblestone": "2025-04-09 02:34:37 +0000"
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "projectarsenal:recipes/projectarsenal/scarh": {
+    "criteria": {
+      "has_redstone": "2025-04-09 04:00:06 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/m1014": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
     },
     "done": true
   },
@@ -281,15 +485,57 @@
     },
     "done": true
   },
+  "ava:recipes/survival/ceramic": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/holo_scope": {
+    "criteria": {
+      "has_redstone": "2025-04-09 04:00:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-04-09 02:50:11 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/taser": {
+    "criteria": {
+      "has_redstone": "2025-04-09 04:00:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-09 03:22:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-04-09 04:00:06 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/redstone_module": {
+    "criteria": {
+      "has_iron": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "ava:recipes/survival/work_hardened_iron": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "projectarsenal:recipes/projectarsenal/desert_eagle_classic": {
+    "criteria": {
+      "has_iron_ingots": "2025-04-09 04:00:13 +0000"
     },
     "done": true
   },
@@ -317,15 +563,27 @@
     },
     "done": false
   },
+  "cgm:recipes/cgm/machine_pistol": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-04-09 03:34:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_leggings": {
+  "additionalguns:recipes/additionalguns/magnum": {
     "criteria": {
-      "has_leather": "2025-04-09 03:34:33 +0000"
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-04-09 04:02:15 +0000"
     },
     "done": true
   },
@@ -335,9 +593,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-04-09 03:34:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-09 02:43:53 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/mp7": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/security_camera": {
+    "criteria": {
+      "has_iron": "2025-04-09 04:00:13 +0000"
     },
     "done": true
   },
@@ -359,6 +641,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/door_indestructible_iron_item": {
+    "criteria": {
+      "has_iron": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/trailblazer": {
     "criteria": {
       "log_spam_fixer": "2025-04-09 02:21:46 +0000"
@@ -374,6 +662,12 @@
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-04-09 03:06:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
     },
     "done": true
   },
@@ -395,6 +689,12 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/medium_scope": {
+    "criteria": {
+      "has_redstone": "2025-04-09 04:00:06 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/aks74u": {
     "criteria": {
       "has_planks": "2025-04-09 02:31:53 +0000"
@@ -413,9 +713,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/portable_radar": {
+    "criteria": {
+      "has_redstone": "2025-04-09 04:00:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-04-09 02:34:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-04-09 04:00:06 +0000"
     },
     "done": true
   },
@@ -425,9 +737,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/schwarzlose": {
     "criteria": {
       "has_oak_planks": "2025-04-09 03:08:08 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/awm": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
     },
     "done": true
   },
@@ -455,9 +779,27 @@
     },
     "done": true
   },
+  "additionalguns:recipes/additionalguns/ace_of_spades": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-04-09 02:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/kobra": {
+    "criteria": {
+      "has_redstone": "2025-04-09 04:00:06 +0000"
     },
     "done": true
   },
@@ -476,6 +818,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-04-09 02:51:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-04-09 04:00:06 +0000"
     },
     "done": true
   },
@@ -515,9 +863,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "ava:recipes/survival/fuse": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
       "has_planks": "2025-04-09 03:06:05 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/val": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
     },
     "done": true
   },
@@ -527,11 +899,11 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "projectarsenal:recipes/projectarsenal/mp1911": {
     "criteria": {
-      "log_spam_fixer": "2025-04-09 03:45:00 +0000"
+      "has_iron_ingots": "2025-04-09 04:00:13 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:adventure/root": {
     "criteria": {
@@ -545,15 +917,45 @@
     },
     "done": true
   },
+  "additionalguns:recipes/additionalguns/zerkalo_scope": {
+    "criteria": {
+      "has_redstone": "2025-04-09 04:00:06 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/m1911": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/ak74m": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "projectarsenal:recipes/projectarsenal/val": {
+    "criteria": {
+      "has_iron_ingots": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/storage_module": {
+    "criteria": {
+      "has_iron": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-09 02:43:53 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/item_frame": {
+  "additionalguns:recipes/additionalguns/aug": {
     "criteria": {
-      "has_leather": "2025-04-09 03:34:33 +0000"
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
     },
     "done": true
   },
@@ -563,9 +965,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-04-09 03:34:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-04-09 02:34:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-04-09 04:00:06 +0000"
+    },
+    "done": true
+  },
+  "projectarsenal:recipes/projectarsenal/akx_custom": {
+    "criteria": {
+      "has_iron_ingots": "2025-04-09 04:00:13 +0000"
     },
     "done": true
   },
@@ -575,15 +995,27 @@
     },
     "done": true
   },
+  "additionalguns:recipes/additionalguns/mac10": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/tactical_silencer": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "projectarsenal:recipes/projectarsenal/verticalgrip": {
+    "criteria": {
+      "has_iron_ingots": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:drowned": "2025-04-09 03:35:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-09 03:45:00 +0000"
     },
     "done": false
   },
@@ -599,9 +1031,45 @@
     },
     "done": true
   },
+  "projectarsenal:recipes/projectarsenal/aa12": {
+    "criteria": {
+      "has_iron_ingots": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "projectarsenal:recipes/projectarsenal/special_muzzle_break": {
+    "criteria": {
+      "has_iron_ingots": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-04-09 04:00:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-04-09 02:50:11 +0000"
+    },
+    "done": true
+  },
+  "projectarsenal:recipes/projectarsenal/vector": {
+    "criteria": {
+      "has_iron_ingots": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "ava:recipes/main/gun_crafting_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/9a91": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
     },
     "done": true
   },
@@ -629,15 +1097,21 @@
     },
     "done": true
   },
+  "additionalguns:recipes/additionalguns/angled_grip": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-09 03:22:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+  "ava:recipes/survival/fibre": {
     "criteria": {
-      "has_granite": "2025-04-09 02:50:11 +0000"
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
     },
     "done": true
   },
@@ -647,21 +1121,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-09 02:50:11 +0000"
+    },
+    "done": true
+  },
   "plastic_from_ava:recipes/survival/plastic": {
     "criteria": {
       "has_leather": "2025-04-09 03:34:33 +0000"
     },
     "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/decorations/chain": {
     "criteria": {
-      "log_spam_fixer": "2025-04-09 03:45:00 +0000"
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-04-09 02:35:54 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/g11": {
+    "criteria": {
+      "has_redstone": "2025-04-09 04:00:06 +0000"
     },
     "done": true
   },
@@ -695,6 +1181,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/universal_block_modifier": {
+    "criteria": {
+      "has_redstone": "2025-04-09 04:00:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-04-09 02:31:53 +0000"
@@ -707,9 +1199,33 @@
     },
     "done": true
   },
+  "additionalguns:recipes/additionalguns/vector": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "projectarsenal:recipes/projectarsenal/r2_suppressor": {
+    "criteria": {
+      "has_iron_ingots": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-04-09 03:08:08 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/mini_gun": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/rifle": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
     },
     "done": true
   },
@@ -719,15 +1235,15 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-09 03:45:00 +0000"
-    },
-    "done": false
-  },
   "majruszsdifficulty:game_stage_normal": {
     "criteria": {
       "is_triggered": "2025-04-09 02:21:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/claymore": {
+    "criteria": {
+      "has_redstone": "2025-04-09 04:00:06 +0000"
     },
     "done": true
   },
@@ -749,9 +1265,27 @@
     },
     "done": true
   },
+  "additionalguns:recipes/additionalguns/mp7a2": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv2": {
+    "criteria": {
+      "has_iron": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-09 02:38:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv1": {
+    "criteria": {
+      "has_iron": "2025-04-09 04:00:13 +0000"
     },
     "done": true
   },
@@ -761,9 +1295,45 @@
     },
     "done": true
   },
+  "projectarsenal:recipes/projectarsenal/m249": {
+    "criteria": {
+      "has_iron_ingots": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/bouncing_betty": {
+    "criteria": {
+      "has_iron": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "ava:recipes/survival/lens": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-09 03:06:05 +0000"
+    },
+    "done": true
+  },
+  "projectarsenal:recipes/projectarsenal/glock21": {
+    "criteria": {
+      "has_iron_ingots": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/universal_key_changer": {
+    "criteria": {
+      "has_redstone": "2025-04-09 04:00:06 +0000"
+    },
+    "done": true
+  },
+  "projectarsenal:recipes/projectarsenal/desert_eagle": {
+    "criteria": {
+      "has_iron_ingots": "2025-04-09 04:00:13 +0000"
     },
     "done": true
   },
@@ -785,11 +1355,23 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-09 03:45:00 +0000"
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/p250": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "projectarsenal:recipes/projectarsenal/m231": {
+    "criteria": {
+      "has_iron_ingots": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
@@ -809,9 +1391,45 @@
     },
     "done": true
   },
+  "additionalguns:recipes/additionalguns/ssg08": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv4": {
+    "criteria": {
+      "has_iron": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv3": {
+    "criteria": {
+      "has_iron": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-09 03:06:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv5": {
+    "criteria": {
+      "has_iron": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/m4a1s": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/username_logger": {
+    "criteria": {
+      "has_redstone": "2025-04-09 04:00:06 +0000"
     },
     "done": true
   },
@@ -833,6 +1451,12 @@
     },
     "done": true
   },
+  "additionalguns:recipes/additionalguns/glock18": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-09 02:43:53 +0000"
@@ -845,9 +1469,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/cage_trap": {
+    "criteria": {
+      "has_redstone": "2025-04-09 04:00:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_shell": "2025-04-09 03:34:34 +0000"
+    },
+    "done": true
+  },
+  "ava:recipes/survival/acetone_solution": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
     },
     "done": true
   },
@@ -863,6 +1499,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/universal_block_reinforcer_lvl2": {
+    "criteria": {
+      "has_redstone": "2025-04-09 04:00:06 +0000"
+    },
+    "done": true
+  },
   "ags_day_counter:day_counter_root_advancement": {
     "criteria": {
       "day_counter_root_advancement": "2025-04-09 02:21:45 +0000"
@@ -875,15 +1517,75 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/universal_block_reinforcer_lvl1": {
+    "criteria": {
+      "has_redstone": "2025-04-09 04:00:06 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/smart_module": {
+    "criteria": {
+      "has_iron": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-04-09 02:36:34 +0000"
     },
     "done": true
   },
+  "cgm:recipes/cgm/workbench": {
+    "criteria": {
+      "has_iron": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/universal_block_reinforcer_lvl3": {
+    "criteria": {
+      "has_redstone": "2025-04-09 04:00:06 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/assault_rifle": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
       "has_planks": "2025-04-09 02:38:50 +0000"
+    },
+    "done": true
+  },
+  "projectarsenal:recipes/projectarsenal/m9": {
+    "criteria": {
+      "has_iron_ingots": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/fn2000": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/ots_03": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/block_change_detector": {
+    "criteria": {
+      "has_iron": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
     },
     "done": true
   },
@@ -911,6 +1613,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/bazooka": {
+    "criteria": {
+      "has_redstone": "2025-04-09 04:00:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-04-09 02:37:40 +0000"
@@ -935,9 +1649,33 @@
     },
     "done": true
   },
+  "additionalguns:recipes/additionalguns/ak15": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-04-09 02:37:46 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/shotgun": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "projectarsenal:recipes/projectarsenal/unica_m6": {
+    "criteria": {
+      "has_iron_ingots": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/ak12": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
     },
     "done": true
   },
@@ -947,9 +1685,27 @@
     },
     "done": true
   },
+  "projectarsenal:recipes/projectarsenal/arx160": {
+    "criteria": {
+      "has_iron_ingots": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/m4a4": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-04-09 03:07:55 +0000"
+    },
+    "done": true
+  },
+  "projectarsenal:recipes/projectarsenal/skeletongrip": {
+    "criteria": {
+      "has_iron_ingots": "2025-04-09 04:00:13 +0000"
     },
     "done": true
   },
@@ -974,6 +1730,24 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/upgrade_base": {
     "criteria": {
       "has_leather": "2025-04-09 03:34:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-04-09 04:00:06 +0000"
+    },
+    "done": true
+  },
+  "projectarsenal:recipes/projectarsenal/mp5a4": {
+    "criteria": {
+      "has_iron_ingots": "2025-04-09 04:00:13 +0000"
     },
     "done": true
   },
@@ -1025,6 +1799,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2025-04-09 04:00:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_chainmail_leggings": "2025-04-09 03:34:32 +0000"
@@ -1043,15 +1823,39 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-04-09 02:34:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2025-04-09 03:05:36 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_diorite": {
+  "securitycraft:recipes/securitycraft/trophy_system": {
     "criteria": {
-      "has_cobblestone": "2025-04-09 02:34:37 +0000"
+      "has_iron": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "projectarsenal:recipes/projectarsenal/auto9": {
+    "criteria": {
+      "has_iron_ingots": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-04-09 04:00:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-04-09 04:00:06 +0000"
     },
     "done": true
   },
@@ -1094,21 +1898,57 @@
     },
     "done": true
   },
+  "ava:recipes/survival/compressed_wood": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/custom_mac": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/camera_monitor": {
+    "criteria": {
+      "has_iron": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-04-09 03:08:08 +0000"
     },
     "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-09 03:45:00 +0000"
-    },
-    "done": false
-  },
   "rottencreatures:recipes/rottencreatures.rottencreatures/tnt_barrel": {
     "criteria": {
       "has_barrel": "2025-04-09 03:23:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/limited_use_keycard": {
+    "criteria": {
+      "has_iron": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/banshee": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "ava:recipes/main/mastery_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "projectarsenal:recipes/projectarsenal/famas": {
+    "criteria": {
+      "has_iron_ingots": "2025-04-09 04:00:13 +0000"
     },
     "done": true
   },
@@ -1118,11 +1958,11 @@
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
+  "ava:recipes/survival/smoke_powder": {
     "criteria": {
-      "log_spam_fixer": "2025-04-09 03:45:00 +0000"
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
@@ -1132,12 +1972,19 @@
       "minecraft:sparse_jungle": "2025-04-09 02:32:26 +0000",
       "minecraft:lukewarm_ocean": "2025-04-09 02:54:40 +0000",
       "minecraft:river": "2025-04-09 02:55:04 +0000",
+      "minecraft:forest": "2025-04-09 03:58:56 +0000",
       "minecraft:lush_caves": "2025-04-09 03:32:46 +0000",
       "minecraft:jungle": "2025-04-09 03:41:14 +0000",
       "minecraft:ocean": "2025-04-09 02:54:33 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-09 02:30:54 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/book": {
     "criteria": {
@@ -1150,6 +1997,12 @@
       "log_spam_fixer": "2025-04-09 02:21:46 +0000"
     },
     "done": false
+  },
+  "securitycraft:recipes/securitycraft/whitelist_module": {
+    "criteria": {
+      "has_iron": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
@@ -1169,9 +2022,21 @@
     },
     "done": true
   },
+  "projectarsenal:recipes/projectarsenal/maxim9": {
+    "criteria": {
+      "has_iron_ingots": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2025-04-09 02:21:45 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/grenade_launcher": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
     },
     "done": true
   },
@@ -1181,11 +2046,11 @@
     },
     "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
-      "log_spam_fixer": "2025-04-09 03:45:00 +0000"
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
@@ -1205,9 +2070,27 @@
     },
     "done": true
   },
+  "additionalguns:recipes/additionalguns/usas12": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-04-09 02:54:29 +0000"
+    },
+    "done": true
+  },
+  "ava:recipes/main/builders_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/pistol": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
     },
     "done": true
   },
@@ -1217,15 +2100,15 @@
     },
     "done": true
   },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-09 03:45:00 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-04-09 02:31:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/mine": {
+    "criteria": {
+      "has_iron": "2025-04-09 04:00:13 +0000"
     },
     "done": true
   },
@@ -1235,11 +2118,11 @@
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
-      "log_spam_fixer": "2025-04-09 03:45:00 +0000"
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
@@ -1247,11 +2130,17 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "projectarsenal:recipes/projectarsenal/m1911": {
     "criteria": {
-      "log_spam_fixer": "2025-04-09 03:45:00 +0000"
+      "has_iron_ingots": "2025-04-09 04:00:13 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-04-09 02:38:50 +0000"
+    },
+    "done": true
   },
   "additionalguns:recipes/additionalguns/mat_49": {
     "criteria": {
@@ -1259,9 +2148,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/jungle_door": {
+  "cgm:recipes/cgm/heavy_rifle": {
     "criteria": {
-      "has_planks": "2025-04-09 02:38:50 +0000"
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/short_scope": {
+    "criteria": {
+      "has_redstone": "2025-04-09 04:00:06 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/tactical_muzzle_brake": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
     },
     "done": true
   },
@@ -1277,9 +2178,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/jungle_fence_gate": {
+  "additionalguns:recipes/additionalguns/ravens_claw": {
     "criteria": {
-      "has_planks": "2025-04-09 02:38:50 +0000"
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/pp_19": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
     },
     "done": true
   },
@@ -1289,9 +2196,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-09 02:38:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-04-09 02:50:11 +0000"
+    },
+    "done": true
+  },
+  "ava:recipes/main/gun_colouring_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "projectarsenal:recipes/projectarsenal/prismatic": {
+    "criteria": {
+      "has_iron_ingots": "2025-04-09 04:00:13 +0000"
     },
     "done": true
   },
@@ -1307,6 +2232,30 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/briefcase": {
+    "criteria": {
+      "has_iron": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-04-09 04:00:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-04-09 04:02:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-09 03:18:40 +0000"
@@ -1316,6 +2265,18 @@
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2025-04-09 03:16:06 +0000"
+    },
+    "done": true
+  },
+  "ava:recipes/main/gun_modifying_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_fence_gate": {
+    "criteria": {
+      "has_iron": "2025-04-09 04:00:13 +0000"
     },
     "done": true
   },
@@ -1331,9 +2292,51 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/alarm": {
+    "criteria": {
+      "has_redstone": "2025-04-09 04:00:06 +0000"
+    },
+    "done": true
+  },
+  "ava:recipes/survival/silicon": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-04-09 02:34:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/disguise_module": {
+    "criteria": {
+      "has_iron": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/ak104": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/ak105": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "projectarsenal:recipes/projectarsenal/aug_a3c": {
+    "criteria": {
+      "has_iron_ingots": "2025-04-09 04:00:13 +0000"
     },
     "done": true
   },

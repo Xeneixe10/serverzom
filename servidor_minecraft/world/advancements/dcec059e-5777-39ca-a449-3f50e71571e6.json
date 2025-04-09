@@ -961,6 +961,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:zombie": "2025-04-09 03:46:27 +0000",
       "minecraft:drowned": "2025-04-09 02:57:57 +0000"
     },
     "done": false
@@ -1355,6 +1356,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-04-09 03:47:13 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/m4a1s": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 03:39:58 +0000"
@@ -1400,6 +1407,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-09 02:29:45 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:bleeding_inflicted": {
+    "criteria": {
+      "bleeding_applied": "2025-04-09 03:55:34 +0000"
     },
     "done": true
   },

@@ -6826,3 +6826,118 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [09Apr2025 03:47:37.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Spectator Mode]
 [09Apr2025 03:47:48.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
 [09Apr2025 03:47:59.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: axel died because of Runner
+[09Apr2025 03:49:02.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[09Apr2025 03:49:10.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[09Apr2025 03:49:37.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[09Apr2025 03:50:00.726] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2996082a
+[09Apr2025 03:50:00.729] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: qdrix[/172.24.22.218:63941] logged in with entity id 445598 at (-244.2375258227033, 91.41999998688698, 230.3516769756402)
+[09Apr2025 03:50:00.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix joined the game
+[09Apr2025 03:50:00.754] [Server thread/INFO] [APTweaks(Player)/]: Player qdrix ServerPlayer['qdrix'/445598, l='ServerLevel[world]', x=-244.24, y=91.42, z=230.35] logged in and will be protected for 90 secs.
+[09Apr2025 03:50:00.754] [Server thread/INFO] [Jade/]: Syncing config to qdrix (e1a2164e-3385-3002-9d56-0820f595ae2a)
+[09Apr2025 03:50:00.766] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3239, l='ServerLevel[world]', x=-213.67, y=21.32, z=248.41, removed=DISCARDED]
+[09Apr2025 03:50:00.766] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/42268, l='ServerLevel[world]', x=-273.66, y=-2.00, z=265.88, removed=DISCARDED]
+[09Apr2025 03:50:00.766] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/42290, l='ServerLevel[world]', x=-292.05, y=81.50, z=251.17, removed=DISCARDED]
+[09Apr2025 03:50:00.770] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/6348, l='ServerLevel[world]', x=-244.60, y=21.62, z=244.53, removed=DISCARDED]
+[09Apr2025 03:50:00.770] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/6349, l='ServerLevel[world]', x=-252.40, y=21.13, z=245.52, removed=DISCARDED]
+[09Apr2025 03:50:00.770] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/10581, l='ServerLevel[world]', x=-242.00, y=21.00, z=246.88, removed=DISCARDED]
+[09Apr2025 03:50:03.724] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of qdrix (18)
+[09Apr2025 03:50:03.724] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to qdrix
+[09Apr2025 03:50:03.976] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e1a2164e-3385-3002-9d56-0820f595ae2a was loaded
+[09Apr2025 03:50:12.143] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e1a2164e-3385-3002-9d56-0820f595ae2a
+[09Apr2025 03:50:13.215] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e1a2164e-3385-3002-9d56-0820f595ae2a
+[09Apr2025 03:50:13.216] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player qdrix (e1a2164e-3385-3002-9d56-0820f595ae2a) successfully connected to voice chat
+[09Apr2025 03:50:16.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: axel has made the advancement [Acquire Hardware]
+[09Apr2025 03:50:21.715] [Server thread/INFO] [APTweaks(Player)/]: Protected Player qdrix was successful validated after 20 secs.
+[09Apr2025 03:50:21.716] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player qdrix!
+[09Apr2025 03:50:40.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[09Apr2025 03:51:11.662] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3422, l='ServerLevel[world]', x=-206.88, y=-39.00, z=76.12, removed=DISCARDED]
+[09Apr2025 03:51:29.526] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/45679, l='ServerLevel[world]', x=-118.22, y=45.00, z=236.42, removed=DISCARDED]
+[09Apr2025 03:51:29.610] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/45677, l='ServerLevel[world]', x=-117.69, y=44.00, z=236.22, removed=DISCARDED]
+[09Apr2025 03:51:31.315] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.513874053955078) to LOW (avg. 22.592548370361328)
+[09Apr2025 03:51:46.316] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.592548370361328) to VERY_LOW (avg. 17.133161544799805)
+[09Apr2025 03:51:51.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[09Apr2025 03:52:01.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[09Apr2025 03:52:23.816] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.76683807373047) to LOW (avg. 20.783180236816406)
+[09Apr2025 03:52:38.816] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.783180236816406) to VERY_LOW (avg. 12.826701164245605)
+[09Apr2025 03:53:47.859] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/200, l='ServerLevel[world]', x=133.71, y=9.19, z=181.69, removed=DISCARDED]
+[09Apr2025 03:53:47.859] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/193, l='ServerLevel[world]', x=133.65, y=7.39, z=181.42, removed=DISCARDED]
+[09Apr2025 03:53:47.859] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/202, l='ServerLevel[world]', x=133.72, y=10.35, z=181.54, removed=DISCARDED]
+[09Apr2025 03:53:47.909] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/181, l='ServerLevel[world]', x=133.26, y=4.43, z=181.54, removed=DISCARDED]
+[09Apr2025 03:53:47.959] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/189, l='ServerLevel[world]', x=133.30, y=6.40, z=181.74, removed=DISCARDED]
+[09Apr2025 03:53:47.959] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/177, l='ServerLevel[world]', x=133.34, y=3.31, z=181.73, removed=DISCARDED]
+[09Apr2025 03:53:48.403] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/175, l='ServerLevel[world]', x=140.43, y=1.58, z=189.29, removed=DISCARDED]
+[09Apr2025 03:53:48.404] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/191, l='ServerLevel[world]', x=140.49, y=5.41, z=189.32, removed=DISCARDED]
+[09Apr2025 03:53:48.404] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/179, l='ServerLevel[world]', x=140.33, y=2.31, z=189.33, removed=DISCARDED]
+[09Apr2025 03:53:48.456] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/195, l='ServerLevel[world]', x=140.48, y=6.21, z=189.68, removed=DISCARDED]
+[09Apr2025 03:53:48.456] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/183, l='ServerLevel[world]', x=140.70, y=3.28, z=189.64, removed=DISCARDED]
+[09Apr2025 03:53:48.456] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/187, l='ServerLevel[world]', x=140.36, y=4.36, z=189.59, removed=DISCARDED]
+[09Apr2025 03:53:48.556] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/188, l='ServerLevel[world]', x=140.74, y=5.42, z=190.30, removed=DISCARDED]
+[09Apr2025 03:53:48.606] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/196, l='ServerLevel[world]', x=140.48, y=7.62, z=190.39, removed=DISCARDED]
+[09Apr2025 03:53:48.606] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/184, l='ServerLevel[world]', x=140.64, y=4.22, z=190.65, removed=DISCARDED]
+[09Apr2025 03:53:48.656] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/199, l='ServerLevel[world]', x=140.70, y=8.48, z=190.72, removed=DISCARDED]
+[09Apr2025 03:53:48.656] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/176, l='ServerLevel[world]', x=140.41, y=2.42, z=190.67, removed=DISCARDED]
+[09Apr2025 03:53:48.656] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/172, l='ServerLevel[world]', x=140.72, y=1.37, z=190.71, removed=DISCARDED]
+[09Apr2025 03:53:48.859] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3024, l='ServerLevel[world]', x=192.31, y=-39.68, z=208.58, removed=DISCARDED]
+[09Apr2025 03:53:48.960] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3026, l='ServerLevel[world]', x=192.35, y=-39.78, z=209.32, removed=DISCARDED]
+[09Apr2025 03:53:48.960] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/190, l='ServerLevel[world]', x=137.61, y=6.42, z=190.32, removed=DISCARDED]
+[09Apr2025 03:53:49.030] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/174, l='ServerLevel[world]', x=137.29, y=2.47, z=190.40, removed=DISCARDED]
+[09Apr2025 03:53:49.030] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/178, l='ServerLevel[world]', x=137.58, y=3.27, z=190.44, removed=DISCARDED]
+[09Apr2025 03:53:49.030] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/186, l='ServerLevel[world]', x=137.30, y=5.37, z=190.35, removed=DISCARDED]
+[09Apr2025 03:53:49.030] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/198, l='ServerLevel[world]', x=137.32, y=8.58, z=190.39, removed=DISCARDED]
+[09Apr2025 03:53:49.110] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1249, l='ServerLevel[world]', x=154.57, y=1.16, z=201.26, removed=DISCARDED]
+[09Apr2025 03:53:49.110] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1247, l='ServerLevel[world]', x=154.64, y=0.27, z=201.43, removed=DISCARDED]
+[09Apr2025 03:53:49.229] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1251, l='ServerLevel[world]', x=154.52, y=2.17, z=201.72, removed=DISCARDED]
+[09Apr2025 03:53:49.280] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3027, l='ServerLevel[world]', x=192.62, y=-39.64, z=211.57, removed=DISCARDED]
+[09Apr2025 03:53:49.280] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3025, l='ServerLevel[world]', x=194.43, y=-39.79, z=211.53, removed=DISCARDED]
+[09Apr2025 03:53:49.556] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1281, l='ServerLevel[world]', x=135.85, y=11.93, z=192.02, removed=DISCARDED]
+[09Apr2025 03:53:49.607] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1250, l='ServerLevel[world]', x=154.54, y=1.42, z=204.39, removed=DISCARDED]
+[09Apr2025 03:53:49.607] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1248, l='ServerLevel[world]', x=154.64, y=0.52, z=204.34, removed=DISCARDED]
+[09Apr2025 03:53:49.607] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1254, l='ServerLevel[world]', x=154.53, y=4.38, z=204.36, removed=DISCARDED]
+[09Apr2025 03:53:49.659] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1252, l='ServerLevel[world]', x=154.43, y=2.15, z=204.61, removed=DISCARDED]
+[09Apr2025 03:53:49.659] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1273, l='ServerLevel[world]', x=154.56, y=-0.68, z=204.44, removed=DISCARDED]
+[09Apr2025 03:53:49.961] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1246, l='ServerLevel[world]', x=153.39, y=0.54, z=205.71, removed=DISCARDED]
+[09Apr2025 03:53:51.456] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3006, l='ServerLevel[world]', x=189.73, y=-39.47, z=227.31, removed=DISCARDED]
+[09Apr2025 03:53:51.556] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3009, l='ServerLevel[world]', x=187.35, y=-39.48, z=227.67, removed=DISCARDED]
+[09Apr2025 03:53:52.205] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2807, l='ServerLevel[world]', x=200.62, y=-39.82, z=233.57, removed=DISCARDED]
+[09Apr2025 03:53:52.307] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2804, l='ServerLevel[world]', x=201.28, y=-39.63, z=234.42, removed=DISCARDED]
+[09Apr2025 03:53:52.307] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2808, l='ServerLevel[world]', x=199.33, y=-39.40, z=234.58, removed=DISCARDED]
+[09Apr2025 03:53:52.713] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2800, l='ServerLevel[world]', x=202.63, y=-39.81, z=237.62, removed=DISCARDED]
+[09Apr2025 03:53:52.751] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1244, l='ServerLevel[world]', x=130.57, y=-31.57, z=202.43, removed=DISCARDED]
+[09Apr2025 03:53:52.855] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2812, l='ServerLevel[world]', x=199.49, y=-39.66, z=238.46, removed=DISCARDED]
+[09Apr2025 03:53:52.958] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1243, l='ServerLevel[world]', x=130.58, y=-31.61, z=203.26, removed=DISCARDED]
+[09Apr2025 03:53:53.361] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1242, l='ServerLevel[world]', x=129.73, y=-31.74, z=203.56, removed=DISCARDED]
+[09Apr2025 03:53:53.502] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1240, l='ServerLevel[world]', x=129.34, y=-30.71, z=203.60, removed=DISCARDED]
+[09Apr2025 03:54:11.809] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/293111, l='ServerLevel[world]', x=418.49, y=33.84, z=119.55, removed=DISCARDED]
+[09Apr2025 03:55:03.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Added 70.0 sanity to ElTermi04]
+[09Apr2025 03:55:34.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTermi04 has made the advancement [Bloodthirsty]
+[09Apr2025 03:56:02.556] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/293111, l='ServerLevel[world]', x=418.49, y=33.84, z=119.55, removed=DISCARDED]
+[09Apr2025 03:56:10.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Spectator Mode]
+[09Apr2025 03:57:09.156] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/293111, l='ServerLevel[world]', x=418.49, y=33.84, z=119.55, removed=DISCARDED]
+[09Apr2025 03:57:11.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Added 70.0 sanity to ElTermi04]
+[09Apr2025 03:57:24.059] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/293111, l='ServerLevel[world]', x=418.49, y=33.84, z=119.55, removed=DISCARDED]
+[09Apr2025 03:57:34.304] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/452388, l='ServerLevel[world]', x=531.85, y=-54.00, z=-71.88, removed=DISCARDED]
+[09Apr2025 03:57:34.304] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/452390, l='ServerLevel[world]', x=531.88, y=-54.00, z=-71.88, removed=DISCARDED]
+[09Apr2025 03:57:43.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix died because of Rotting Stalker
+[09Apr2025 03:57:52.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: axel starved to death whilst fighting Rotting Stalker
+[09Apr2025 03:58:08.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix died because of Runner
+[09Apr2025 03:58:10.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Gamerule keepInventory is now set to: true]
+[09Apr2025 03:58:14.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Killed ElTermi04]
+[09Apr2025 03:58:21.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTermi04 died
+[09Apr2025 03:58:25.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[09Apr2025 03:58:29.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Gamerule keepInventory is now set to: false]
+[09Apr2025 03:58:30.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix was slain by Runner
+[09Apr2025 04:00:13.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix has made the advancement [Acquire Hardware]
+[09Apr2025 04:01:23.815] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.7365083694458) to LOW (avg. 20.67684555053711)
+[09Apr2025 04:01:31.314] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.67684555053711) to VERY_LOW (avg. 13.894314765930176)
+[09Apr2025 04:02:57.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: axel was slain by Rotting Stalker
+[09Apr2025 04:03:04.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <axel> zzz
+[09Apr2025 04:03:07.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <axel> zzz
+[09Apr2025 04:03:20.723] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[09Apr2025 04:03:52.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: axel died because of Skeleton
+[09Apr2025 04:04:47.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix was slain by Blister Zombie
+[09Apr2025 04:05:25.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix was slain by Looter
+[09Apr2025 04:07:04.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: axel was slain by Looter
+[09Apr2025 04:07:14.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix died because of Infected Military
+[09Apr2025 04:07:52.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[09Apr2025 04:08:04.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[09Apr2025 04:08:06.148] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
