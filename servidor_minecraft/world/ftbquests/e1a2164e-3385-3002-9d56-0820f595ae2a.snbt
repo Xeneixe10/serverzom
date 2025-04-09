@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "e1a2164e338530029d560820f595ae2a"
+	name: "qdrix"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

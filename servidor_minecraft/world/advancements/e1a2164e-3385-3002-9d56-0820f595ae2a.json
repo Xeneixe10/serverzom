@@ -1,0 +1,63 @@
+{
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2025-04-09 02:21:45 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-09 02:21:46 +0000"
+    },
+    "done": false
+  },
+  "bunker_down:first_joined_world": {
+    "criteria": {
+      "first_joined_world": "2025-04-09 02:21:46 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-09 02:21:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-09 02:21:46 +0000"
+    },
+    "done": false
+  },
+  "ags_day_counter:day_counter_root_advancement": {
+    "criteria": {
+      "day_counter_root_advancement": "2025-04-09 02:21:45 +0000"
+    },
+    "done": true
+  },
+  "parcool:grant_parcool_guide": {
+    "criteria": {
+      "tick": "2025-04-09 02:21:45 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_normal": {
+    "criteria": {
+      "is_triggered": "2025-04-09 02:21:45 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2025-04-09 02:21:45 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-09 02:21:46 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}

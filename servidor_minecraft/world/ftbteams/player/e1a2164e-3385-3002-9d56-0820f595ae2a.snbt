@@ -1,0 +1,17 @@
+{
+	id: "e1a2164e-3385-3002-9d56-0820f595ae2a"
+	type: "player"
+	player_name: "qdrix"
+	ranks: {
+		e1a2164e-3385-3002-9d56-0820f595ae2a: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "qdrix"
+		"ftbteams:description": ""
+		"ftbteams:color": "#F359FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

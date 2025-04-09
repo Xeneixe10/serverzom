@@ -1394,3 +1394,124 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [09Apr2025 02:16:54.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
 [09Apr2025 02:17:00.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
 [09Apr2025 02:17:14.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set the time to 1000]
+[09Apr2025 02:20:58.433] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=33, z=0}
+[09Apr2025 02:21:36.527] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=33, z=0}
+[09Apr2025 02:21:37.478] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=33, z=0}
+[09Apr2025 02:21:38.081] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=33, z=0}
+[09Apr2025 02:21:45.569] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6bcec8b7
+[09Apr2025 02:21:45.572] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: qdrix[/172.24.22.218:59199] logged in with entity id 2063 at (0.5, 78.0, 8.5)
+[09Apr2025 02:21:45.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix joined the game
+[09Apr2025 02:21:45.721] [Server thread/INFO] [APTweaks(Player)/]: Player qdrix ServerPlayer['qdrix'/2063, l='ServerLevel[world]', x=0.50, y=78.00, z=8.50] logged in and will be protected for 90 secs.
+[09Apr2025 02:21:45.722] [Server thread/INFO] [Jade/]: Syncing config to qdrix (e1a2164e-3385-3002-9d56-0820f595ae2a)
+[09Apr2025 02:21:46.564] [Server thread/INFO] [APTweaks(Player)/]: Protected Player qdrix was successful validated after 0 secs.
+[09Apr2025 02:21:46.565] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player qdrix!
+[09Apr2025 02:21:50.310] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of qdrix (18)
+[09Apr2025 02:21:50.311] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to qdrix
+[09Apr2025 02:21:50.404] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e1a2164e-3385-3002-9d56-0820f595ae2a was loaded
+[09Apr2025 02:21:58.512] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e1a2164e-3385-3002-9d56-0820f595ae2a
+[09Apr2025 02:21:59.526] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e1a2164e-3385-3002-9d56-0820f595ae2a
+[09Apr2025 02:21:59.528] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player qdrix (e1a2164e-3385-3002-9d56-0820f595ae2a) successfully connected to voice chat
+[09Apr2025 02:23:40.370] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/item/UseAnim
+[09Apr2025 02:24:00.378] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1, y=34, z=12}
+[09Apr2025 02:24:00.882] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1, y=34, z=12}
+[09Apr2025 02:24:07.773] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1, y=34, z=12}
+[09Apr2025 02:24:20.922] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:20.922] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:21.522] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:21.522] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:22.122] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:22.122] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:22.722] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:22.722] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:23.320] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:23.320] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:23.920] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:23.920] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:24.522] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:24.522] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:25.118] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:25.119] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:25.721] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:25.721] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:26.320] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:26.320] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:26.923] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:26.924] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:27.522] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:27.522] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:28.120] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:28.121] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:28.723] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:28.723] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:29.320] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:29.320] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:29.920] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:29.920] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:30.522] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:30.522] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:31.121] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:31.121] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:31.725] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:31.725] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:32.321] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:32.321] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:32.919] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:32.919] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:33.521] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:33.521] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:34.119] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:34.119] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:34.723] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:34.723] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:35.319] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:35.319] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:24:45.427] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=33, z=12}
+[09Apr2025 02:24:45.679] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=33, z=13}
+[09Apr2025 02:24:45.729] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=33, z=14}
+[09Apr2025 02:24:45.822] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=32, z=14}
+[09Apr2025 02:24:46.122] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=33, z=12}
+[09Apr2025 02:24:46.379] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=32, z=14}
+[09Apr2025 02:24:46.479] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=32, z=13}
+[09Apr2025 02:24:46.624] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=33, z=12}
+[09Apr2025 02:24:47.128] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=32, z=13}
+[09Apr2025 02:24:47.179] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=32, z=14}
+[09Apr2025 02:24:47.222] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=32, z=14}
+[09Apr2025 02:24:47.274] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=32, z=15}
+[09Apr2025 02:25:30.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[09Apr2025 02:25:33.921] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:25:33.921] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:25:37.921] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:25:37.921] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:25:41.919] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:25:41.919] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:25:42.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[09Apr2025 02:25:45.922] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:25:45.922] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:25:49.921] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:25:49.921] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:25:53.923] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:25:53.923] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:25:57.923] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:25:57.923] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:26:01.696] [Worker-Main-17/WARN] [ModernFix/]: The namespace structory contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[09Apr2025 02:26:01.696] [Worker-Main-17/INFO] [ModernFix/]: Instantiating Mojang DFU
+[09Apr2025 02:26:01.979] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:26:01.979] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:26:02.019] [Worker-Main-17/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[09Apr2025 02:26:02.128] [Worker-Main-17/WARN] [ModernFix/]: The namespace nullscape contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[09Apr2025 02:26:06.287] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:26:06.287] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:26:09.921] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:26:09.921] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:26:14.328] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:26:14.328] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:26:17.949] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:26:17.950] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:26:21.461] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=136, y=-36, z=225} but found not block entity block Block{minecraft:water}[level=1] at location
+[09Apr2025 02:26:21.461] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=136, y=-36, z=225}
+[09Apr2025 02:26:22.446] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:26:26.130] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[09Apr2025 02:26:26.339] [Worker-Main-16/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/projectvibrantjourneys/util/PortalType
+[09Apr2025 02:26:33.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: axel died because of ElTermi04
+[09Apr2025 02:27:02.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set the time to 1000]
+[09Apr2025 02:27:18.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Teleported axel to ElTermi04]

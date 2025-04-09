@@ -1,19 +1,19 @@
 {
-  "mekanism:root": {
+  "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
-      "automatic": "2025-04-09 02:11:49 +0000"
+      "has_gunpowder": "2025-04-09 02:21:46 +0000"
     },
     "done": true
   },
-  "incendium:technical/using/ragnarok": {
+  "minecraft:recipes/redstone/tnt": {
     "criteria": {
-      "log_spam_fixer": "2025-04-09 02:11:50 +0000"
+      "has_gunpowder": "2025-04-09 02:21:46 +0000"
     },
-    "done": false
+    "done": true
   },
-  "bunker_down:first_joined_world": {
+  "additionalguns:recipes/additionalguns/bullet_heavy": {
     "criteria": {
-      "first_joined_world": "2025-04-09 02:11:49 +0000"
+      "has_gunpowder": "2025-04-09 02:21:46 +0000"
     },
     "done": true
   },
@@ -23,15 +23,63 @@
     },
     "done": false
   },
-  "incendium:technical/using/shield": {
+  "cgm:recipes/cgm/grenade": {
+    "criteria": {
+      "has_gunpowder": "2025-04-09 02:21:46 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/bullet_medium": {
+    "criteria": {
+      "has_gunpowder": "2025-04-09 02:21:46 +0000"
+    },
+    "done": true
+  },
+  "ags_day_counter:day_counter_root_advancement": {
+    "criteria": {
+      "day_counter_root_advancement": "2025-04-09 02:11:49 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
     "criteria": {
       "log_spam_fixer": "2025-04-09 02:11:50 +0000"
     },
     "done": false
   },
-  "ags_day_counter:day_counter_root_advancement": {
+  "rottencreatures:recipes/rottencreatures.rottencreatures/tnt_barrel": {
     "criteria": {
-      "day_counter_root_advancement": "2025-04-09 02:11:49 +0000"
+      "has_gunpowder": "2025-04-09 02:21:46 +0000"
+    },
+    "done": true
+  },
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2025-04-09 02:11:49 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/bullet_long": {
+    "criteria": {
+      "has_gunpowder": "2025-04-09 02:21:46 +0000"
+    },
+    "done": true
+  },
+  "bunker_down:first_joined_world": {
+    "criteria": {
+      "first_joined_world": "2025-04-09 02:11:49 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/basic_bullet": {
+    "criteria": {
+      "has_gunpowder": "2025-04-09 02:21:46 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/missile": {
+    "criteria": {
+      "has_gunpowder": "2025-04-09 02:21:46 +0000"
     },
     "done": true
   },
@@ -41,9 +89,39 @@
     },
     "done": true
   },
-  "majruszsdifficulty:game_stage_normal": {
+  "additionalguns:recipes/additionalguns/bullet_small": {
     "criteria": {
-      "is_triggered": "2025-04-09 02:11:49 +0000"
+      "has_gunpowder": "2025-04-09 02:21:46 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-09 02:11:50 +0000"
+    },
+    "done": false
+  },
+  "cgm:recipes/cgm/stun_grenade": {
+    "criteria": {
+      "has_gunpowder": "2025-04-09 02:21:46 +0000"
+    },
+    "done": true
+  },
+  "projectarsenal:recipes/projectarsenal/mossou": {
+    "criteria": {
+      "has_gunpowder": "2025-04-09 02:21:46 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/bullet_short": {
+    "criteria": {
+      "has_gunpowder": "2025-04-09 02:21:46 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/bullet_special": {
+    "criteria": {
+      "has_gunpowder": "2025-04-09 02:21:46 +0000"
     },
     "done": true
   },
@@ -53,11 +131,41 @@
     },
     "done": true
   },
-  "incendium:technical/scroll_of_returning": {
+  "projectarsenal:recipes/projectarsenal/desert_eagle_classic": {
+    "criteria": {
+      "has_gunpowder": "2025-04-09 02:21:46 +0000"
+    },
+    "done": true
+  },
+  "ava:recipes/survival/packed_gunpowder": {
+    "criteria": {
+      "has_gunpowder": "2025-04-09 02:21:46 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/advanced_bullet": {
+    "criteria": {
+      "has_gunpowder": "2025-04-09 02:21:46 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/shell": {
+    "criteria": {
+      "has_gunpowder": "2025-04-09 02:21:46 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/shield": {
     "criteria": {
       "log_spam_fixer": "2025-04-09 02:11:50 +0000"
     },
     "done": false
+  },
+  "majruszsdifficulty:game_stage_normal": {
+    "criteria": {
+      "is_triggered": "2025-04-09 02:11:49 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3120
 }
