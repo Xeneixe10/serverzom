@@ -409,6 +409,12 @@
     },
     "done": true
   },
+  "ags_day_counter:tenth_day_advancement": {
+    "criteria": {
+      "tenth_day_advancement": "2025-04-11 03:36:27 +0000"
+    },
+    "done": true
+  },
   "parcool:grant_parcool_guide": {
     "criteria": {
       "tick": "2025-04-09 02:11:49 +0000"
