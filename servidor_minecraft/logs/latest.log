@@ -1384,3 +1384,38 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [11Apr2025 01:44:56.250] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ElTermi04 (dcec059e-5777-39ca-a449-3f50e71571e6) successfully connected to voice chat
 [11Apr2025 01:45:02.392] [Server thread/INFO] [APTweaks(Player)/]: Protected Player ElTermi04 was successful validated after 11 secs.
 [11Apr2025 01:45:02.392] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player ElTermi04!
+[11Apr2025 01:47:27.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix was slain by Soldier
+[11Apr2025 01:47:51.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix was slain by Runner
+[11Apr2025 01:48:06.349] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElTermi04 lost connection: Disconnected
+[11Apr2025 01:48:06.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTermi04 left the game
+[11Apr2025 01:48:06.351] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of dcec059e-5777-39ca-a449-3f50e71571e6 was unloaded
+[11Apr2025 01:48:06.353] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ElTermi04
+[11Apr2025 01:49:34.658] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@126323
+[11Apr2025 01:49:34.665] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElTermi04[/172.24.55.145:58500] logged in with entity id 5839 at (472.435772554927, 201.5625, 327.10686248743394)
+[11Apr2025 01:49:34.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTermi04 joined the game
+[11Apr2025 01:49:34.713] [Server thread/INFO] [APTweaks(Player)/]: Player ElTermi04 ServerPlayer['ElTermi04'/5839, l='ServerLevel[world]', x=472.44, y=201.56, z=327.11] logged in and will be protected for 90 secs.
+[11Apr2025 01:49:34.714] [Server thread/INFO] [Jade/]: Syncing config to ElTermi04 (dcec059e-5777-39ca-a449-3f50e71571e6)
+[11Apr2025 01:49:34.901] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ElTermi04 (18)
+[11Apr2025 01:49:34.901] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ElTermi04
+[11Apr2025 01:49:34.913] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of dcec059e-5777-39ca-a449-3f50e71571e6 was loaded
+[11Apr2025 01:49:36.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix was slain by Runner
+[11Apr2025 01:49:37.180] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player dcec059e-5777-39ca-a449-3f50e71571e6
+[11Apr2025 01:49:38.187] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player dcec059e-5777-39ca-a449-3f50e71571e6
+[11Apr2025 01:49:38.188] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ElTermi04 (dcec059e-5777-39ca-a449-3f50e71571e6) successfully connected to voice chat
+[11Apr2025 01:49:39.141] [Server thread/INFO] [APTweaks(Player)/]: Protected Player ElTermi04 was successful validated after 4 secs.
+[11Apr2025 01:49:39.141] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player ElTermi04!
+[11Apr2025 01:49:42.703] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/item/UseAnim
+[11Apr2025 01:50:23.317] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/LastSeenMessagesValidator$ErrorCondition
+[11Apr2025 01:50:23.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Removed every effect from ElTermi04]
+[11Apr2025 01:50:46.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix was doomed to fall by Walker
+[11Apr2025 01:51:27.500] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElTermi04 moved too quickly! -1.1034956020279196,-14.93010965600665,-0.2828574452454973
+[11Apr2025 01:51:30.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[11Apr2025 01:51:40.591] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.56475830078125) to LOW (avg. 21.700279235839844)
+[11Apr2025 01:51:41.235] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] Game difficulty is set to NORMAL with a 1.0 factor.
+[11Apr2025 01:51:41.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: The difficulty has been set to Normal]
+[11Apr2025 01:51:55.591] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.700279235839844) to VERY_LOW (avg. 8.353249549865723)
+[11Apr2025 01:53:22.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix died because of Runner
+[11Apr2025 01:53:50.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[11Apr2025 01:55:55.747] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[11Apr2025 01:55:59.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[11Apr2025 01:56:05.152] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mrcrayfish/guns/item/attachment/IAttachment$Type
