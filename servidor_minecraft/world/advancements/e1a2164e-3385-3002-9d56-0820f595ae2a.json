@@ -371,6 +371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-04-11 01:56:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-04-09 02:40:47 +0000"
@@ -1314,6 +1320,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-04-11 01:59:53 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/desert_eagle": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 04:00:13 +0000"
@@ -1323,6 +1335,12 @@
   "additionalguns:recipes/additionalguns/m16a2": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-04-11 01:59:35 +0000"
     },
     "done": true
   },
@@ -2415,6 +2433,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-04-11 01:59:35 +0000"
     },
     "done": true
   },

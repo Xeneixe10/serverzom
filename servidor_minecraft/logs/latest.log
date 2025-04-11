@@ -1419,3 +1419,52 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [11Apr2025 01:55:55.747] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
 [11Apr2025 01:55:59.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
 [11Apr2025 01:56:05.152] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mrcrayfish/guns/item/attachment/IAttachment$Type
+[11Apr2025 01:58:52.257] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6e589eba
+[11Apr2025 01:58:52.262] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: axel[/172.24.109.155:63867] logged in with entity id 10080 at (291.69999998807907, 87.0, -469.6953700014906)
+[11Apr2025 01:58:52.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: axel joined the game
+[11Apr2025 01:58:52.303] [Server thread/INFO] [APTweaks(Player)/]: Player axel ServerPlayer['axel'/10080, l='ServerLevel[world]', x=291.70, y=87.00, z=-469.70] logged in and will be protected for 90 secs.
+[11Apr2025 01:58:52.303] [Server thread/INFO] [Jade/]: Syncing config to axel (34d47921-4a04-3f0d-9e05-51451c11bd23)
+[11Apr2025 01:58:55.591] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 7.818991184234619) to LOW (avg. 23.178478240966797)
+[11Apr2025 01:58:56.323] [Worker-Main-2/WARN] [ModernFix/]: The namespace structory contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[11Apr2025 01:58:56.324] [Worker-Main-2/INFO] [ModernFix/]: Instantiating Mojang DFU
+[11Apr2025 01:58:56.663] [Worker-Main-2/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[11Apr2025 01:58:57.636] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of axel (18)
+[11Apr2025 01:58:57.637] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to axel
+[11Apr2025 01:58:57.920] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 34d47921-4a04-3f0d-9e05-51451c11bd23 was loaded
+[11Apr2025 01:59:03.091] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.178478240966797) to VERY_LOW (avg. 15.629343032836914)
+[11Apr2025 01:59:12.342] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 34d47921-4a04-3f0d-9e05-51451c11bd23
+[11Apr2025 01:59:13.345] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 34d47921-4a04-3f0d-9e05-51451c11bd23
+[11Apr2025 01:59:13.345] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player axel (34d47921-4a04-3f0d-9e05-51451c11bd23) successfully connected to voice chat
+[11Apr2025 01:59:21.340] [Server thread/INFO] [APTweaks(Player)/]: Protected Player axel was successful validated after 29 secs.
+[11Apr2025 01:59:21.341] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player axel!
+[11Apr2025 01:59:25.850] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[11Apr2025 02:00:25.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: axel died because of Runner
+[11Apr2025 02:00:33.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[11Apr2025 02:01:10.729] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Note
+[11Apr2025 02:01:10.729] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Octave
+[11Apr2025 02:01:16.626] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: axel lost connection: Disconnected
+[11Apr2025 02:01:16.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: axel left the game
+[11Apr2025 02:01:16.626] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 34d47921-4a04-3f0d-9e05-51451c11bd23 was unloaded
+[11Apr2025 02:01:16.627] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client axel
+[11Apr2025 02:01:16.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Kicked axel: Kicked by an operator]
+[11Apr2025 02:01:16.656] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[11Apr2025 02:01:57.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Killed ElTermi04]
+[11Apr2025 02:02:03.104] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@57b94a8c
+[11Apr2025 02:02:03.108] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: axel[/172.24.109.155:57408] logged in with entity id 53433 at (261.8052036049517, 79.0, -119.26282953457454)
+[11Apr2025 02:02:03.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: axel joined the game
+[11Apr2025 02:02:03.164] [Server thread/INFO] [APTweaks(Player)/]: Player axel ServerPlayer['axel'/53433, l='ServerLevel[world]', x=261.81, y=79.00, z=-119.26] logged in and will be protected for 90 secs.
+[11Apr2025 02:02:03.164] [Server thread/INFO] [Jade/]: Syncing config to axel (34d47921-4a04-3f0d-9e05-51451c11bd23)
+[11Apr2025 02:02:03.333] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of axel (18)
+[11Apr2025 02:02:03.334] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to axel
+[11Apr2025 02:02:03.353] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 34d47921-4a04-3f0d-9e05-51451c11bd23 was loaded
+[11Apr2025 02:02:07.317] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 34d47921-4a04-3f0d-9e05-51451c11bd23
+[11Apr2025 02:02:08.317] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 34d47921-4a04-3f0d-9e05-51451c11bd23
+[11Apr2025 02:02:08.318] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player axel (34d47921-4a04-3f0d-9e05-51451c11bd23) successfully connected to voice chat
+[11Apr2025 02:02:09.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTermi04 died
+[11Apr2025 02:02:11.491] [Server thread/INFO] [APTweaks(Player)/]: Protected Player axel was successful validated after 8 secs.
+[11Apr2025 02:02:11.491] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player axel!
+[11Apr2025 02:02:24.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix drowned
+[11Apr2025 02:03:39.060] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
+[11Apr2025 02:03:41.001] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[11Apr2025 02:05:37.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[11Apr2025 02:05:51.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
