@@ -547,7 +547,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-11 03:05:15 +0000"
+      "log_spam_fixer": "2025-04-11 03:18:16 +0000"
     },
     "done": false
   },
@@ -650,6 +650,12 @@
   "additionalguns:recipes/additionalguns/g11": {
     "criteria": {
       "has_redstone": "2025-04-09 04:00:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-11 03:08:31 +0000"
     },
     "done": true
   },
@@ -769,7 +775,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-11 03:05:15 +0000"
+      "log_spam_fixer": "2025-04-11 03:18:16 +0000"
     },
     "done": false
   },
@@ -1078,7 +1084,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-11 03:05:15 +0000"
+      "log_spam_fixer": "2025-04-11 03:18:16 +0000"
     },
     "done": false
   },
@@ -1102,7 +1108,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-11 03:05:15 +0000"
+      "log_spam_fixer": "2025-04-11 03:18:16 +0000"
     },
     "done": false
   },
@@ -1117,6 +1123,7 @@
       "minecraft:old_growth_pine_taiga": "2025-04-09 02:34:20 +0000",
       "minecraft:deep_ocean": "2025-04-09 03:12:40 +0000",
       "minecraft:beach": "2025-04-09 02:28:48 +0000",
+      "minecraft:dark_forest": "2025-04-11 03:07:19 +0000",
       "minecraft:sparse_jungle": "2025-04-09 02:32:26 +0000",
       "minecraft:lukewarm_ocean": "2025-04-09 02:54:40 +0000",
       "minecraft:river": "2025-04-09 02:55:04 +0000",
@@ -1196,7 +1203,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-11 03:05:15 +0000"
+      "log_spam_fixer": "2025-04-11 03:18:16 +0000"
     },
     "done": false
   },
@@ -1233,6 +1240,12 @@
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2025-04-09 03:04:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-11 03:08:31 +0000"
     },
     "done": true
   },
@@ -1352,7 +1365,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-11 03:05:15 +0000"
+      "log_spam_fixer": "2025-04-11 03:18:16 +0000"
     },
     "done": false
   },
@@ -1886,7 +1899,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-11 03:05:15 +0000"
+      "log_spam_fixer": "2025-04-11 03:18:16 +0000"
     },
     "done": false
   },
@@ -1994,7 +2007,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-11 03:05:15 +0000"
+      "log_spam_fixer": "2025-04-11 03:18:16 +0000"
     },
     "done": false
   },
@@ -2048,7 +2061,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-11 03:05:15 +0000"
+      "log_spam_fixer": "2025-04-11 03:18:16 +0000"
     },
     "done": false
   },
@@ -2510,7 +2523,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-11 03:05:15 +0000"
+      "log_spam_fixer": "2025-04-11 03:18:16 +0000"
     },
     "done": false
   },
@@ -2540,7 +2553,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-11 03:05:15 +0000"
+      "log_spam_fixer": "2025-04-11 03:18:16 +0000"
     },
     "done": false
   },
@@ -2558,7 +2571,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-04-11 03:05:15 +0000"
+      "log_spam_fixer": "2025-04-11 03:18:16 +0000"
     },
     "done": false
   },

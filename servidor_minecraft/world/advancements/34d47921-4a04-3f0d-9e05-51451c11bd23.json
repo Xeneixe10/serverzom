@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-11 03:18:16 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2025-04-11 02:52:32 +0000"
@@ -188,6 +194,12 @@
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-04-09 02:31:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-04-11 03:18:12 +0000"
     },
     "done": true
   },
@@ -787,6 +799,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-11 03:18:16 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-04-09 02:26:33 +0000"
@@ -888,6 +906,12 @@
       "lightning_rod_with_villager_no_fire": "2025-04-09 03:11:28 +0000"
     },
     "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-11 03:18:16 +0000"
+    },
+    "done": false
   },
   "mekanism:root": {
     "criteria": {
@@ -997,6 +1021,12 @@
     },
     "done": true
   },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-11 03:18:16 +0000"
+    },
+    "done": false
+  },
   "additionalguns:recipes/additionalguns/g11": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 03:50:16 +0000"
@@ -1068,6 +1098,12 @@
       "has_iron_ingot": "2025-04-09 03:50:16 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-11 03:18:16 +0000"
+    },
+    "done": false
   },
   "majruszsdifficulty:game_stage_normal": {
     "criteria": {
@@ -1212,6 +1248,12 @@
       "has_iron_ingot": "2025-04-09 03:50:16 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-11 03:18:16 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
@@ -1471,6 +1513,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-04-11 03:18:12 +0000"
+    },
+    "done": true
+  },
   "projectarsenal:recipes/projectarsenal/arx160": {
     "criteria": {
       "has_iron_ingots": "2025-04-09 03:50:16 +0000"
@@ -1666,6 +1714,12 @@
     },
     "done": true
   },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-11 03:18:16 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/securitycraft/limited_use_keycard": {
     "criteria": {
       "has_iron": "2025-04-09 03:50:16 +0000"
@@ -1695,6 +1749,12 @@
       "has_cobblestone": "2025-04-11 03:03:18 +0000"
     },
     "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-11 03:18:16 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
@@ -1733,6 +1793,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 03:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-04-11 03:18:12 +0000"
     },
     "done": true
   },
@@ -1808,6 +1874,12 @@
     },
     "done": true
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-11 03:18:16 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/securitycraft/motion_activated_light": {
     "criteria": {
       "has_stick": "2025-04-09 02:31:30 +0000"
@@ -1850,6 +1922,12 @@
     },
     "done": true
   },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-11 03:18:16 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-04-09 03:46:22 +0000"
@@ -1874,6 +1952,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-11 03:18:16 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-04-09 02:32:42 +0000"
@@ -1891,6 +1975,12 @@
       "has_white_wool": "2025-04-11 02:52:32 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-11 03:18:16 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
