@@ -1468,3 +1468,28 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [11Apr2025 02:03:41.001] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
 [11Apr2025 02:05:37.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
 [11Apr2025 02:05:51.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[11Apr2025 02:08:02.081] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[11Apr2025 02:08:02.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <axel> zzz
+[11Apr2025 02:08:35.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[11Apr2025 02:08:55.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[11Apr2025 02:10:03.091] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 8.608427047729492) to LOW (avg. 21.17023277282715)
+[11Apr2025 02:10:10.592] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.17023277282715) to VERY_LOW (avg. 9.441548347473145)
+[11Apr2025 02:10:55.590] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.202238082885742) to LOW (avg. 32.03230667114258)
+[11Apr2025 02:11:10.591] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 32.03230667114258) to VERY_LOW (avg. 19.496009826660156)
+[11Apr2025 02:11:26.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[11Apr2025 02:11:45.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[11Apr2025 02:11:48.142] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 12.329550743103027) to LOW (avg. 29.924884796142578)
+[11Apr2025 02:11:55.591] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 29.924884796142578) to VERY_LOW (avg. 12.4729642868042)
+[11Apr2025 02:12:18.142] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.16391658782959) to NORMAL (avg. 42.91990661621094)
+[11Apr2025 02:12:25.591] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.91990661621094) to VERY_LOW (avg. 15.420379638671875)
+[11Apr2025 02:13:03.112] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.360968589782715) to LOW (avg. 29.89369773864746)
+[11Apr2025 02:13:18.091] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 29.89369773864746) to VERY_LOW (avg. 10.482308387756348)
+[11Apr2025 02:13:33.091] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 10.482308387756348) to LOW (avg. 24.783872604370117)
+[11Apr2025 02:13:40.590] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.783872604370117) to VERY_LOW (avg. 11.346808433532715)
+[11Apr2025 02:13:55.616] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.346808433532715) to LOW (avg. 32.320777893066406)
+[11Apr2025 02:13:57.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTermi04 has made the advancement [Keep Going]
+[11Apr2025 02:14:23.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: axel was slain by qdrix
+[11Apr2025 02:14:33.091] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.12188720703125) to VERY_LOW (avg. 8.58573055267334)
+[11Apr2025 02:15:02.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix was slain by axel
+[11Apr2025 02:16:53.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[11Apr2025 02:17:00.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
