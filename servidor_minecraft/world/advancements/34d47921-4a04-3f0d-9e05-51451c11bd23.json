@@ -11,11 +11,23 @@
     },
     "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
-      "log_spam_fixer": "2025-04-11 02:43:54 +0000"
+      "has_white_wool": "2025-04-11 02:52:32 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-04-11 03:03:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-04-11 03:03:18 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
@@ -56,6 +68,12 @@
   "additionalguns:recipes/additionalguns/unica": {
     "criteria": {
       "has_planks": "2025-04-09 02:31:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-04-11 02:52:32 +0000"
     },
     "done": true
   },
@@ -128,6 +146,12 @@
   "projectarsenal:recipes/projectarsenal/p90": {
     "criteria": {
       "has_iron_ingots": "2025-04-09 03:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-11 02:52:32 +0000"
     },
     "done": true
   },
@@ -221,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-11 02:52:32 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/m16a2": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 03:50:16 +0000"
@@ -281,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-11 02:58:41 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/electrified_iron_fence": {
     "criteria": {
       "has_iron": "2025-04-09 03:50:16 +0000"
@@ -296,6 +332,12 @@
   "projectarsenal:recipes/projectarsenal/p250": {
     "criteria": {
       "has_iron_ingots": "2025-04-09 03:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-11 02:52:32 +0000"
     },
     "done": true
   },
@@ -343,6 +385,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-04-11 03:03:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-04-09 03:11:45 +0000"
@@ -370,6 +418,12 @@
   "ava:recipes/survival/mechanical_components": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 03:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-04-11 03:03:18 +0000"
     },
     "done": true
   },
@@ -430,6 +484,12 @@
   "projectarsenal:recipes/projectarsenal/desert_eagle_classic": {
     "criteria": {
       "has_gunpowder": "2025-04-09 02:21:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-04-11 02:52:32 +0000"
     },
     "done": true
   },
@@ -553,6 +613,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-11 02:52:32 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/aks74u": {
     "criteria": {
       "has_planks": "2025-04-09 02:31:08 +0000"
@@ -571,9 +637,21 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-04-11 03:03:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 03:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-04-11 03:03:18 +0000"
     },
     "done": true
   },
@@ -619,6 +697,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-11 02:52:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-04-09 02:31:30 +0000"
@@ -628,6 +712,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 03:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-04-11 03:03:18 +0000"
     },
     "done": true
   },
@@ -697,12 +787,6 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-11 02:43:54 +0000"
-    },
-    "done": false
-  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-04-09 02:26:33 +0000"
@@ -769,6 +853,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-11 03:03:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-04-09 03:18:14 +0000"
@@ -798,12 +888,6 @@
       "lightning_rod_with_villager_no_fire": "2025-04-09 03:11:28 +0000"
     },
     "done": true
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-11 02:43:54 +0000"
-    },
-    "done": false
   },
   "mekanism:root": {
     "criteria": {
@@ -850,6 +934,12 @@
   "additionalguns:recipes/additionalguns/9a91": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 03:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-04-11 02:52:32 +0000"
     },
     "done": true
   },
@@ -906,12 +996,6 @@
       "has_iron_ingot": "2025-04-09 03:50:16 +0000"
     },
     "done": true
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-11 02:43:54 +0000"
-    },
-    "done": false
   },
   "additionalguns:recipes/additionalguns/g11": {
     "criteria": {
@@ -985,12 +1069,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-11 02:43:54 +0000"
-    },
-    "done": false
-  },
   "majruszsdifficulty:game_stage_normal": {
     "criteria": {
       "is_triggered": "2025-04-09 02:11:49 +0000"
@@ -1012,6 +1090,12 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-04-09 03:18:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-11 02:52:32 +0000"
     },
     "done": true
   },
@@ -1039,6 +1123,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-11 02:52:32 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:recipes/misc/bandage": {
     "criteria": {
       "has_string": "2025-04-09 03:48:35 +0000"
@@ -1063,6 +1153,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-11 02:52:32 +0000"
+    },
+    "done": true
+  },
   "ava:recipes/survival/lens": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 03:50:16 +0000"
@@ -1072,6 +1168,12 @@
   "projectarsenal:recipes/projectarsenal/glock21": {
     "criteria": {
       "has_iron_ingots": "2025-04-09 03:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-11 02:52:32 +0000"
     },
     "done": true
   },
@@ -1111,11 +1213,11 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:recipes/decorations/painting": {
     "criteria": {
-      "log_spam_fixer": "2025-04-11 02:43:54 +0000"
+      "has_wool": "2025-04-11 02:52:32 +0000"
     },
-    "done": false
+    "done": true
   },
   "additionalguns:recipes/additionalguns/p250": {
     "criteria": {
@@ -1171,9 +1273,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-11 02:52:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-04-09 02:31:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-04-11 03:03:18 +0000"
     },
     "done": true
   },
@@ -1204,6 +1318,12 @@
   "ags_day_counter:day_counter_root_advancement": {
     "criteria": {
       "day_counter_root_advancement": "2025-04-09 02:11:49 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2025-04-11 03:03:18 +0000"
     },
     "done": true
   },
@@ -1417,6 +1537,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-11 02:52:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-09 03:23:35 +0000"
@@ -1450,6 +1576,12 @@
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2025-04-09 02:31:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-04-11 03:03:18 +0000"
     },
     "done": true
   },
@@ -1534,12 +1666,6 @@
     },
     "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-11 02:43:54 +0000"
-    },
-    "done": false
-  },
   "securitycraft:recipes/securitycraft/limited_use_keycard": {
     "criteria": {
       "has_iron": "2025-04-09 03:50:16 +0000"
@@ -1564,11 +1690,11 @@
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
+  "minecraft:recipes/building_blocks/stone": {
     "criteria": {
-      "log_spam_fixer": "2025-04-11 02:43:54 +0000"
+      "has_cobblestone": "2025-04-11 03:03:18 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
@@ -1628,9 +1754,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-04-11 03:03:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-04-09 02:31:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-04-11 03:03:18 +0000"
     },
     "done": true
   },
@@ -1652,6 +1790,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-11 03:03:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 03:50:16 +0000"
@@ -1663,12 +1807,6 @@
       "has_planks": "2025-04-09 02:31:50 +0000"
     },
     "done": true
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-11 02:43:54 +0000"
-    },
-    "done": false
   },
   "securitycraft:recipes/securitycraft/motion_activated_light": {
     "criteria": {
@@ -1700,11 +1838,17 @@
     },
     "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-11 02:43:54 +0000"
+      "shot_arrow": "2025-04-11 03:00:44 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-04-11 03:03:18 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
@@ -1730,12 +1874,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-11 02:43:54 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-04-09 02:32:42 +0000"
@@ -1748,11 +1886,11 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
-      "log_spam_fixer": "2025-04-11 02:43:54 +0000"
+      "has_white_wool": "2025-04-11 02:52:32 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
@@ -1886,6 +2024,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-11 02:52:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-11 02:52:32 +0000"
+    },
+    "done": true
+  },
   "ava:recipes/survival/packed_gunpowder": {
     "criteria": {
       "has_gunpowder": "2025-04-09 02:21:46 +0000"
@@ -1913,6 +2063,12 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-04-11 02:33:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-11 03:03:18 +0000"
     },
     "done": true
   },
