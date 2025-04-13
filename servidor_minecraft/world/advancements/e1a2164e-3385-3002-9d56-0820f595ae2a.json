@@ -629,6 +629,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-13 02:39:11 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/9a91": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 04:00:13 +0000"
@@ -1333,6 +1339,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-04-13 02:42:10 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/heavy_rifle": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 04:00:13 +0000"
@@ -1695,6 +1707,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cookie": "2025-04-13 02:40:10 +0000",
       "melon_slice": "2025-04-11 02:26:40 +0000"
     },
     "done": false
@@ -2320,6 +2333,12 @@
   "securitycraft:recipes/securitycraft/keycard_lv5": {
     "criteria": {
       "has_iron": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-04-13 02:39:11 +0000"
     },
     "done": true
   },
