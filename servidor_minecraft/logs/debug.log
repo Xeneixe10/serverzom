@@ -10673,3 +10673,20 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [13Apr2025 02:49:04.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix died because of Runner
 [13Apr2025 02:49:04.468] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful qdrix
 [13Apr2025 02:49:06.856] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa qdrix
+[13Apr2025 02:49:57.372] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 02:49:57.384] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 02:51:09.541] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/278034, l='ServerLevel[world]', x=-482.86, y=65.17, z=164.57, removed=DISCARDED]
+[13Apr2025 02:51:09.541] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/278033, l='ServerLevel[world]', x=-482.86, y=65.17, z=164.57, removed=DISCARDED]
+[13Apr2025 02:51:09.542] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/278037, l='ServerLevel[world]', x=-482.86, y=65.17, z=164.57, removed=DISCARDED]
+[13Apr2025 02:51:09.542] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/278031, l='ServerLevel[world]', x=-482.86, y=65.17, z=164.57, removed=DISCARDED]
+[13Apr2025 02:51:09.542] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/278032, l='ServerLevel[world]', x=-482.86, y=65.17, z=164.57, removed=DISCARDED]
+[13Apr2025 02:54:57.350] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 02:54:57.363] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 02:56:16.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix was slain by Walker
+[13Apr2025 02:56:16.039] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful qdrix
+[13Apr2025 02:56:17.578] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa qdrix
+[13Apr2025 02:57:44.685] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/278034, l='ServerLevel[world]', x=-482.86, y=65.17, z=164.57, removed=DISCARDED]
+[13Apr2025 02:57:44.685] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/278033, l='ServerLevel[world]', x=-482.86, y=65.17, z=164.57, removed=DISCARDED]
+[13Apr2025 02:57:44.685] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/278037, l='ServerLevel[world]', x=-482.86, y=65.17, z=164.57, removed=DISCARDED]
+[13Apr2025 02:57:44.686] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/278031, l='ServerLevel[world]', x=-482.86, y=65.17, z=164.57, removed=DISCARDED]
+[13Apr2025 02:57:44.686] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/278032, l='ServerLevel[world]', x=-482.86, y=65.17, z=164.57, removed=DISCARDED]

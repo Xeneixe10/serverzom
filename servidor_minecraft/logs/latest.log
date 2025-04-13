@@ -1465,3 +1465,14 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [13Apr2025 02:48:43.173] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.724525451660156) to LOW (avg. 20.418663024902344)
 [13Apr2025 02:48:50.673] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.418663024902344) to VERY_LOW (avg. 19.001602172851562)
 [13Apr2025 02:49:04.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix died because of Runner
+[13Apr2025 02:51:09.541] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/278034, l='ServerLevel[world]', x=-482.86, y=65.17, z=164.57, removed=DISCARDED]
+[13Apr2025 02:51:09.541] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/278033, l='ServerLevel[world]', x=-482.86, y=65.17, z=164.57, removed=DISCARDED]
+[13Apr2025 02:51:09.542] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/278037, l='ServerLevel[world]', x=-482.86, y=65.17, z=164.57, removed=DISCARDED]
+[13Apr2025 02:51:09.542] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/278031, l='ServerLevel[world]', x=-482.86, y=65.17, z=164.57, removed=DISCARDED]
+[13Apr2025 02:51:09.542] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/278032, l='ServerLevel[world]', x=-482.86, y=65.17, z=164.57, removed=DISCARDED]
+[13Apr2025 02:56:16.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix was slain by Walker
+[13Apr2025 02:57:44.685] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/278034, l='ServerLevel[world]', x=-482.86, y=65.17, z=164.57, removed=DISCARDED]
+[13Apr2025 02:57:44.685] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/278033, l='ServerLevel[world]', x=-482.86, y=65.17, z=164.57, removed=DISCARDED]
+[13Apr2025 02:57:44.685] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/278037, l='ServerLevel[world]', x=-482.86, y=65.17, z=164.57, removed=DISCARDED]
+[13Apr2025 02:57:44.686] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/278031, l='ServerLevel[world]', x=-482.86, y=65.17, z=164.57, removed=DISCARDED]
+[13Apr2025 02:57:44.686] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/278032, l='ServerLevel[world]', x=-482.86, y=65.17, z=164.57, removed=DISCARDED]
