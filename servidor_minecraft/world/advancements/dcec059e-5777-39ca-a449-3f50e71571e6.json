@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-04-13 03:17:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-04-08 02:20:46 +0000"
@@ -533,6 +539,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-04-13 03:13:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-04-09 02:09:06 +0000"
@@ -704,6 +716,12 @@
   "projectarsenal:recipes/projectarsenal/akx_custom": {
     "criteria": {
       "has_iron_ingots": "2025-04-09 03:39:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-04-13 03:13:22 +0000"
     },
     "done": true
   },
@@ -1601,6 +1619,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-04-13 03:13:22 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/heavy_rifle": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 03:39:58 +0000"
@@ -1919,6 +1943,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-04-13 03:13:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2025-04-11 03:13:16 +0000"
@@ -1940,6 +1970,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-04-09 02:51:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-04-13 03:13:22 +0000"
     },
     "done": true
   },
@@ -2285,6 +2321,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-04-13 03:13:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-04-09 01:54:54 +0000"
@@ -2501,6 +2543,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-04-13 03:13:22 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/mac10": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 03:39:58 +0000"
@@ -2516,6 +2564,12 @@
   "projectarsenal:recipes/projectarsenal/verticalgrip": {
     "criteria": {
       "has_iron_ingots": "2025-04-09 03:39:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-04-13 03:13:22 +0000"
     },
     "done": true
   },
@@ -2603,9 +2657,21 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-13 03:13:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-04-09 02:28:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-04-13 03:13:22 +0000"
     },
     "done": true
   },
@@ -2653,7 +2719,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-04-13 03:09:57 +0000"
+      "requirement": "2025-04-13 03:19:57 +0000"
     },
     "done": false
   },
@@ -2738,6 +2804,12 @@
   "projectarsenal:recipes/projectarsenal/glock21": {
     "criteria": {
       "has_iron_ingots": "2025-04-09 03:39:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-04-13 03:13:22 +0000"
     },
     "done": true
   },
@@ -3380,6 +3452,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stonecutter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-04-13 02:17:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-04-13 03:13:22 +0000"
     },
     "done": true
   },

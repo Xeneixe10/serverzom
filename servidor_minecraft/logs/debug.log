@@ -10713,3 +10713,31 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [13Apr2025 03:07:50.674] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.146310806274414) to VERY_LOW (avg. 8.100146293640137)
 [13Apr2025 03:09:57.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Apr2025 03:09:57.366] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 03:10:50.673] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.472159385681152) to LOW (avg. 24.874225616455078)
+[13Apr2025 03:11:05.673] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.874225616455078) to VERY_LOW (avg. 8.410720825195312)
+[13Apr2025 03:11:13.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Added 70.0 sanity to ElTermi04]
+[13Apr2025 03:11:20.703] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 8.410720825195312) to LOW (avg. 21.9952392578125)
+[13Apr2025 03:11:35.674] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.9952392578125) to VERY_LOW (avg. 8.984700202941895)
+[13Apr2025 03:12:35.704] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 9.10915756225586) to LOW (avg. 22.688697814941406)
+[13Apr2025 03:12:37.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[13Apr2025 03:12:50.674] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.688697814941406) to VERY_LOW (avg. 7.2876482009887695)
+[13Apr2025 03:13:07.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[13Apr2025 03:13:14.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Added 70.0 sanity to ElTermi04]
+[13Apr2025 03:13:22.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTermi04 has made the advancement [Diamonds!]
+[13Apr2025 03:14:02.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix was slain by Looter
+[13Apr2025 03:14:02.665] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful qdrix
+[13Apr2025 03:14:03.840] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa qdrix
+[13Apr2025 03:14:34.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[13Apr2025 03:14:54.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[13Apr2025 03:14:57.353] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 03:14:57.365] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 03:15:45.666] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/278034, l='ServerLevel[world]', x=-482.86, y=65.17, z=164.57, removed=DISCARDED]
+[13Apr2025 03:15:45.666] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/278033, l='ServerLevel[world]', x=-482.86, y=65.17, z=164.57, removed=DISCARDED]
+[13Apr2025 03:15:45.666] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/278037, l='ServerLevel[world]', x=-482.86, y=65.17, z=164.57, removed=DISCARDED]
+[13Apr2025 03:15:45.666] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/278031, l='ServerLevel[world]', x=-482.86, y=65.17, z=164.57, removed=DISCARDED]
+[13Apr2025 03:15:45.666] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/278032, l='ServerLevel[world]', x=-482.86, y=65.17, z=164.57, removed=DISCARDED]
+[13Apr2025 03:17:05.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Added 70.0 sanity to ElTermi04]
+[13Apr2025 03:18:43.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Spectator Mode]
+[13Apr2025 03:18:48.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[13Apr2025 03:19:57.360] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 03:19:57.374] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
