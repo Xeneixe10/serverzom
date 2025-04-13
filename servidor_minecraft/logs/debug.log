@@ -11353,3 +11353,27 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [13Apr2025 04:00:15.508] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful ElTermi04
 [13Apr2025 04:00:19.158] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa ElTermi04
 [13Apr2025 04:00:28.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Gamerule keepInventory is now set to: false]
+[13Apr2025 04:01:26.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[13Apr2025 04:01:35.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[13Apr2025 04:04:43.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[13Apr2025 04:04:57.364] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 04:04:57.376] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 04:05:26.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[13Apr2025 04:05:43.173] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.384313583374023) to LOW (avg. 20.775264739990234)
+[13Apr2025 04:06:05.673] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.07673454284668) to VERY_LOW (avg. 17.69046974182129)
+[13Apr2025 04:06:14.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[13Apr2025 04:06:20.673] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.69046974182129) to LOW (avg. 21.073909759521484)
+[13Apr2025 04:06:35.674] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.073909759521484) to VERY_LOW (avg. 16.731637954711914)
+[13Apr2025 04:06:50.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[13Apr2025 04:07:15.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[13Apr2025 04:07:17.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[13Apr2025 04:08:12.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[13Apr2025 04:09:00.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[13Apr2025 04:09:01.942] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting moe/plushie/armourers_workshop/core/menu/SkinWardrobeMenu$Group
+[13Apr2025 04:09:30.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <axel> zzz
+[13Apr2025 04:09:52.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElTermi04> zzz
+[13Apr2025 04:09:57.373] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 04:09:57.384] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 04:10:25.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix died because of Runner
+[13Apr2025 04:10:25.723] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful qdrix
+[13Apr2025 04:10:26.933] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa qdrix
