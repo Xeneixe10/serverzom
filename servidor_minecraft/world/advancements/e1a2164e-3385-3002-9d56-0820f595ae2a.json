@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "additionalguns:recipes/additionalguns/casing_heavy": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-13 02:29:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-09 02:43:53 +0000"
@@ -203,6 +209,12 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/specialised_grip": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-13 02:29:08 +0000"
+    },
+    "done": true
+  },
   "projectarsenal:recipes/projectarsenal/cz75": {
     "criteria": {
       "has_iron_ingots": "2025-04-09 04:00:13 +0000"
@@ -224,6 +236,12 @@
   "mutantmonsters:root": {
     "criteria": {
       "killed_something": "2025-04-09 02:27:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-13 02:28:38 +0000"
     },
     "done": true
   },
@@ -347,6 +365,12 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/light_stock": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-13 02:29:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-04-09 03:06:05 +0000"
@@ -452,6 +476,12 @@
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2025-04-09 03:04:19 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/silencer": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-13 02:29:08 +0000"
     },
     "done": true
   },
@@ -617,6 +647,12 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/tactical_stock": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-13 02:29:08 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/angled_grip": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 04:00:13 +0000"
@@ -695,6 +731,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-04-13 02:29:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-09 02:43:53 +0000"
@@ -722,6 +764,18 @@
   "cgm:recipes/cgm/mini_gun": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/casing_small": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-13 02:29:08 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/casing_short": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-13 02:29:08 +0000"
     },
     "done": true
   },
@@ -821,9 +875,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-04-13 02:27:20 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/username_logger": {
     "criteria": {
       "has_redstone": "2025-04-09 04:00:06 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/basic_stock": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-13 02:29:08 +0000"
     },
     "done": true
   },
@@ -854,6 +920,12 @@
   "securitycraft:recipes/securitycraft/cage_trap": {
     "criteria": {
       "has_redstone": "2025-04-09 04:00:06 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/sniper_muzzle_brake": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-13 02:29:08 +0000"
     },
     "done": true
   },
@@ -1243,9 +1315,21 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/light_grip": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-13 02:29:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-04-09 02:34:37 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/casing_medium": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-13 02:29:08 +0000"
     },
     "done": true
   },
@@ -1330,6 +1414,12 @@
   "ava:recipes/main/gun_modifying_table": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2025-04-13 02:29:07 +0000"
     },
     "done": true
   },
@@ -1471,6 +1561,12 @@
     },
     "done": true
   },
+  "additionalguns:recipes/additionalguns/vintorez_stock": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-13 02:29:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-09 02:43:53 +0000"
@@ -1528,6 +1624,12 @@
   "securitycraft:recipes/securitycraft/speed_module": {
     "criteria": {
       "has_iron": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-04-13 02:29:07 +0000"
     },
     "done": true
   },
@@ -1849,6 +1951,12 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/long_scope": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-13 02:29:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-04-09 02:27:38 +0000"
@@ -1900,6 +2008,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-09 02:43:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-04-13 02:29:07 +0000"
     },
     "done": true
   },
@@ -2026,6 +2140,12 @@
   "plastic_from_ava:recipes/survival/plastic": {
     "criteria": {
       "has_leather": "2025-04-09 03:34:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-13 02:28:38 +0000"
     },
     "done": true
   },
@@ -2215,6 +2335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_leggings": "2025-04-13 02:29:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-04-09 02:34:37 +0000"
@@ -2323,6 +2449,12 @@
     },
     "done": true
   },
+  "additionalguns:recipes/additionalguns/casing_long": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-13 02:29:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-09 03:08:08 +0000"
@@ -2425,6 +2557,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-13 02:29:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2025-04-09 02:38:50 +0000"
@@ -2497,6 +2635,12 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/weighted_stock": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-13 02:29:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-04-11 02:26:14 +0000"
@@ -2515,6 +2659,12 @@
     },
     "done": true
   },
+  "additionalguns:recipes/additionalguns/casing_special": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-13 02:29:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-11 03:28:32 +0000"
@@ -2524,6 +2674,12 @@
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2025-04-09 02:21:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-13 02:29:08 +0000"
     },
     "done": true
   },

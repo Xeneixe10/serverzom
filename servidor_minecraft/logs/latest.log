@@ -1415,3 +1415,19 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [13Apr2025 02:18:47.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
 [13Apr2025 02:18:58.174] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.380521774291992) to LOW (avg. 20.37852668762207)
 [13Apr2025 02:18:59.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[13Apr2025 02:19:05.674] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.37852668762207) to VERY_LOW (avg. 19.10056495666504)
+[13Apr2025 02:19:38.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElTermi04> zzz
+[13Apr2025 02:19:39.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <axel> zzzz
+[13Apr2025 02:20:09.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix died because of Runner
+[13Apr2025 02:22:19.533] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting insane96mcp/enhancedai/modules/witch/ai/DarkArtWitchGoal$Phase
+[13Apr2025 02:23:09.084] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting insane96mcp/enhancedai/modules/zombie/entity/projectile/FishingHook$FishHookState
+[13Apr2025 02:23:56.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix drowned whilst trying to escape Drowned
+[13Apr2025 02:29:07.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix has made the advancement [Ice Bucket Challenge]
+[13Apr2025 02:29:50.110] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/237725, l='ServerLevel[world]', x=-101.18, y=27.00, z=477.86, removed=DISCARDED]
+[13Apr2025 02:30:26.755] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/237725, l='ServerLevel[world]', x=-101.18, y=27.00, z=477.86, removed=DISCARDED]
+[13Apr2025 02:30:58.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix was slain by Runner
+[13Apr2025 02:32:25.846] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/237725, l='ServerLevel[world]', x=-101.18, y=27.00, z=477.86, removed=DISCARDED]
+[13Apr2025 02:33:15.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix was slain by Soldier
+[13Apr2025 02:33:19.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: axel has made the advancement [Isn't It Iron Pick]
+[13Apr2025 02:35:18.903] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/237725, l='ServerLevel[world]', x=-101.18, y=27.00, z=477.86, removed=DISCARDED]
+[13Apr2025 02:36:05.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix died because of Drowned
