@@ -1522,3 +1522,31 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [13Apr2025 03:25:32.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
 [13Apr2025 03:27:54.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElTermi04> zzz
 [13Apr2025 03:28:05.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <axel> ZZZ
+[13Apr2025 03:32:30.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[13Apr2025 03:32:59.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[13Apr2025 03:34:47.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Kicked qdrix: Kicked by an operator]
+[13Apr2025 03:34:47.231] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: qdrix lost connection: Kicked by an operator
+[13Apr2025 03:34:47.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix left the game
+[13Apr2025 03:34:47.232] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e1a2164e-3385-3002-9d56-0820f595ae2a was unloaded
+[13Apr2025 03:34:47.234] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client qdrix
+[13Apr2025 03:34:57.034] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@445baf81
+[13Apr2025 03:34:57.038] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: qdrix[/172.24.22.218:58186] logged in with entity id 291330 at (-348.6678012876707, 56.0, 203.0683808286789)
+[13Apr2025 03:34:57.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix joined the game
+[13Apr2025 03:34:57.064] [Server thread/INFO] [APTweaks(Player)/]: Player qdrix ServerPlayer['qdrix'/291330, l='ServerLevel[world]', x=-348.67, y=56.00, z=203.07] logged in and will be protected for 90 secs.
+[13Apr2025 03:34:57.065] [Server thread/INFO] [Jade/]: Syncing config to qdrix (e1a2164e-3385-3002-9d56-0820f595ae2a)
+[13Apr2025 03:34:57.481] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of qdrix (18)
+[13Apr2025 03:34:57.482] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to qdrix
+[13Apr2025 03:34:57.502] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e1a2164e-3385-3002-9d56-0820f595ae2a was loaded
+[13Apr2025 03:35:00.491] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e1a2164e-3385-3002-9d56-0820f595ae2a
+[13Apr2025 03:35:01.493] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e1a2164e-3385-3002-9d56-0820f595ae2a
+[13Apr2025 03:35:01.494] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player qdrix (e1a2164e-3385-3002-9d56-0820f595ae2a) successfully connected to voice chat
+[13Apr2025 03:35:03.825] [Server thread/INFO] [APTweaks(Player)/]: Protected Player qdrix was successful validated after 6 secs.
+[13Apr2025 03:35:03.825] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player qdrix!
+[13Apr2025 03:35:33.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix was slain by Looter
+[13Apr2025 03:39:42.118] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/278034, l='ServerLevel[world]', x=-482.86, y=65.17, z=164.57, removed=DISCARDED]
+[13Apr2025 03:39:42.119] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/278033, l='ServerLevel[world]', x=-482.86, y=65.17, z=164.57, removed=DISCARDED]
+[13Apr2025 03:39:42.119] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/278037, l='ServerLevel[world]', x=-482.86, y=65.17, z=164.57, removed=DISCARDED]
+[13Apr2025 03:39:42.119] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/278031, l='ServerLevel[world]', x=-482.86, y=65.17, z=164.57, removed=DISCARDED]
+[13Apr2025 03:39:42.119] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/278032, l='ServerLevel[world]', x=-482.86, y=65.17, z=164.57, removed=DISCARDED]
+[13Apr2025 03:39:53.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <axel> zzz
+[13Apr2025 03:39:57.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElTermi04> zzz

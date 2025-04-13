@@ -383,6 +383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-04-13 03:30:45 +0000"
+    },
+    "done": true
+  },
   "projectarsenal:recipes/projectarsenal/ar15_classic": {
     "criteria": {
       "has_planks": "2025-04-09 02:27:33 +0000"
@@ -1085,6 +1091,12 @@
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2025-04-09 02:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-04-13 03:30:45 +0000"
     },
     "done": true
   },
@@ -2773,7 +2785,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-04-13 03:29:57 +0000"
+      "requirement": "2025-04-13 03:39:57 +0000"
     },
     "done": false
   },
