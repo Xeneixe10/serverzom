@@ -3,19 +3,19 @@
 	fly: false
 	god: false
 	nick: ""
-	last_seen: { dim: "minecraft:overworld", x: -349, y: 56, z: 203, time: 1744515297060L, xRot: -18.300182f, yRot: -84.1763f }
+	last_seen: { dim: "minecraft:overworld", x: -752, y: 48, z: 217, time: 1744518546433L, xRot: -65.24968f, yRot: -34.04837f }
 	recording: 0
 	teleport_history: [
-		{ dim: "minecraft:overworld", x: -49, y: 62, z: 409, time: 1744511596821L, xRot: 69.60093f, yRot: -122.140564f }
-		{ dim: "minecraft:overworld", x: -57, y: 59, z: 412, time: 1744511766867L, xRot: 23.399626f, yRot: -78.08273f }
-		{ dim: "minecraft:overworld", x: -521, y: 64, z: 146, time: 1744512546856L, xRot: -19.64989f, yRot: 4.875f }
-		{ dim: "minecraft:overworld", x: -509, y: 70, z: 165, time: 1744512977577L, xRot: -51.75061f, yRot: -127.47417f }
-		{ dim: "minecraft:overworld", x: -505, y: 72, z: 166, time: 1744514043840L, xRot: 10.161336f, yRot: 152.28241f }
 		{ dim: "minecraft:overworld", x: -351, y: 56, z: 204, time: 1744515334879L, xRot: -3.1351821f, yRot: -101.269135f }
 		{ dim: "minecraft:overworld", x: -763, y: 76, z: 230, time: 1744516318581L, xRot: 34.4999f, yRot: 19.499947f }
 		{ dim: "minecraft:overworld", x: -778, y: 77, z: 238, time: 1744516398850L, xRot: 24.461214f, yRot: -81.60339f }
 		{ dim: "minecraft:overworld", x: -765, y: 75, z: 240, time: 1744516464310L, xRot: 26.999788f, yRot: 117.16732f }
 		{ dim: "minecraft:overworld", x: -811, y: 76, z: 227, time: 1744517426933L, xRot: 27.59946f, yRot: -120.45766f }
+		{ dim: "minecraft:overworld", x: -485, y: 28, z: -79, time: 1744518045904L, xRot: -31.94958f, yRot: 147.166f }
+		{ dim: "minecraft:overworld", x: -563, y: 66, z: -65, time: 1744518294209L, xRot: 40.80077f, yRot: 108.76105f }
+		{ dim: "minecraft:overworld", x: -754, y: 78, z: 222, time: 1744518319259L, xRot: -4.0499415f, yRot: -141.90016f }
+		{ dim: "minecraft:overworld", x: -753, y: 48, z: 219, time: 1744518379941L, xRot: -11.17174f, yRot: -110.681946f }
+		{ dim: "minecraft:overworld", x: -760, y: 77, z: 222, time: 1744518438325L, xRot: 55.800194f, yRot: -119.249916f }
 	]
 	homes: { }
 }

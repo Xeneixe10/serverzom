@@ -3300,3 +3300,46 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [13Apr2025 04:20:48.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
 [13Apr2025 04:20:53.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
 [13Apr2025 04:21:01.074] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.109203338623047) to VERY_LOW (avg. 5.910409927368164)
+[13Apr2025 04:22:08.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[13Apr2025 04:22:23.584] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElTermi04 lost connection: Disconnected
+[13Apr2025 04:22:23.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTermi04 left the game
+[13Apr2025 04:22:23.585] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of dcec059e-5777-39ca-a449-3f50e71571e6 was unloaded
+[13Apr2025 04:22:23.585] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ElTermi04
+[13Apr2025 04:22:25.080] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: axel lost connection: Disconnected
+[13Apr2025 04:22:25.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: axel left the game
+[13Apr2025 04:22:25.080] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 34d47921-4a04-3f0d-9e05-51451c11bd23 was unloaded
+[13Apr2025 04:22:25.081] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client axel
+[13Apr2025 04:23:50.557] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/300312, l='ServerLevel[world]', x=-479.29, y=27.00, z=-75.32, removed=DISCARDED]
+[13Apr2025 04:24:53.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix was slain by Runner
+[13Apr2025 04:25:18.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix died because of Runner
+[13Apr2025 04:26:18.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix died because of Zombie
+[13Apr2025 04:26:25.776] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[13Apr2025 04:26:26.129] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[13Apr2025 04:27:17.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix died because of Skeleton
+[13Apr2025 04:29:06.432] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: qdrix lost connection: Disconnected
+[13Apr2025 04:29:06.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix left the game
+[13Apr2025 04:29:06.433] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e1a2164e-3385-3002-9d56-0820f595ae2a was unloaded
+[13Apr2025 04:29:06.433] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client qdrix
+[13Apr2025 04:30:16.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[13Apr2025 04:30:16.075] [Server thread/INFO] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: stop local service
+[13Apr2025 04:30:16.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[13Apr2025 04:30:16.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[13Apr2025 04:30:16.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[13Apr2025 04:30:17.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13Apr2025 04:30:17.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ava:southern
+[13Apr2025 04:30:17.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[13Apr2025 04:30:17.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13Apr2025 04:30:17.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ava:northern
+[13Apr2025 04:30:17.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ava:after_place
+[13Apr2025 04:30:17.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13Apr2025 04:30:17.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13Apr2025 04:30:17.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (southern): All chunks are saved
+[13Apr2025 04:30:17.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[13Apr2025 04:30:17.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13Apr2025 04:30:17.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (northern): All chunks are saved
+[13Apr2025 04:30:17.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (after_place): All chunks are saved
+[13Apr2025 04:30:17.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13Apr2025 04:30:17.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13Apr2025 04:30:17.345] [Server thread/INFO] [Framework/]: Unloading server configs...
+[13Apr2025 04:30:17.347] [Server thread/INFO] [configured/]: Unloading server configs...
+[13Apr2025 04:30:17.347] [Server thread/INFO] [configured/]: Sending config unload event for configured.developer.toml
