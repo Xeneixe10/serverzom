@@ -1515,3 +1515,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [13Apr2025 03:17:05.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Added 70.0 sanity to ElTermi04]
 [13Apr2025 03:18:43.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Spectator Mode]
 [13Apr2025 03:18:48.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[13Apr2025 03:20:34.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Added 70.0 sanity to ElTermi04]
+[13Apr2025 03:24:37.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix has made the advancement [Bloodthirsty]
+[13Apr2025 03:24:52.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Added 70.0 sanity to ElTermi04]
+[13Apr2025 03:25:27.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[13Apr2025 03:25:32.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[13Apr2025 03:27:54.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElTermi04> zzz
+[13Apr2025 03:28:05.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <axel> ZZZ
