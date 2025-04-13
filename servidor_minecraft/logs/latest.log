@@ -1476,3 +1476,20 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [13Apr2025 02:57:44.685] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/278037, l='ServerLevel[world]', x=-482.86, y=65.17, z=164.57, removed=DISCARDED]
 [13Apr2025 02:57:44.686] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/278031, l='ServerLevel[world]', x=-482.86, y=65.17, z=164.57, removed=DISCARDED]
 [13Apr2025 02:57:44.686] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/278032, l='ServerLevel[world]', x=-482.86, y=65.17, z=164.57, removed=DISCARDED]
+[13Apr2025 03:01:01.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Spectator Mode]
+[13Apr2025 03:01:14.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[13Apr2025 03:01:21.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: axel has made the advancement [Diamonds!]
+[13Apr2025 03:01:23.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[13Apr2025 03:01:42.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Added 70.0 sanity to ElTermi04]
+[13Apr2025 03:03:21.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Teleported axel to ElTermi04]
+[13Apr2025 03:03:28.162] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[13Apr2025 03:04:27.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Added 70.0 sanity to axel]
+[13Apr2025 03:05:23.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[13Apr2025 03:05:26.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[13Apr2025 03:05:37.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[13Apr2025 03:05:42.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[13Apr2025 03:05:52.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Added 70.0 sanity to ElTermi04]
+[13Apr2025 03:06:12.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[13Apr2025 03:06:38.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[13Apr2025 03:07:35.674] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 9.001409530639648) to LOW (avg. 20.146310806274414)
+[13Apr2025 03:07:50.674] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.146310806274414) to VERY_LOW (avg. 8.100146293640137)
