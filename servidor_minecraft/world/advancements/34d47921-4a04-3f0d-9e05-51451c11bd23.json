@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2025-04-13 03:46:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 03:50:16 +0000"
@@ -618,6 +624,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_candle": {
+    "criteria": {
+      "has_orange_dye": "2025-04-13 03:47:05 +0000"
+    },
+    "done": true
+  },
   "projectarsenal:recipes/projectarsenal/vector": {
     "criteria": {
       "has_iron_ingots": "2025-04-09 03:50:16 +0000"
@@ -714,6 +726,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2025-04-13 03:46:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-04-09 03:11:45 +0000"
@@ -771,6 +789,12 @@
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-04-13 02:56:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2025-04-13 03:46:48 +0000"
     },
     "done": true
   },
@@ -852,9 +876,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-04-13 03:40:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2025-04-09 02:30:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-04-13 03:40:50 +0000"
     },
     "done": true
   },
@@ -1005,6 +1041,12 @@
   "projectarsenal:recipes/projectarsenal/arx160": {
     "criteria": {
       "has_iron_ingots": "2025-04-09 03:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
+    "criteria": {
+      "has_orange_dye": "2025-04-13 03:47:05 +0000"
     },
     "done": true
   },
@@ -1297,6 +1339,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-04-13 03:46:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-04-11 03:03:18 +0000"
@@ -1342,6 +1390,12 @@
   "additionalguns:recipes/additionalguns/pp_19": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 03:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_orange_dye": "2025-04-13 03:47:05 +0000"
     },
     "done": true
   },
@@ -1414,6 +1468,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2025-04-11 02:52:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-04-13 03:46:48 +0000"
     },
     "done": true
   },
@@ -1615,6 +1675,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_red_dye": "2025-04-13 03:46:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-04-09 02:32:42 +0000"
@@ -1701,6 +1767,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "potato": "2025-04-13 03:42:11 +0000",
       "cooked_cod": "2025-04-09 03:17:38 +0000",
       "melon_slice": "2025-04-11 02:34:57 +0000",
       "cod": "2025-04-09 03:17:21 +0000"
@@ -1866,6 +1933,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-04-09 03:48:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2025-04-13 03:46:48 +0000"
     },
     "done": true
   },
@@ -2166,6 +2239,12 @@
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-09 03:23:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-04-13 03:46:48 +0000"
     },
     "done": true
   },
@@ -2625,6 +2704,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2025-04-13 03:46:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2025-04-13 03:46:52 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/banshee": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 03:50:16 +0000"
@@ -2832,6 +2923,12 @@
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2025-04-09 03:18:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_yellow_dye": "2025-04-13 03:46:52 +0000"
     },
     "done": true
   },
