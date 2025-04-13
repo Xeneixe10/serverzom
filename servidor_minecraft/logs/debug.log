@@ -11310,3 +11310,46 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [13Apr2025 03:50:08.129] [Server thread/WARN] [cgm/]: literal{qdrix}(e1a2164e-3385-3002-9d56-0820f595ae2a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 407
 [13Apr2025 03:50:08.300] [Server thread/WARN] [cgm/]: literal{qdrix}(e1a2164e-3385-3002-9d56-0820f595ae2a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 235
 [13Apr2025 03:50:08.937] [Server thread/WARN] [cgm/]: literal{qdrix}(e1a2164e-3385-3002-9d56-0820f595ae2a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 350
+[13Apr2025 03:51:09.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: axel was executed by qdrix
+[13Apr2025 03:51:09.230] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful axel
+[13Apr2025 03:51:10.959] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa axel
+[13Apr2025 03:51:33.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Spectator Mode]
+[13Apr2025 03:51:46.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[13Apr2025 03:51:50.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElTermi04> zzz
+[13Apr2025 03:51:57.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix died because of Runner
+[13Apr2025 03:51:57.083] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful qdrix
+[13Apr2025 03:51:58.581] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa qdrix
+[13Apr2025 03:52:21.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: axel died because of Walker
+[13Apr2025 03:52:21.961] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful axel
+[13Apr2025 03:52:23.257] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa axel
+[13Apr2025 03:53:17.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix died because of Runner
+[13Apr2025 03:53:17.635] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful qdrix
+[13Apr2025 03:53:18.850] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa qdrix
+[13Apr2025 03:54:22.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix died because of Runner
+[13Apr2025 03:54:22.739] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful qdrix
+[13Apr2025 03:54:24.310] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa qdrix
+[13Apr2025 03:54:57.345] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 03:54:57.356] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 03:55:52.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[13Apr2025 03:56:41.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[13Apr2025 03:56:44.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[13Apr2025 03:56:55.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Added 70.0 sanity to ElTermi04]
+[13Apr2025 03:57:04.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Added 70.0 sanity to axel]
+[13Apr2025 03:57:22.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[13Apr2025 03:57:24.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[13Apr2025 03:57:37.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[13Apr2025 03:57:45.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[13Apr2025 03:58:41.307] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-789, y=78, z=210} BlockPos{x=-788, y=76, z=210}
+[13Apr2025 03:58:41.357] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-789, y=78, z=210} BlockPos{x=-788, y=76, z=210}
+[13Apr2025 03:58:43.459] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-793, y=78, z=211} BlockPos{x=-794, y=76, z=211}
+[13Apr2025 03:58:43.509] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-793, y=78, z=211} BlockPos{x=-794, y=76, z=211}
+[13Apr2025 03:59:25.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[13Apr2025 03:59:33.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[13Apr2025 03:59:57.345] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 03:59:57.356] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 03:59:57.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Gamerule keepInventory is now set to: true]
+[13Apr2025 04:00:03.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[13Apr2025 04:00:15.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTermi04 died
+[13Apr2025 04:00:15.508] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful ElTermi04
+[13Apr2025 04:00:19.158] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa ElTermi04
+[13Apr2025 04:00:28.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Gamerule keepInventory is now set to: false]

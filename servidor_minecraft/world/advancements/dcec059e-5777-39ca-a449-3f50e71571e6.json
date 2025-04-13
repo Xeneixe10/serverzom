@@ -2275,10 +2275,9 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
-      "requirement": "2025-04-13 03:49:57 +0000",
       "log_spam_fixer": "2025-04-08 02:14:10 +0000"
     },
-    "done": true
+    "done": false
   },
   "cgm:recipes/cgm/machine_pistol": {
     "criteria": {
