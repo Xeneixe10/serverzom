@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "bf3a8b527ea53101ab755ec235e3c7eb"
+	name: "axel123456"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
