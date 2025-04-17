@@ -71,6 +71,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-17 01:48:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-17 01:48:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-09 02:43:53 +0000"
@@ -161,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-04-17 01:48:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-04-09 02:28:56 +0000"
@@ -170,6 +188,12 @@
   "securitycraft:recipes/securitycraft/reinforced_redstone_lamp": {
     "criteria": {
       "has_redstone": "2025-04-09 04:00:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-17 01:48:50 +0000"
     },
     "done": true
   },
@@ -200,6 +224,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-04-09 02:35:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-04-17 01:48:38 +0000"
     },
     "done": true
   },
@@ -242,6 +272,12 @@
   "mutantmonsters:root": {
     "criteria": {
       "killed_something": "2025-04-09 02:27:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-04-17 01:48:38 +0000"
     },
     "done": true
   },
@@ -293,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-17 01:48:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-04-11 03:39:53 +0000"
@@ -314,6 +356,12 @@
   "ava:recipes/survival/work_hardened_iron": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-17 01:48:50 +0000"
     },
     "done": true
   },
@@ -452,6 +500,12 @@
   "securitycraft:recipes/securitycraft/portable_radar": {
     "criteria": {
       "has_redstone": "2025-04-09 04:00:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-17 01:48:50 +0000"
     },
     "done": true
   },
@@ -637,6 +691,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-17 01:48:50 +0000"
+    },
+    "done": true
+  },
   "projectarsenal:recipes/projectarsenal/vector": {
     "criteria": {
       "has_iron_ingots": "2025-04-09 04:00:13 +0000"
@@ -679,6 +739,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-17 01:48:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_chainmail_leggings": "2025-04-09 03:34:32 +0000"
@@ -688,6 +754,12 @@
   "cgm:recipes/cgm/tactical_stock": {
     "criteria": {
       "has_iron_ingot": "2025-04-13 02:29:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-17 01:48:50 +0000"
     },
     "done": true
   },
@@ -850,6 +922,12 @@
   "majruszsdifficulty:recipes/misc/bandage": {
     "criteria": {
       "has_string": "2025-04-09 04:30:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-17 01:48:50 +0000"
     },
     "done": true
   },
@@ -1147,6 +1225,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-17 01:48:50 +0000"
+    },
+    "done": true
+  },
   "projectarsenal:recipes/projectarsenal/mp5a4": {
     "criteria": {
       "has_iron_ingots": "2025-04-09 04:00:13 +0000"
@@ -1162,6 +1246,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2025-04-13 03:20:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-17 01:48:38 +0000"
     },
     "done": true
   },
@@ -1216,6 +1306,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_chainmail_leggings": "2025-04-09 03:34:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-17 01:48:50 +0000"
     },
     "done": true
   },
@@ -1300,6 +1396,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-17 01:48:50 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/missile": {
     "criteria": {
       "has_gunpowder": "2025-04-11 02:04:11 +0000"
@@ -1322,6 +1424,12 @@
       "minecraft:old_growth_birch_forest": "2025-04-09 02:30:54 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-17 01:48:50 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/book": {
     "criteria": {
@@ -1392,6 +1500,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-17 01:48:50 +0000"
     },
     "done": true
   },
@@ -1509,6 +1623,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-04-17 01:41:31 +0000"
+    },
+    "done": true
+  },
   "ava:recipes/main/gun_modifying_table": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 04:00:13 +0000"
@@ -1524,6 +1644,12 @@
   "additionalguns:recipes/additionalguns/bullet_special": {
     "criteria": {
       "has_gunpowder": "2025-04-11 02:04:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-17 01:48:50 +0000"
     },
     "done": true
   },
@@ -1566,6 +1692,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-04-09 02:34:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-04-17 01:41:31 +0000"
     },
     "done": true
   },
@@ -1704,6 +1836,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-04-13 03:28:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-17 01:48:50 +0000"
     },
     "done": true
   },
@@ -1978,6 +2116,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-17 01:48:50 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/shield": {
     "criteria": {
       "log_spam_fixer": "2025-04-09 02:21:46 +0000"
@@ -2146,6 +2290,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-17 01:48:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-04-09 02:51:26 +0000"
@@ -2185,6 +2335,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-04-13 02:29:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-17 01:48:50 +0000"
     },
     "done": true
   },
@@ -2284,6 +2440,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-17 01:48:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-04-13 03:28:00 +0000"
@@ -2296,6 +2458,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-17 01:48:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-04-09 02:50:11 +0000"
@@ -2305,6 +2473,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-04-13 03:20:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-04-17 01:48:38 +0000"
     },
     "done": true
   },
@@ -2698,6 +2872,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-17 01:48:50 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/laser_block": {
     "criteria": {
       "has_stone": "2025-04-09 02:50:11 +0000"
@@ -2869,6 +3049,12 @@
   "cgm:recipes/cgm/weighted_stock": {
     "criteria": {
       "has_iron_ingot": "2025-04-13 02:29:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-17 01:48:38 +0000"
     },
     "done": true
   },
@@ -3073,6 +3259,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-04-11 02:26:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-04-17 01:48:38 +0000"
     },
     "done": true
   },

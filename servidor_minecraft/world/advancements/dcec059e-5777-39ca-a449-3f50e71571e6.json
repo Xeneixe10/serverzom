@@ -1322,6 +1322,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-17 01:44:14 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/basic_bullet": {
     "criteria": {
       "has_gunpowder": "2025-04-08 02:20:43 +0000"
@@ -2852,6 +2858,12 @@
   "additionalguns:recipes/additionalguns/tactical_silencer": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 03:39:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-17 01:44:14 +0000"
     },
     "done": true
   },
