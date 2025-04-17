@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-04-17 03:13:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-04-11 03:03:18 +0000"
@@ -149,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-04-17 03:37:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-04-09 02:31:30 +0000"
@@ -248,6 +260,12 @@
   "mutantmonsters:root": {
     "criteria": {
       "killed_by_something": "2025-04-09 02:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-17 02:19:55 +0000"
     },
     "done": true
   },
@@ -601,7 +619,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-17 03:54:02 +0000",
       "minecraft:skeleton": "2025-04-11 03:52:31 +0000",
+      "minecraft:phantom": "2025-04-17 03:43:51 +0000",
       "minecraft:zombie": "2025-04-11 03:46:30 +0000"
     },
     "done": false
@@ -614,7 +634,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 01:59:52 +0000"
+      "log_spam_fixer": "2025-04-17 04:11:52 +0000"
     },
     "done": false
   },
@@ -699,6 +719,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-13 02:59:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-17 03:54:21 +0000"
     },
     "done": true
   },
@@ -876,6 +902,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-04-17 03:56:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-04-09 03:46:22 +0000"
@@ -896,7 +928,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 01:59:52 +0000"
+      "log_spam_fixer": "2025-04-17 04:11:52 +0000"
     },
     "done": false
   },
@@ -915,6 +947,12 @@
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2025-04-09 02:30:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-04-17 02:19:53 +0000"
     },
     "done": true
   },
@@ -948,6 +986,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2025-04-17 03:08:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-11 03:46:57 +0000"
@@ -969,6 +1013,12 @@
   "securitycraft:recipes/securitycraft/smart_module": {
     "criteria": {
       "has_iron": "2025-04-09 03:50:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-04-17 03:56:34 +0000"
     },
     "done": true
   },
@@ -1235,7 +1285,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 01:59:52 +0000"
+      "log_spam_fixer": "2025-04-17 04:11:52 +0000"
     },
     "done": false
   },
@@ -1259,7 +1309,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 01:59:52 +0000"
+      "log_spam_fixer": "2025-04-17 04:11:52 +0000"
     },
     "done": false
   },
@@ -1279,15 +1329,19 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-04-09 04:22:47 +0000",
       "minecraft:deep_ocean": "2025-04-09 03:25:24 +0000",
+      "minecraft:birch_forest": "2025-04-17 02:25:05 +0000",
       "minecraft:beach": "2025-04-09 02:26:53 +0000",
+      "minecraft:dark_forest": "2025-04-17 02:19:16 +0000",
       "minecraft:sparse_jungle": "2025-04-09 02:30:54 +0000",
       "minecraft:river": "2025-04-09 02:32:43 +0000",
       "minecraft:lukewarm_ocean": "2025-04-09 03:09:11 +0000",
+      "minecraft:forest": "2025-04-17 02:16:37 +0000",
       "minecraft:lush_caves": "2025-04-09 02:23:08 +0000",
       "minecraft:jungle": "2025-04-09 03:02:59 +0000",
       "minecraft:ocean": "2025-04-09 03:10:45 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-09 04:23:27 +0000",
-      "minecraft:old_growth_birch_forest": "2025-04-09 02:27:17 +0000"
+      "minecraft:old_growth_birch_forest": "2025-04-09 02:27:17 +0000",
+      "minecraft:plains": "2025-04-17 02:34:25 +0000"
     },
     "done": false
   },
@@ -1371,7 +1425,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 01:59:52 +0000"
+      "log_spam_fixer": "2025-04-17 04:11:52 +0000"
     },
     "done": false
   },
@@ -1396,6 +1450,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-04-11 03:03:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-04-17 03:13:41 +0000"
     },
     "done": true
   },
@@ -1480,6 +1540,12 @@
   "ava:recipes/main/gun_modifying_table": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 03:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2025-04-17 02:20:09 +0000"
     },
     "done": true
   },
@@ -1575,7 +1641,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 01:59:52 +0000"
+      "log_spam_fixer": "2025-04-17 04:11:52 +0000"
     },
     "done": false
   },
@@ -1618,6 +1684,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-13 02:54:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-04-17 03:13:41 +0000"
     },
     "done": true
   },
@@ -1789,6 +1861,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-04-17 02:24:22 +0000"
+    },
+    "done": true
+  },
   "projectarsenal:recipes/projectarsenal/p250": {
     "criteria": {
       "has_iron_ingots": "2025-04-09 03:50:16 +0000"
@@ -1823,6 +1901,8 @@
     "criteria": {
       "potato": "2025-04-13 03:42:11 +0000",
       "cooked_cod": "2025-04-09 03:17:38 +0000",
+      "golden_apple": "2025-04-17 02:24:50 +0000",
+      "suspicious_stew": "2025-04-17 02:24:22 +0000",
       "melon_slice": "2025-04-11 02:34:57 +0000",
       "cod": "2025-04-09 03:17:21 +0000"
     },
@@ -2152,6 +2232,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-04-17 03:33:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-13 02:54:46 +0000"
@@ -2178,7 +2264,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 01:59:52 +0000"
+      "log_spam_fixer": "2025-04-17 04:11:52 +0000"
     },
     "done": false
   },
@@ -2308,6 +2394,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-17 02:19:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_candle": {
     "criteria": {
       "has_red_dye": "2025-04-13 03:46:48 +0000"
@@ -2316,13 +2408,19 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 01:59:52 +0000"
+      "log_spam_fixer": "2025-04-17 04:11:52 +0000"
     },
     "done": false
   },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-04-13 03:01:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-17 02:20:12 +0000"
     },
     "done": true
   },
@@ -2382,7 +2480,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 01:59:52 +0000"
+      "log_spam_fixer": "2025-04-17 04:11:52 +0000"
     },
     "done": false
   },
@@ -2530,6 +2628,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-04-17 03:56:34 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/keycard_lv5": {
     "criteria": {
       "has_iron": "2025-04-09 03:50:16 +0000"
@@ -2557,6 +2661,12 @@
   "additionalguns:recipes/additionalguns/m4a1s": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 03:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_leggings": "2025-04-17 02:20:09 +0000"
     },
     "done": true
   },
@@ -2650,6 +2760,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-04-17 03:13:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-04-17 03:56:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-09 02:31:50 +0000"
@@ -2665,6 +2787,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-13 02:59:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-04-17 03:56:34 +0000"
     },
     "done": true
   },
@@ -2737,6 +2865,12 @@
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-09 03:23:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-17 03:33:53 +0000"
     },
     "done": true
   },
@@ -2892,7 +3026,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 01:59:52 +0000"
+      "log_spam_fixer": "2025-04-17 04:11:52 +0000"
     },
     "done": false
   },
@@ -2928,7 +3062,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 01:59:52 +0000"
+      "log_spam_fixer": "2025-04-17 04:11:52 +0000"
     },
     "done": false
   },
@@ -2958,7 +3092,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 01:59:52 +0000"
+      "log_spam_fixer": "2025-04-17 04:11:52 +0000"
     },
     "done": false
   },

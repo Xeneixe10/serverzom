@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-04-17 03:43:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-04-09 01:54:54 +0000"
@@ -170,6 +176,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-04-11 03:37:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-04-17 03:38:09 +0000"
     },
     "done": true
   },
@@ -509,6 +521,12 @@
     },
     "done": true
   },
+  "simpleplanes:recipes/plane": {
+    "criteria": {
+      "in_fire": "2025-04-17 02:15:11 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/grenade": {
     "criteria": {
       "has_gunpowder": "2025-04-08 02:20:43 +0000"
@@ -614,6 +632,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-04-09 02:29:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-04-17 04:05:20 +0000"
     },
     "done": true
   },
@@ -844,7 +868,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 01:59:52 +0000"
+      "log_spam_fixer": "2025-04-17 04:14:52 +0000"
     },
     "done": false
   },
@@ -863,6 +887,12 @@
   "projectarsenal:recipes/projectarsenal/aa12": {
     "criteria": {
       "has_iron_ingots": "2025-04-09 03:39:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-04-17 03:35:24 +0000"
     },
     "done": true
   },
@@ -1016,6 +1046,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-04-17 03:10:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-09 02:29:45 +0000"
@@ -1154,6 +1190,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-04-17 02:24:00 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/universal_key_changer": {
     "criteria": {
       "has_redstone": "2025-04-11 03:45:35 +0000"
@@ -1186,7 +1228,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 01:59:52 +0000"
+      "log_spam_fixer": "2025-04-17 04:14:52 +0000"
     },
     "done": false
   },
@@ -1211,6 +1253,12 @@
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2025-04-09 02:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-04-17 04:05:20 +0000"
     },
     "done": true
   },
@@ -1639,13 +1687,19 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 01:59:52 +0000"
+      "log_spam_fixer": "2025-04-17 04:14:52 +0000"
     },
     "done": false
   },
   "securitycraft:recipes/securitycraft/limited_use_keycard": {
     "criteria": {
       "has_iron": "2025-04-09 03:39:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-04-17 02:24:00 +0000"
     },
     "done": true
   },
@@ -1663,7 +1717,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 01:59:52 +0000"
+      "log_spam_fixer": "2025-04-17 04:14:52 +0000"
     },
     "done": false
   },
@@ -1706,7 +1760,9 @@
       "minecraft:ocean": "2025-04-09 02:58:37 +0000",
       "minecraft:jungle": "2025-04-11 02:22:57 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-11 03:22:29 +0000",
-      "minecraft:old_growth_birch_forest": "2025-04-09 02:29:02 +0000"
+      "minecraft:flower_forest": "2025-04-17 04:13:56 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-09 02:29:02 +0000",
+      "minecraft:plains": "2025-04-17 02:51:23 +0000"
     },
     "done": false
   },
@@ -1790,7 +1846,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 01:59:52 +0000"
+      "log_spam_fixer": "2025-04-17 04:14:52 +0000"
     },
     "done": false
   },
@@ -1848,6 +1904,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-04-17 03:43:50 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/casing_medium": {
     "criteria": {
       "has_iron_nugget": "2025-04-11 02:24:23 +0000"
@@ -1857,6 +1919,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-04-13 03:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-04-17 02:44:39 +0000"
     },
     "done": true
   },
@@ -2048,7 +2116,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 01:59:52 +0000"
+      "log_spam_fixer": "2025-04-17 04:14:52 +0000"
     },
     "done": false
   },
@@ -2103,6 +2171,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-13 02:54:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-04-17 03:43:50 +0000"
     },
     "done": true
   },
@@ -2384,7 +2458,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_mutton": "2025-04-09 02:54:28 +0000"
+      "cooked_mutton": "2025-04-09 02:54:28 +0000",
+      "bread": "2025-04-17 02:30:20 +0000"
     },
     "done": false
   },
@@ -2796,6 +2871,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-04-17 03:06:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-13 02:54:16 +0000"
@@ -2822,7 +2903,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 01:59:52 +0000"
+      "log_spam_fixer": "2025-04-17 04:14:52 +0000"
     },
     "done": false
   },
@@ -3032,7 +3113,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 01:59:52 +0000"
+      "log_spam_fixer": "2025-04-17 04:14:52 +0000"
     },
     "done": false
   },
@@ -3116,7 +3197,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 01:59:52 +0000"
+      "log_spam_fixer": "2025-04-17 04:14:52 +0000"
     },
     "done": false
   },
@@ -3468,6 +3549,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-04-17 03:43:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-04-09 03:02:44 +0000"
@@ -3483,6 +3570,12 @@
   "securitycraft:recipes/securitycraft/reinforced_mossy_stone_bricks_from_vanilla_moss": {
     "criteria": {
       "has_moss": "2025-04-09 02:29:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-04-17 02:24:00 +0000"
     },
     "done": true
   },
@@ -3597,6 +3690,12 @@
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-09 03:05:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-17 03:06:25 +0000"
     },
     "done": true
   },
@@ -3780,9 +3879,15 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-17 02:44:38 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 01:59:52 +0000"
+      "log_spam_fixer": "2025-04-17 04:14:52 +0000"
     },
     "done": false
   },
@@ -3818,7 +3923,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 01:59:52 +0000"
+      "log_spam_fixer": "2025-04-17 04:14:52 +0000"
     },
     "done": false
   },
@@ -3854,7 +3959,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 01:59:52 +0000"
+      "log_spam_fixer": "2025-04-17 04:14:52 +0000"
     },
     "done": false
   },
