@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-04-20 03:04:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-04-09 02:27:38 +0000"
@@ -1839,6 +1845,12 @@
   "cgm:recipes/cgm/light_grip": {
     "criteria": {
       "has_iron_ingot": "2025-04-13 02:29:08 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-04-20 03:11:13 +0000"
     },
     "done": true
   },
