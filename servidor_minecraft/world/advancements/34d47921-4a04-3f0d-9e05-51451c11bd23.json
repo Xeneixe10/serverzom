@@ -957,6 +957,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-04-20 02:53:37 +0000"
+    },
+    "done": true
+  },
   "ava:recipes/survival/lens": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 03:50:16 +0000"
@@ -1002,6 +1008,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-04-13 03:40:49 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-04-20 02:53:37 +0000"
     },
     "done": true
   },

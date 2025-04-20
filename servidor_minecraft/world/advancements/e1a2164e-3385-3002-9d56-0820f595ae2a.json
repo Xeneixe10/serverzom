@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-20 02:58:55 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-17 04:00:27 +0000"
@@ -428,6 +434,12 @@
   "securitycraft:recipes/securitycraft/taser": {
     "criteria": {
       "has_redstone": "2025-04-09 04:00:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-20 02:58:55 +0000"
     },
     "done": true
   },
@@ -2534,6 +2546,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-20 02:58:55 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/shield": {
     "criteria": {
       "log_spam_fixer": "2025-04-09 02:21:46 +0000"
@@ -2591,6 +2609,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-04-09 04:30:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-20 02:58:55 +0000"
     },
     "done": true
   },
@@ -3302,6 +3326,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-20 02:58:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_shell": "2025-04-09 03:34:34 +0000"
@@ -3383,6 +3413,12 @@
   "additionalguns:recipes/additionalguns/ots_03": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2025-04-20 02:54:19 +0000"
     },
     "done": true
   },
@@ -3935,6 +3971,12 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-04-11 02:26:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-20 02:58:55 +0000"
     },
     "done": true
   },

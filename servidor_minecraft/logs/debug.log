@@ -10766,3 +10766,22 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [20Apr2025 02:55:37.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
 [20Apr2025 02:56:14.232] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
 [20Apr2025 02:56:36.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Added 70.0 sanity to ElTermi04]
+[20Apr2025 02:58:05.568] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 02:58:05.579] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 03:00:04.196] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting insane96mcp/enhancedai/modules/witch/ai/DarkArtWitchGoal$Phase
+[20Apr2025 03:01:45.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: axel moved wrongly!
+[20Apr2025 03:02:57.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Spectator Mode]
+[20Apr2025 03:03:05.588] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 03:03:05.602] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 03:03:10.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[20Apr2025 03:03:14.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[20Apr2025 03:03:17.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Added 70.0 sanity to ElTermi04]
+[20Apr2025 03:03:22.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Spectator Mode]
+[20Apr2025 03:03:27.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[20Apr2025 03:03:34.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[20Apr2025 03:04:04.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[20Apr2025 03:05:31.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[20Apr2025 03:06:04.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Spectator Mode]
+[20Apr2025 03:06:41.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[20Apr2025 03:06:49.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Spectator Mode]
+[20Apr2025 03:07:18.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
