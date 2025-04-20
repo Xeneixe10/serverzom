@@ -1923,6 +1923,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-04-20 03:43:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-04-13 03:13:22 +0000"
@@ -3216,7 +3222,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-04-20 03:38:05 +0000"
+      "requirement": "2025-04-20 03:48:05 +0000"
     },
     "done": false
   },
