@@ -3160,12 +3160,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-04-20 02:23:05 +0000"
-    },
-    "done": false
-  },
   "majruszsdifficulty:game_stage_normal": {
     "criteria": {
       "is_triggered": "2025-04-08 02:14:09 +0000"

@@ -10659,3 +10659,39 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [20Apr2025 02:27:01.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: axel was slain by Rotting Stalker
 [20Apr2025 02:27:01.705] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful axel
 [20Apr2025 02:27:03.188] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa axel
+[20Apr2025 02:27:43.690] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 10.07696533203125) to LOW (avg. 22.001602172851562)
+[20Apr2025 02:28:05.603] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 02:28:05.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 02:28:10.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[20Apr2025 02:28:13.690] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.553659439086914) to VERY_LOW (avg. 8.152417182922363)
+[20Apr2025 02:28:34.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Added 70.0 sanity to ElTermi04]
+[20Apr2025 02:28:40.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[20Apr2025 02:30:17.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[20Apr2025 02:30:27.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix was slain by Runner
+[20Apr2025 02:30:27.409] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful qdrix
+[20Apr2025 02:30:28.725] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa qdrix
+[20Apr2025 02:31:14.407] [Server thread/WARN] [cgm/]: literal{qdrix}(e1a2164e-3385-3002-9d56-0820f595ae2a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 97
+[20Apr2025 02:31:20.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Applied enchantment Fortune III to ElTermi04's item]
+[20Apr2025 02:31:27.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Applied enchantment Efficiency III to ElTermi04's item]
+[20Apr2025 02:31:50.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Applied enchantment Unbreaking III to ElTermi04's item]
+[20Apr2025 02:31:56.343] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[20Apr2025 02:32:05.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Applied enchantment Smite III to ElTermi04's item]
+[20Apr2025 02:32:21.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[20Apr2025 02:32:33.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Applied enchantment Sharpness III to ElTermi04's item]
+[20Apr2025 02:32:35.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Applied enchantment Unbreaking III to ElTermi04's item]
+[20Apr2025 02:32:36.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[20Apr2025 02:32:43.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Applied enchantment Unbreaking III to ElTermi04's item]
+[20Apr2025 02:32:46.347] [Server thread/DEBUG] [mixin/]: Mixing alloc.enum_values.piston_structure.PistonStructureResolverMixin from canary.mixins.json into net.minecraft.world.level.block.piston.PistonStructureResolver
+[20Apr2025 02:32:52.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Applied enchantment Infinity to ElTermi04's item]
+[20Apr2025 02:32:57.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Applied enchantment Power III to ElTermi04's item]
+[20Apr2025 02:33:01.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[20Apr2025 02:33:05.585] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 02:33:05.598] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 02:33:07.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[20Apr2025 02:33:10.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Spectator Mode]
+[20Apr2025 02:33:35.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[20Apr2025 02:34:05.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Added 70.0 sanity to ElTermi04]
+[20Apr2025 02:34:05.980] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of structory:decoration/jungle_well
+[20Apr2025 02:36:51.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[20Apr2025 02:37:38.700] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] Game difficulty is set to PEACEFUL with a 1.0 factor.
+[20Apr2025 02:37:38.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: The difficulty has been set to Peaceful]
