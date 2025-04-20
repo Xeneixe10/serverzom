@@ -1423,6 +1423,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-04-20 03:30:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-04-20 02:37:48 +0000"
@@ -2408,6 +2414,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-04-20 03:36:50 +0000",
       "bread": "2025-04-17 03:55:13 +0000",
       "cookie": "2025-04-13 02:40:10 +0000",
       "melon_slice": "2025-04-11 02:26:40 +0000"

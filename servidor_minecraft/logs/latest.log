@@ -1578,3 +1578,18 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [20Apr2025 03:23:20.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Teleported axel to qdrix]
 [20Apr2025 03:24:10.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElTermi04> f
 [20Apr2025 03:24:39.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix has made the advancement [Hot Stuff]
+[20Apr2025 03:29:49.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <axel> zzz
+[20Apr2025 03:30:35.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <axel> zzz
+[20Apr2025 03:31:00.847] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] Game difficulty is set to PEACEFUL with a 1.0 factor.
+[20Apr2025 03:31:00.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: The difficulty has been set to Peaceful]
+[20Apr2025 03:31:03.015] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] Game difficulty is set to NORMAL with a 1.0 factor.
+[20Apr2025 03:31:03.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: The difficulty has been set to Normal]
+[20Apr2025 03:31:29.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[20Apr2025 03:31:47.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[20Apr2025 03:32:24.154] [Server thread/WARN] [cgm/]: literal{qdrix}(e1a2164e-3385-3002-9d56-0820f595ae2a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 98
+[20Apr2025 03:32:54.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Spectator Mode]
+[20Apr2025 03:32:57.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[20Apr2025 03:32:59.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Spectator Mode]
+[20Apr2025 03:33:02.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[20Apr2025 03:33:53.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Applied effect Regeneration to ElTermi04]
+[20Apr2025 03:37:28.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Applied effect Regeneration to ElTermi04]
