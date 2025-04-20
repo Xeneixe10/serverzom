@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-04-20 03:28:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-04-09 02:31:30 +0000"
@@ -257,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-20 03:19:58 +0000"
+    },
+    "done": true
+  },
   "projectarsenal:recipes/projectarsenal/cz75": {
     "criteria": {
       "has_iron_ingots": "2025-04-09 03:50:16 +0000"
@@ -344,6 +356,12 @@
   "securitycraft:recipes/securitycraft/taser": {
     "criteria": {
       "has_redstone": "2025-04-11 03:48:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-20 03:19:58 +0000"
     },
     "done": true
   },
@@ -2031,6 +2049,7 @@
       "golden_apple": "2025-04-17 02:24:50 +0000",
       "suspicious_stew": "2025-04-17 02:24:22 +0000",
       "melon_slice": "2025-04-11 02:34:57 +0000",
+      "cooked_chicken": "2025-04-20 03:26:24 +0000",
       "cod": "2025-04-09 03:17:21 +0000"
     },
     "done": false
@@ -2161,6 +2180,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-20 03:19:58 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/shield": {
     "criteria": {
       "log_spam_fixer": "2025-04-09 02:11:50 +0000"
@@ -2218,6 +2243,12 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_rose_red": "2025-04-13 03:46:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-20 03:19:58 +0000"
     },
     "done": true
   },
@@ -2665,12 +2696,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-04-20 03:18:05 +0000"
-    },
-    "done": false
-  },
   "majruszsdifficulty:game_stage_normal": {
     "criteria": {
       "is_triggered": "2025-04-09 02:11:49 +0000"
@@ -2884,6 +2909,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-11 03:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-20 03:19:58 +0000"
     },
     "done": true
   },
@@ -3418,6 +3449,12 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-04-11 02:33:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-20 03:19:58 +0000"
     },
     "done": true
   },

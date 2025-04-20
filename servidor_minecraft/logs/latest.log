@@ -1561,3 +1561,20 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [20Apr2025 03:17:25.528] [Server thread/WARN] [cgm/]: literal{ElTermi04}(dcec059e-5777-39ca-a449-3f50e71571e6) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 295
 [20Apr2025 03:17:25.727] [Server thread/WARN] [cgm/]: literal{ElTermi04}(dcec059e-5777-39ca-a449-3f50e71571e6) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 96
 [20Apr2025 03:17:26.271] [Server thread/WARN] [cgm/]: literal{ElTermi04}(dcec059e-5777-39ca-a449-3f50e71571e6) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 249
+[20Apr2025 03:18:38.673] [Server thread/WARN] [cgm/]: literal{ElTermi04}(dcec059e-5777-39ca-a449-3f50e71571e6) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 302
+[20Apr2025 03:18:39.278] [Server thread/WARN] [cgm/]: literal{ElTermi04}(dcec059e-5777-39ca-a449-3f50e71571e6) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 294
+[20Apr2025 03:18:42.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Added 70.0 sanity to ElTermi04]
+[20Apr2025 03:19:41.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElTermi04> zzz
+[20Apr2025 03:20:56.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <axel> zzz
+[20Apr2025 03:21:11.351] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] Game difficulty is set to PEACEFUL with a 1.0 factor.
+[20Apr2025 03:21:11.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: The difficulty has been set to Peaceful]
+[20Apr2025 03:21:15.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Added 70.0 sanity to ElTermi04]
+[20Apr2025 03:21:20.097] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] Game difficulty is set to NORMAL with a 1.0 factor.
+[20Apr2025 03:21:20.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: The difficulty has been set to Normal]
+[20Apr2025 03:21:41.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[20Apr2025 03:22:04.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[20Apr2025 03:22:06.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: axel moved wrongly!
+[20Apr2025 03:22:49.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Teleported ElTermi04 to qdrix]
+[20Apr2025 03:23:20.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Teleported axel to qdrix]
+[20Apr2025 03:24:10.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElTermi04> f
+[20Apr2025 03:24:39.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix has made the advancement [Hot Stuff]
