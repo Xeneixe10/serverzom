@@ -775,12 +775,6 @@
     },
     "done": false
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 04:14:52 +0000"
-    },
-    "done": false
-  },
   "mekanism:root": {
     "criteria": {
       "automatic": "2025-04-09 02:21:45 +0000"
@@ -1128,12 +1122,6 @@
       "has_blackstone": "2025-04-11 03:28:32 +0000"
     },
     "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 04:14:52 +0000"
-    },
-    "done": false
   },
   "projectarsenal:recipes/projectarsenal/m231": {
     "criteria": {
@@ -1570,12 +1558,6 @@
     },
     "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 04:14:52 +0000"
-    },
-    "done": false
-  },
   "securitycraft:recipes/securitycraft/reinforced_orange_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-04-17 04:00:27 +0000"
@@ -1599,12 +1581,6 @@
       "has_cobblestone": "2025-04-09 02:34:37 +0000"
     },
     "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 04:14:52 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
@@ -1715,12 +1691,6 @@
       "has_iron_ingot": "2025-04-09 04:00:13 +0000"
     },
     "done": true
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 04:14:52 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
@@ -1979,12 +1949,6 @@
       "has_white_wool": "2025-04-13 03:20:43 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 04:14:52 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
@@ -2684,12 +2648,6 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 04:14:52 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2025-04-11 03:28:32 +0000"
@@ -2852,12 +2810,6 @@
     },
     "done": true
   },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 04:14:52 +0000"
-    },
-    "done": false
-  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-04-09 02:35:54 +0000"
@@ -2911,12 +2863,6 @@
       "has_sand": "2025-04-09 02:43:53 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 04:14:52 +0000"
-    },
-    "done": false
   },
   "majruszsdifficulty:game_stage_normal": {
     "criteria": {
@@ -3578,12 +3524,6 @@
     },
     "done": true
   },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 04:14:52 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-04-09 02:31:53 +0000"
@@ -3608,12 +3548,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 04:14:52 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-04-09 02:54:29 +0000"
@@ -3631,12 +3565,6 @@
       "has_white_wool": "2025-04-13 03:20:43 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 04:14:52 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
