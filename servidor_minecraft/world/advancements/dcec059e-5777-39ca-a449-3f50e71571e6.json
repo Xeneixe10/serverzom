@@ -1731,6 +1731,7 @@
       "minecraft:sparse_jungle": "2025-04-09 02:34:55 +0000",
       "minecraft:lukewarm_ocean": "2025-04-09 02:52:55 +0000",
       "minecraft:river": "2025-04-09 02:52:54 +0000",
+      "minecraft:cold_ocean": "2025-04-20 02:19:29 +0000",
       "minecraft:forest": "2025-04-17 01:59:43 +0000",
       "minecraft:lush_caves": "2025-04-09 01:54:58 +0000",
       "minecraft:ocean": "2025-04-09 02:58:37 +0000",
@@ -1979,6 +1980,12 @@
   "ava:recipes/main/gun_modifying_table": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 03:39:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2025-04-20 02:20:34 +0000"
     },
     "done": true
   },
@@ -2399,6 +2406,12 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-04-09 03:02:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-04-20 02:18:14 +0000"
     },
     "done": true
   },
@@ -3147,6 +3160,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-04-20 02:23:05 +0000"
+    },
+    "done": false
+  },
   "majruszsdifficulty:game_stage_normal": {
     "criteria": {
       "is_triggered": "2025-04-08 02:14:09 +0000"
@@ -3204,6 +3223,12 @@
   "securitycraft:recipes/securitycraft/keycard_lv1": {
     "criteria": {
       "has_iron": "2025-04-09 03:39:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-04-20 02:18:14 +0000"
     },
     "done": true
   },
@@ -3402,6 +3427,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-04-09 03:02:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_leggings": "2025-04-20 02:20:34 +0000"
     },
     "done": true
   },

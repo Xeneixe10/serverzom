@@ -10594,3 +10594,68 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [20Apr2025 02:16:56.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <axel> zz
 [20Apr2025 02:16:57.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <axel> zz
 [20Apr2025 02:17:10.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <axel> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[20Apr2025 02:17:19.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Spectator Mode]
+[20Apr2025 02:17:21.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[20Apr2025 02:18:05.646] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 02:18:05.660] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 02:18:23.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElTermi04> zzz
+[20Apr2025 02:18:34.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Added 70.0 sanity to ElTermi04]
+[20Apr2025 02:19:08.678] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[20Apr2025 02:19:08.682] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityBasedExplosionDamageCalculatorMixin from canary.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[20Apr2025 02:19:08.963] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/projectvibrantjourneys/util/PortalType
+[20Apr2025 02:19:09.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: axel moved wrongly!
+[20Apr2025 02:19:14.651] [Worker-Main-3/WARN] [ModernFix/]: The namespace structory contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[20Apr2025 02:19:14.651] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/statue1 is being run through DFU (hash af1abe5f10f08c778adc376828f18423f08c69e59e05ecdbb14b700b1be1f811), this will cause launch time delays
+[20Apr2025 02:19:14.651] [Worker-Main-3/INFO] [ModernFix/]: Instantiating Mojang DFU
+[20Apr2025 02:19:14.862] [Worker-Main-3/DEBUG] [mixin/]: Mixing DataFixMixin from armourersworkshop-mixins.json into net.minecraft.util.datafix.schemas.V1460
+[20Apr2025 02:19:14.863] [Worker-Main-3/DEBUG] [mixin/]: armourersworkshop-mixins.json:DataFixMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[20Apr2025 02:19:14.863] [Worker-Main-3/DEBUG] [mixin/]: Renaming synthetic method lambda$aw2$registerBlockEntities$1(Ljava/util/function/BiConsumer;Lnet/minecraft/resources/ResourceLocation;)V to md89df64$lambda$aw2$registerBlockEntities$1$0 in armourersworkshop-mixins.json:DataFixMixin
+[20Apr2025 02:19:14.863] [Worker-Main-3/DEBUG] [mixin/]: Renaming synthetic method lambda$aw2$registerEntities$0(Ljava/util/function/BiConsumer;Lnet/minecraft/resources/ResourceLocation;)V to md89df64$lambda$aw2$registerEntities$0$1 in armourersworkshop-mixins.json:DataFixMixin
+[20Apr2025 02:19:14.974] [Worker-Main-3/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[20Apr2025 02:19:17.599] [Worker-Main-22/DEBUG] [ModernFix/]: Structure structory:ruin/taiga_surface/tower1 is being run through DFU (hash 5f8cd286c943a127efbef3d3be019af7732e10476b40951686566bd7ceaa9a0d), this will cause launch time delays
+[20Apr2025 02:19:17.616] [Worker-Main-22/DEBUG] [ModernFix/]: Structure structory:ruin/northern_ruins/house3 is being run through DFU (hash cede5f78d3c091ad7f58fb27463bcfe1aaf648c006c206d5a2e7b6899207a004), this will cause launch time delays
+[20Apr2025 02:19:17.625] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/main_piece
+[20Apr2025 02:19:19.213] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nullscape:skeleton/6
+[20Apr2025 02:19:20.692] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/farm_ruin/main
+[20Apr2025 02:19:20.702] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:outcast_villager/farm_ruin/connector is being run through DFU (hash f9cdb714b98bbe1cef2000d8dd772c7b4287f690d0d5a2d6219fc5fc18f9aab3), this will cause launch time delays
+[20Apr2025 02:19:21.209] [Worker-Main-11/DEBUG] [ModernFix/]: Structure structory:outcast_villager/tower/desert_small1 is being run through DFU (hash a293eeb16f31f494d894f417f75f763e6743810b68be3dcefbd57dfc547681e2), this will cause launch time delays
+[20Apr2025 02:19:21.249] [Worker-Main-11/DEBUG] [ModernFix/]: Structure structory:outcast_villager/graveyard/main1 is being run through DFU (hash 894cb9e1465dbc8f3399f332bf462c20658231822c8927a8c37e37eeab1d2137), this will cause launch time delays
+[20Apr2025 02:19:21.279] [Worker-Main-11/DEBUG] [ModernFix/]: Structure structory:outcast_villager/boat/3/top is being run through DFU (hash 650d40991420c09b2cfdf15565ad6237acbc8c2ad7b0687eab982f4304271535), this will cause launch time delays
+[20Apr2025 02:19:21.821] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 12.898910522460938) to LOW (avg. 33.713104248046875)
+[20Apr2025 02:19:22.561] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/ruin2
+[20Apr2025 02:19:22.571] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:ruin/northern_ruins/circle_small is being run through DFU (hash d0690b6ecfe2bcc0864d318c005dd5f900804655e07f7786bd1560400f83462d), this will cause launch time delays
+[20Apr2025 02:19:26.785] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:temple/temple_ruin
+[20Apr2025 02:19:26.990] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor
+[20Apr2025 02:19:27.353] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/1x1_l1
+[20Apr2025 02:19:28.690] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 33.713104248046875) to VERY_LOW (avg. 17.000871658325195)
+[20Apr2025 02:19:29.058] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/castle
+[20Apr2025 02:19:33.588] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:ruin/glacial/interior2
+[20Apr2025 02:19:43.712] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.000871658325195) to LOW (avg. 25.928707122802734)
+[20Apr2025 02:19:44.458] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of ava:dark_blue_robot_container
+[20Apr2025 02:19:46.722] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/start1
+[20Apr2025 02:19:46.744] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_kitchen
+[20Apr2025 02:19:46.813] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:the_lab
+[20Apr2025 02:19:46.888] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:arena
+[20Apr2025 02:19:46.906] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/towncenter4
+[20Apr2025 02:20:06.190] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.480627059936523) to VERY_LOW (avg. 9.53903579711914)
+[20Apr2025 02:20:26.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Spectator Mode]
+[20Apr2025 02:20:28.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[20Apr2025 02:20:58.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[20Apr2025 02:23:05.595] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 02:23:05.610] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 02:23:06.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Added 70.0 sanity to ElTermi04]
+[20Apr2025 02:24:21.281] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 10.057080268859863) to NORMAL (avg. 40.83681106567383)
+[20Apr2025 02:24:28.689] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.83681106567383) to VERY_LOW (avg. 11.463272094726562)
+[20Apr2025 02:24:43.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <axel> zzzzzzzzzzzz
+[20Apr2025 02:24:43.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Spectator Mode]
+[20Apr2025 02:25:02.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[20Apr2025 02:25:30.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[20Apr2025 02:25:59.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[20Apr2025 02:26:03.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[20Apr2025 02:26:17.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[20Apr2025 02:26:22.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[20Apr2025 02:26:42.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[20Apr2025 02:26:52.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[20Apr2025 02:27:01.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: axel was slain by Rotting Stalker
+[20Apr2025 02:27:01.705] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful axel
+[20Apr2025 02:27:03.188] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa axel

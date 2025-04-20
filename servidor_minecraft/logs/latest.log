@@ -1417,3 +1417,34 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [20Apr2025 02:16:56.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <axel> zz
 [20Apr2025 02:16:57.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <axel> zz
 [20Apr2025 02:17:10.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <axel> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[20Apr2025 02:17:19.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Spectator Mode]
+[20Apr2025 02:17:21.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[20Apr2025 02:18:23.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElTermi04> zzz
+[20Apr2025 02:18:34.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Added 70.0 sanity to ElTermi04]
+[20Apr2025 02:19:08.678] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[20Apr2025 02:19:08.963] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/projectvibrantjourneys/util/PortalType
+[20Apr2025 02:19:09.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: axel moved wrongly!
+[20Apr2025 02:19:14.651] [Worker-Main-3/WARN] [ModernFix/]: The namespace structory contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[20Apr2025 02:19:14.651] [Worker-Main-3/INFO] [ModernFix/]: Instantiating Mojang DFU
+[20Apr2025 02:19:14.974] [Worker-Main-3/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[20Apr2025 02:19:21.821] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 12.898910522460938) to LOW (avg. 33.713104248046875)
+[20Apr2025 02:19:28.690] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 33.713104248046875) to VERY_LOW (avg. 17.000871658325195)
+[20Apr2025 02:19:43.712] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.000871658325195) to LOW (avg. 25.928707122802734)
+[20Apr2025 02:20:06.190] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.480627059936523) to VERY_LOW (avg. 9.53903579711914)
+[20Apr2025 02:20:26.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Spectator Mode]
+[20Apr2025 02:20:28.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[20Apr2025 02:20:58.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[20Apr2025 02:23:06.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Added 70.0 sanity to ElTermi04]
+[20Apr2025 02:24:21.281] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 10.057080268859863) to NORMAL (avg. 40.83681106567383)
+[20Apr2025 02:24:28.689] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.83681106567383) to VERY_LOW (avg. 11.463272094726562)
+[20Apr2025 02:24:43.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <axel> zzzzzzzzzzzz
+[20Apr2025 02:24:43.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Spectator Mode]
+[20Apr2025 02:25:02.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[20Apr2025 02:25:30.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[20Apr2025 02:25:59.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[20Apr2025 02:26:03.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[20Apr2025 02:26:17.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[20Apr2025 02:26:22.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[20Apr2025 02:26:42.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[20Apr2025 02:26:52.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[20Apr2025 02:27:01.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: axel was slain by Rotting Stalker
