@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-04-20 02:46:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2025-04-17 03:13:41 +0000"
@@ -670,6 +676,7 @@
       "minecraft:pillager": "2025-04-17 03:54:02 +0000",
       "minecraft:skeleton": "2025-04-11 03:52:31 +0000",
       "minecraft:phantom": "2025-04-17 03:43:51 +0000",
+      "minecraft:silverfish": "2025-04-20 02:52:38 +0000",
       "minecraft:zombie": "2025-04-11 03:46:30 +0000"
     },
     "done": false
@@ -1516,6 +1523,12 @@
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_red_dye": "2025-04-13 03:46:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-04-20 02:51:00 +0000"
     },
     "done": true
   },
