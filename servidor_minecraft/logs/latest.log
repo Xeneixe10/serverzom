@@ -4767,3 +4767,82 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [22Apr2025 02:13:59.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
 [22Apr2025 02:14:08.167] [Server thread/INFO] [APTweaks(Player)/]: Protected Player axel was successful validated after 20 secs.
 [22Apr2025 02:14:08.167] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player axel!
+[22Apr2025 02:17:54.872] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: axel lost connection: Disconnected
+[22Apr2025 02:17:54.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: axel left the game
+[22Apr2025 02:17:54.873] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 34d47921-4a04-3f0d-9e05-51451c11bd23 was unloaded
+[22Apr2025 02:17:54.873] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client axel
+[22Apr2025 02:18:05.928] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@57a048dd
+[22Apr2025 02:18:05.932] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: axel[/172.24.109.155:55620] logged in with entity id 70924 at (-1289.3478838878013, 118.5625, 1819.300000011921)
+[22Apr2025 02:18:05.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: axel joined the game
+[22Apr2025 02:18:05.994] [Server thread/INFO] [APTweaks(Player)/]: Player axel ServerPlayer['axel'/70924, l='ServerLevel[world]', x=-1289.35, y=118.56, z=1819.30] logged in and will be protected for 90 secs.
+[22Apr2025 02:18:05.994] [Server thread/INFO] [Jade/]: Syncing config to axel (34d47921-4a04-3f0d-9e05-51451c11bd23)
+[22Apr2025 02:18:06.136] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of axel (18)
+[22Apr2025 02:18:06.137] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to axel
+[22Apr2025 02:18:06.272] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 34d47921-4a04-3f0d-9e05-51451c11bd23 was loaded
+[22Apr2025 02:18:09.198] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 34d47921-4a04-3f0d-9e05-51451c11bd23
+[22Apr2025 02:18:10.200] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 34d47921-4a04-3f0d-9e05-51451c11bd23
+[22Apr2025 02:18:10.200] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player axel (34d47921-4a04-3f0d-9e05-51451c11bd23) successfully connected to voice chat
+[22Apr2025 02:18:12.118] [Server thread/INFO] [APTweaks(Player)/]: Protected Player axel was successful validated after 6 secs.
+[22Apr2025 02:18:12.118] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player axel!
+[22Apr2025 02:20:54.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of ElTermi04) moved too quickly! -7.402557384342799,-2.37211030894224,6.295919441824026
+[22Apr2025 02:20:54.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of ElTermi04) moved too quickly! -7.6245034366763775,-2.6616602078219955,6.2658347782062265
+[22Apr2025 02:20:54.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of ElTermi04) moved too quickly! -7.841340893140114,-2.9231679985046384,6.233835682501422
+[22Apr2025 02:20:54.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of ElTermi04) moved too quickly! -8.2237761447077,-2.9231679985046384,6.153602971846112
+[22Apr2025 02:20:54.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of ElTermi04) moved too quickly! -8.617469225205241,-2.9231679985046384,6.0589761317587545
+[22Apr2025 02:20:54.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of ElTermi04) moved too quickly! -9.017186145506457,-2.9231679985046384,5.9566472800001975
+[22Apr2025 02:20:54.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of ElTermi04) moved too quickly! -9.420126302384006,-2.9231679985046384,5.8501972353581095
+[22Apr2025 02:20:54.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of ElTermi04) moved too quickly! -9.82479114888929,-2.9231679985046384,5.741542022571593
+[22Apr2025 02:20:54.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of ElTermi04) moved too quickly! -10.230378842427854,-2.9231679985046384,5.631706868277433
+[22Apr2025 02:20:54.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of ElTermi04) moved too quickly! -10.636460333014156,-2.9231679985046384,5.521240350808057
+[22Apr2025 02:20:54.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of ElTermi04) moved too quickly! -11.042806044555618,-2.9231679985046384,5.410436003491441
+[22Apr2025 02:20:54.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of ElTermi04) moved too quickly! -11.449293135462085,-2.9231679985046384,5.299450890159278
+[22Apr2025 02:20:54.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of ElTermi04) moved too quickly! -11.855855875648103,-2.9231679985046384,5.188369052536245
+[22Apr2025 02:20:54.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of ElTermi04) moved too quickly! -12.262459094255064,-2.9231679985046384,5.07723545967383
+[22Apr2025 02:20:54.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of ElTermi04) moved too quickly! -12.67399838377196,-2.9231679985046384,4.989661653539542
+[22Apr2025 02:20:54.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of ElTermi04) moved too quickly! -13.089638666234578,-2.9231679985046384,4.957689777235146
+[22Apr2025 02:20:54.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of ElTermi04) moved too quickly! -13.499816614059228,-2.9231679985046384,4.99675835858784
+[22Apr2025 02:20:54.783] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2166ms or 43 ticks behind
+[22Apr2025 02:20:55.118] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from VERY_LOW (avg. 12.38458481) to LOW (avg. 27.135372649999997)
+[22Apr2025 02:21:06.832] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/69622, l='ServerLevel[world]', x=-1490.33, y=16.16, z=1843.47, removed=DISCARDED]
+[22Apr2025 02:21:07.329] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/69620, l='ServerLevel[world]', x=-1493.58, y=16.53, z=1841.47, removed=DISCARDED]
+[22Apr2025 02:21:07.329] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/69619, l='ServerLevel[world]', x=-1493.57, y=16.27, z=1840.51, removed=DISCARDED]
+[22Apr2025 02:21:26.524] [Server thread/WARN] [cgm/]: literal{axel}(34d47921-4a04-3f0d-9e05-51451c11bd23) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 141
+[22Apr2025 02:21:26.576] [Server thread/WARN] [cgm/]: literal{axel}(34d47921-4a04-3f0d-9e05-51451c11bd23) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 89
+[22Apr2025 02:21:26.643] [Server thread/WARN] [cgm/]: literal{qdrix}(e1a2164e-3385-3002-9d56-0820f595ae2a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 97
+[22Apr2025 02:21:26.776] [Server thread/WARN] [cgm/]: literal{axel}(34d47921-4a04-3f0d-9e05-51451c11bd23) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 150
+[22Apr2025 02:21:26.826] [Server thread/WARN] [cgm/]: literal{axel}(34d47921-4a04-3f0d-9e05-51451c11bd23) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
+[22Apr2025 02:21:26.978] [Server thread/WARN] [cgm/]: literal{axel}(34d47921-4a04-3f0d-9e05-51451c11bd23) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 149
+[22Apr2025 02:21:49.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElTermi04> zzz
+[22Apr2025 02:21:51.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[22Apr2025 02:22:00.292] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/45940, l='ServerLevel[world]', x=-1444.74, y=60.14, z=1688.49, removed=DISCARDED]
+[22Apr2025 02:22:09.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Applied effect Regeneration to ElTermi04]
+[22Apr2025 02:22:11.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[22Apr2025 02:22:27.149] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/45940, l='ServerLevel[world]', x=-1444.74, y=60.14, z=1688.49, removed=DISCARDED]
+[22Apr2025 02:22:38.752] [Server thread/WARN] [cgm/]: literal{qdrix}(e1a2164e-3385-3002-9d56-0820f595ae2a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 97
+[22Apr2025 02:22:38.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <axel> zzz
+[22Apr2025 02:22:47.727] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/45940, l='ServerLevel[world]', x=-1444.74, y=60.14, z=1688.49, removed=DISCARDED]
+[22Apr2025 02:22:49.128] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/69622, l='ServerLevel[world]', x=-1490.33, y=16.16, z=1843.47, removed=DISCARDED]
+[22Apr2025 02:22:49.226] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/69619, l='ServerLevel[world]', x=-1493.57, y=16.27, z=1840.51, removed=DISCARDED]
+[22Apr2025 02:22:49.433] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/69620, l='ServerLevel[world]', x=-1493.58, y=16.53, z=1841.47, removed=DISCARDED]
+[22Apr2025 02:22:54.176] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/69619, l='ServerLevel[world]', x=-1493.57, y=16.27, z=1840.51, removed=DISCARDED]
+[22Apr2025 02:22:57.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Spectator Mode]
+[22Apr2025 02:23:00.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[22Apr2025 02:23:08.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Applied effect Regeneration to ElTermi04]
+[22Apr2025 02:23:17.131] [Server thread/WARN] [cgm/]: literal{ElTermi04}(dcec059e-5777-39ca-a449-3f50e71571e6) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 147
+[22Apr2025 02:23:18.529] [Server thread/WARN] [cgm/]: literal{ElTermi04}(dcec059e-5777-39ca-a449-3f50e71571e6) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 196
+[22Apr2025 02:23:19.076] [Server thread/WARN] [cgm/]: literal{ElTermi04}(dcec059e-5777-39ca-a449-3f50e71571e6) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 311
+[22Apr2025 02:23:20.485] [Server thread/WARN] [cgm/]: literal{ElTermi04}(dcec059e-5777-39ca-a449-3f50e71571e6) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 143
+[22Apr2025 02:23:23.130] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/69622, l='ServerLevel[world]', x=-1490.33, y=16.16, z=1843.47, removed=DISCARDED]
+[22Apr2025 02:23:25.628] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/69622, l='ServerLevel[world]', x=-1490.33, y=16.16, z=1843.47, removed=DISCARDED]
+[22Apr2025 02:23:26.180] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/69619, l='ServerLevel[world]', x=-1493.57, y=16.27, z=1840.51, removed=DISCARDED]
+[22Apr2025 02:23:26.229] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/69620, l='ServerLevel[world]', x=-1493.58, y=16.53, z=1841.47, removed=DISCARDED]
+[22Apr2025 02:23:26.504] [Server thread/WARN] [cgm/]: literal{qdrix}(e1a2164e-3385-3002-9d56-0820f595ae2a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 96
+[22Apr2025 02:23:41.614] [Server thread/WARN] [cgm/]: literal{axel}(34d47921-4a04-3f0d-9e05-51451c11bd23) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 112
+[22Apr2025 02:24:21.828] [Server thread/WARN] [cgm/]: literal{ElTermi04}(dcec059e-5777-39ca-a449-3f50e71571e6) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 302
+[22Apr2025 02:24:22.948] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/69622, l='ServerLevel[world]', x=-1490.33, y=16.16, z=1843.47, removed=DISCARDED]
+[22Apr2025 02:24:23.149] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/69619, l='ServerLevel[world]', x=-1493.57, y=16.27, z=1840.51, removed=DISCARDED]
+[22Apr2025 02:24:23.305] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/69620, l='ServerLevel[world]', x=-1493.58, y=16.53, z=1841.47, removed=DISCARDED]
+[22Apr2025 02:24:25.294] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/45940, l='ServerLevel[world]', x=-1444.74, y=60.14, z=1688.49, removed=DISCARDED]
+[22Apr2025 02:24:38.300] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/45940, l='ServerLevel[world]', x=-1444.74, y=60.14, z=1688.49, removed=DISCARDED]
+[22Apr2025 02:25:11.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <axel> zzz
+[22Apr2025 02:25:51.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set the weather to clear]
