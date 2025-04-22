@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-04-22 03:15:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2025-04-09 03:18:40 +0000"
@@ -891,7 +897,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-22 03:03:46 +0000"
+      "log_spam_fixer": "2025-04-22 03:17:03 +0000"
     },
     "done": false
   },
@@ -1263,7 +1269,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-22 03:03:46 +0000"
+      "log_spam_fixer": "2025-04-22 03:17:03 +0000"
     },
     "done": false
   },
@@ -1746,7 +1752,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-22 03:03:46 +0000"
+      "log_spam_fixer": "2025-04-22 03:17:03 +0000"
     },
     "done": false
   },
@@ -1776,7 +1782,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-22 03:03:46 +0000"
+      "log_spam_fixer": "2025-04-22 03:17:03 +0000"
     },
     "done": false
   },
@@ -1796,6 +1802,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-04-09 02:34:20 +0000",
       "minecraft:deep_ocean": "2025-04-09 03:12:40 +0000",
+      "minecraft:frozen_river": "2025-04-22 03:16:35 +0000",
       "minecraft:sunflower_plains": "2025-04-22 02:32:51 +0000",
       "minecraft:birch_forest": "2025-04-17 02:00:02 +0000",
       "minecraft:beach": "2025-04-09 02:28:48 +0000",
@@ -1803,13 +1810,17 @@
       "minecraft:sparse_jungle": "2025-04-09 02:32:26 +0000",
       "minecraft:lukewarm_ocean": "2025-04-09 02:54:40 +0000",
       "minecraft:river": "2025-04-09 02:55:04 +0000",
+      "minecraft:snowy_taiga": "2025-04-22 03:16:51 +0000",
       "minecraft:cold_ocean": "2025-04-22 03:01:57 +0000",
       "minecraft:forest": "2025-04-09 03:58:56 +0000",
       "minecraft:lush_caves": "2025-04-09 03:32:46 +0000",
       "minecraft:deep_cold_ocean": "2025-04-22 03:02:00 +0000",
+      "minecraft:frozen_ocean": "2025-04-22 03:11:46 +0000",
+      "minecraft:deep_frozen_ocean": "2025-04-22 03:12:34 +0000",
       "minecraft:jungle": "2025-04-09 03:41:14 +0000",
       "minecraft:ocean": "2025-04-09 02:54:33 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-17 02:13:09 +0000",
+      "minecraft:snowy_beach": "2025-04-22 03:15:35 +0000",
       "minecraft:flower_forest": "2025-04-22 02:33:31 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-09 02:30:54 +0000",
       "minecraft:plains": "2025-04-17 02:34:20 +0000"
@@ -1896,7 +1907,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-22 03:03:46 +0000"
+      "log_spam_fixer": "2025-04-22 03:17:03 +0000"
     },
     "done": false
   },
@@ -2190,7 +2201,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-22 03:03:46 +0000"
+      "log_spam_fixer": "2025-04-22 03:17:03 +0000"
     },
     "done": false
   },
@@ -2985,7 +2996,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-22 03:03:46 +0000"
+      "log_spam_fixer": "2025-04-22 03:17:03 +0000"
     },
     "done": false
   },
@@ -3171,7 +3182,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-22 03:03:46 +0000"
+      "log_spam_fixer": "2025-04-22 03:17:03 +0000"
     },
     "done": false
   },
@@ -3249,7 +3260,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-22 03:03:46 +0000"
+      "log_spam_fixer": "2025-04-22 03:17:03 +0000"
     },
     "done": false
   },
@@ -3981,7 +3992,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-22 03:03:46 +0000"
+      "log_spam_fixer": "2025-04-22 03:17:03 +0000"
     },
     "done": false
   },
@@ -4011,7 +4022,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-22 03:03:46 +0000"
+      "log_spam_fixer": "2025-04-22 03:17:03 +0000"
     },
     "done": false
   },
@@ -4041,9 +4052,10 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-04-22 03:03:46 +0000"
+      "requirement": "2025-04-22 03:17:57 +0000",
+      "log_spam_fixer": "2025-04-22 03:17:03 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
