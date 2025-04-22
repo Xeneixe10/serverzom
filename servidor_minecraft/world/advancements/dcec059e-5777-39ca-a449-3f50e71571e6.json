@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2025-04-22 02:48:59 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/ak74": {
     "criteria": {
       "has_planks": "2025-04-09 02:27:33 +0000"
@@ -1740,6 +1746,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-04-22 02:48:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-04-17 02:24:00 +0000"
@@ -3066,6 +3078,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-04-22 02:48:59 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/refill_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-04-13 02:17:05 +0000"
@@ -3213,6 +3231,12 @@
   "securitycraft:recipes/securitycraft/redstone_mine": {
     "criteria": {
       "has_mine": "2025-04-13 04:06:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-04-22 02:50:52 +0000"
     },
     "done": true
   },
@@ -3798,6 +3822,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2025-04-22 02:48:59 +0000"
+    },
+    "done": true
+  },
   "projectarsenal:recipes/projectarsenal/auto9": {
     "criteria": {
       "has_iron_ingots": "2025-04-09 03:39:58 +0000"
@@ -4005,6 +4035,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-13 04:06:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-04-22 02:50:52 +0000"
     },
     "done": true
   },
