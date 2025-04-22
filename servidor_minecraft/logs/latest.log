@@ -4900,3 +4900,135 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [22Apr2025 02:34:18.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <axel> zzz
 [22Apr2025 02:34:25.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
 [22Apr2025 02:35:14.977] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/45940, l='ServerLevel[world]', x=-1444.74, y=60.14, z=1688.49, removed=DISCARDED]
+[22Apr2025 02:36:01.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <axel> zzz
+[22Apr2025 02:36:09.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Spectator Mode]
+[22Apr2025 02:36:20.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[22Apr2025 02:36:29.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set the weather to clear]
+[22Apr2025 02:36:45.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Spectator Mode]
+[22Apr2025 02:36:48.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[22Apr2025 02:37:19.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Applied effect Regeneration to ElTermi04]
+[22Apr2025 02:38:10.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Added 70.0 sanity to ElTermi04]
+[22Apr2025 02:38:20.417] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/45940, l='ServerLevel[world]', x=-1444.74, y=60.14, z=1688.49, removed=DISCARDED]
+[22Apr2025 02:39:12.723] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[22Apr2025 02:39:25.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElTermi04> zzz
+[22Apr2025 02:39:32.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[22Apr2025 02:39:38.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <axel> zz
+[22Apr2025 02:39:47.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[22Apr2025 02:40:49.325] [Netty Epoll Server IO #0/ERROR] [net.minecraft.network.PacketEncoder/]: Error receiving packet 83
+java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.ObjectArrayList.get(int)" because "this.wrapped" is null
+	at it.unimi.dsi.fastutil.objects.Object2ObjectOpenHashMap$MapIterator.nextEntry(Object2ObjectOpenHashMap.java:678) ~[fastutil-8.5.6.jar%2389!/:?]
+	at it.unimi.dsi.fastutil.objects.Object2ObjectOpenHashMap$KeyIterator.next(Object2ObjectOpenHashMap.java:1083) ~[fastutil-8.5.6.jar%2389!/:?]
+	at net.minecraft.nbt.CompoundTag.m_6434_(CompoundTag.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23369!/:?]
+	at net.minecraft.nbt.NbtIo.m_128950_(NbtIo.java:265) ~[server-1.19.2-20220805.130853-srg.jar%23369!/:?]
+	at net.minecraft.nbt.NbtIo.m_128941_(NbtIo.java:234) ~[server-1.19.2-20220805.130853-srg.jar%23369!/:?]
+	at net.minecraft.network.FriendlyByteBuf.m_130079_(FriendlyByteBuf.java:483) ~[server-1.19.2-20220805.130853-srg.jar%23369!/:?]
+	at net.minecraft.network.FriendlyByteBuf.writeItemStack(FriendlyByteBuf.java:541) ~[server-1.19.2-20220805.130853-srg.jar%23369!/:?]
+	at net.minecraft.network.FriendlyByteBuf.m_130055_(FriendlyByteBuf.java:520) ~[server-1.19.2-20220805.130853-srg.jar%23369!/:?]
+	at net.minecraft.network.protocol.game.ClientboundSetEquipmentPacket.m_5779_(ClientboundSetEquipmentPacket.java:49) ~[server-1.19.2-20220805.130853-srg.jar%23369!/:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:45) [server-1.19.2-20220805.130853-srg.jar%23369!/:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:14) [server-1.19.2-20220805.130853-srg.jar%23369!/:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) [netty-codec-4.1.77.Final.jar%2380!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:709) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:792) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:702) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:110) [netty-codec-4.1.77.Final.jar%2380!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:764) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext$WriteTask.run(AbstractChannelHandlerContext.java:1071) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:391) [netty-transport-classes-epoll-4.1.77.Final.jar%2385!/:4.1.77.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:995) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+[22Apr2025 02:40:49.325] [Netty Epoll Server IO #3/ERROR] [net.minecraft.network.PacketEncoder/]: Error receiving packet 83
+java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.ObjectArrayList.get(int)" because "this.wrapped" is null
+	at it.unimi.dsi.fastutil.objects.Object2ObjectOpenHashMap$MapIterator.nextEntry(Object2ObjectOpenHashMap.java:678) ~[fastutil-8.5.6.jar%2389!/:?]
+	at it.unimi.dsi.fastutil.objects.Object2ObjectOpenHashMap$KeyIterator.next(Object2ObjectOpenHashMap.java:1083) ~[fastutil-8.5.6.jar%2389!/:?]
+	at net.minecraft.nbt.CompoundTag.m_6434_(CompoundTag.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23369!/:?]
+	at net.minecraft.nbt.NbtIo.m_128950_(NbtIo.java:265) ~[server-1.19.2-20220805.130853-srg.jar%23369!/:?]
+	at net.minecraft.nbt.NbtIo.m_128941_(NbtIo.java:234) ~[server-1.19.2-20220805.130853-srg.jar%23369!/:?]
+	at net.minecraft.network.FriendlyByteBuf.m_130079_(FriendlyByteBuf.java:483) ~[server-1.19.2-20220805.130853-srg.jar%23369!/:?]
+	at net.minecraft.network.FriendlyByteBuf.writeItemStack(FriendlyByteBuf.java:541) ~[server-1.19.2-20220805.130853-srg.jar%23369!/:?]
+	at net.minecraft.network.FriendlyByteBuf.m_130055_(FriendlyByteBuf.java:520) ~[server-1.19.2-20220805.130853-srg.jar%23369!/:?]
+	at net.minecraft.network.protocol.game.ClientboundSetEquipmentPacket.m_5779_(ClientboundSetEquipmentPacket.java:49) ~[server-1.19.2-20220805.130853-srg.jar%23369!/:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:45) [server-1.19.2-20220805.130853-srg.jar%23369!/:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:14) [server-1.19.2-20220805.130853-srg.jar%23369!/:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) [netty-codec-4.1.77.Final.jar%2380!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:709) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:792) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:702) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:110) [netty-codec-4.1.77.Final.jar%2380!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:764) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext$WriteTask.run(AbstractChannelHandlerContext.java:1071) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:391) [netty-transport-classes-epoll-4.1.77.Final.jar%2385!/:4.1.77.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:995) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+[22Apr2025 02:40:49.374] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElTermi04 lost connection: Internal Exception: io.netty.handler.codec.EncoderException: java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.ObjectArrayList.get(int)" because "this.wrapped" is null
+[22Apr2025 02:40:49.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTermi04 left the game
+[22Apr2025 02:40:49.374] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of dcec059e-5777-39ca-a449-3f50e71571e6 was unloaded
+[22Apr2025 02:40:49.375] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ElTermi04
+[22Apr2025 02:40:49.383] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: axel lost connection: Internal Exception: io.netty.handler.codec.EncoderException: java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.ObjectArrayList.get(int)" because "this.wrapped" is null
+[22Apr2025 02:40:49.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: axel left the game
+[22Apr2025 02:40:49.383] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 34d47921-4a04-3f0d-9e05-51451c11bd23 was unloaded
+[22Apr2025 02:40:49.383] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client axel
+[22Apr2025 02:41:13.782] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3d613ef1
+[22Apr2025 02:41:13.786] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElTermi04[/172.24.55.145:55978] logged in with entity id 79139 at (-1263.968472891749, 85.6625000178814, 1581.7163270269125)
+[22Apr2025 02:41:13.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTermi04 joined the game
+[22Apr2025 02:41:13.851] [Server thread/INFO] [APTweaks(Player)/]: Player ElTermi04 ServerPlayer['ElTermi04'/79139, l='ServerLevel[world]', x=-1263.97, y=85.66, z=1581.72] logged in and will be protected for 90 secs.
+[22Apr2025 02:41:13.852] [Server thread/INFO] [Jade/]: Syncing config to ElTermi04 (dcec059e-5777-39ca-a449-3f50e71571e6)
+[22Apr2025 02:41:13.998] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ElTermi04 (18)
+[22Apr2025 02:41:13.999] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ElTermi04
+[22Apr2025 02:41:14.025] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of dcec059e-5777-39ca-a449-3f50e71571e6 was loaded
+[22Apr2025 02:41:16.954] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player dcec059e-5777-39ca-a449-3f50e71571e6
+[22Apr2025 02:41:17.955] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player dcec059e-5777-39ca-a449-3f50e71571e6
+[22Apr2025 02:41:17.956] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ElTermi04 (dcec059e-5777-39ca-a449-3f50e71571e6) successfully connected to voice chat
+[22Apr2025 02:41:18.018] [Server thread/INFO] [APTweaks(Player)/]: Protected Player ElTermi04 was successful validated after 4 secs.
+[22Apr2025 02:41:18.018] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player ElTermi04!
+[22Apr2025 02:43:48.579] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@57be90a3
+[22Apr2025 02:43:48.583] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: axel[/172.24.109.155:57295] logged in with entity id 79364 at (-1285.8782444580213, 87.0, 1553.0806224857615)
+[22Apr2025 02:43:48.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: axel joined the game
+[22Apr2025 02:43:48.628] [Server thread/INFO] [APTweaks(Player)/]: Player axel ServerPlayer['axel'/79364, l='ServerLevel[world]', x=-1285.88, y=87.00, z=1553.08] logged in and will be protected for 90 secs.
+[22Apr2025 02:43:48.629] [Server thread/INFO] [Jade/]: Syncing config to axel (34d47921-4a04-3f0d-9e05-51451c11bd23)
+[22Apr2025 02:43:50.637] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of axel (18)
+[22Apr2025 02:43:50.637] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to axel
+[22Apr2025 02:43:50.728] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 34d47921-4a04-3f0d-9e05-51451c11bd23 was loaded
+[22Apr2025 02:43:56.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[22Apr2025 02:44:01.568] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 34d47921-4a04-3f0d-9e05-51451c11bd23
+[22Apr2025 02:44:02.567] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 34d47921-4a04-3f0d-9e05-51451c11bd23
+[22Apr2025 02:44:02.568] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player axel (34d47921-4a04-3f0d-9e05-51451c11bd23) successfully connected to voice chat
+[22Apr2025 02:44:11.885] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/12944, l='ServerLevel[world]', x=-1162.94, y=85.00, z=1655.91, removed=DISCARDED]
+[22Apr2025 02:44:11.885] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/12945, l='ServerLevel[world]', x=-1162.94, y=85.00, z=1655.91, removed=DISCARDED]
+[22Apr2025 02:44:11.885] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/12946, l='ServerLevel[world]', x=-1162.94, y=85.00, z=1655.91, removed=DISCARDED]
+[22Apr2025 02:44:12.268] [Server thread/INFO] [APTweaks(Player)/]: Protected Player axel was successful validated after 23 secs.
+[22Apr2025 02:44:12.268] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player axel!
+[22Apr2025 02:44:52.579] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/12944, l='ServerLevel[world]', x=-1162.94, y=85.00, z=1655.91, removed=DISCARDED]
+[22Apr2025 02:44:52.579] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/12945, l='ServerLevel[world]', x=-1162.94, y=85.00, z=1655.91, removed=DISCARDED]
+[22Apr2025 02:44:52.579] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/12946, l='ServerLevel[world]', x=-1162.94, y=85.00, z=1655.91, removed=DISCARDED]
+[22Apr2025 02:45:04.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[22Apr2025 02:45:20.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Kicked axel: Kicked by an operator]
+[22Apr2025 02:45:20.775] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: axel lost connection: Kicked by an operator
+[22Apr2025 02:45:20.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: axel left the game
+[22Apr2025 02:45:20.775] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 34d47921-4a04-3f0d-9e05-51451c11bd23 was unloaded
+[22Apr2025 02:45:20.776] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client axel
+[22Apr2025 02:45:31.328] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@376798ed
+[22Apr2025 02:45:31.332] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: axel[/172.24.109.155:57406] logged in with entity id 80183 at (-1272.8916509529229, 86.0, 1572.8608915376865)
+[22Apr2025 02:45:31.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: axel joined the game
+[22Apr2025 02:45:31.379] [Server thread/INFO] [APTweaks(Player)/]: Player axel ServerPlayer['axel'/80183, l='ServerLevel[world]', x=-1272.89, y=86.00, z=1572.86] logged in and will be protected for 90 secs.
+[22Apr2025 02:45:31.379] [Server thread/INFO] [Jade/]: Syncing config to axel (34d47921-4a04-3f0d-9e05-51451c11bd23)
+[22Apr2025 02:45:31.631] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of axel (18)
+[22Apr2025 02:45:31.632] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to axel
+[22Apr2025 02:45:31.632] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 34d47921-4a04-3f0d-9e05-51451c11bd23 was loaded
+[22Apr2025 02:45:34.840] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 34d47921-4a04-3f0d-9e05-51451c11bd23
+[22Apr2025 02:45:36.842] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 34d47921-4a04-3f0d-9e05-51451c11bd23
+[22Apr2025 02:45:36.843] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player axel (34d47921-4a04-3f0d-9e05-51451c11bd23) successfully connected to voice chat
+[22Apr2025 02:45:38.367] [Server thread/INFO] [APTweaks(Player)/]: Protected Player axel was successful validated after 6 secs.
+[22Apr2025 02:45:38.367] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player axel!
