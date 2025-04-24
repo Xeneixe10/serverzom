@@ -987,6 +987,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-04-24 03:10:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-04-13 02:29:24 +0000"
@@ -1807,11 +1813,13 @@
       "minecraft:sparse_jungle": "2025-04-09 02:34:55 +0000",
       "minecraft:lukewarm_ocean": "2025-04-09 02:52:55 +0000",
       "minecraft:river": "2025-04-09 02:52:54 +0000",
+      "minecraft:snowy_plains": "2025-04-24 03:06:57 +0000",
       "minecraft:snowy_taiga": "2025-04-24 02:50:46 +0000",
       "minecraft:cold_ocean": "2025-04-20 02:19:29 +0000",
       "minecraft:forest": "2025-04-17 01:59:43 +0000",
       "minecraft:lush_caves": "2025-04-09 01:54:58 +0000",
       "minecraft:deep_cold_ocean": "2025-04-22 03:06:39 +0000",
+      "minecraft:frozen_ocean": "2025-04-24 03:11:26 +0000",
       "minecraft:ocean": "2025-04-09 02:58:37 +0000",
       "minecraft:jungle": "2025-04-11 02:22:57 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-11 03:22:29 +0000",
@@ -2113,6 +2121,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2025-04-13 02:54:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-04-24 03:10:45 +0000"
     },
     "done": true
   },
@@ -2777,6 +2791,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-04-24 03:10:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-09 02:29:45 +0000"
@@ -3301,7 +3321,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-04-24 03:05:37 +0000"
+      "requirement": "2025-04-24 03:15:37 +0000"
     },
     "done": false
   },
