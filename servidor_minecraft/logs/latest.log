@@ -13025,3 +13025,195 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [24Apr2025 03:18:22.645] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CamperEntity['Camper'/336251, l='ServerLevel[world]', x=-3305.21, y=76.00, z=1970.50] died: Camper was annihilated by qdrix
 [24Apr2025 03:18:22.659] [Server thread/WARN] [cgm/]: literal{qdrix}(e1a2164e-3385-3002-9d56-0820f595ae2a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 85
 [24Apr2025 03:18:23.457] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/335316, l='ServerLevel[world]', x=-3329.59, y=51.17, z=1871.57, removed=DISCARDED]
+[24Apr2025 03:18:27.886] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-192, 132], pos: BlockPos{x=-3071, y=45, z=2112}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bunker_down:farm_bunker]
+[24Apr2025 03:18:27.886] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-192, 132], pos: BlockPos{x=-3070, y=45, z=2112}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bunker_down:farm_bunker]
+[24Apr2025 03:18:27.886] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-192, 132], pos: BlockPos{x=-3069, y=45, z=2112}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bunker_down:farm_bunker]
+[24Apr2025 03:18:27.887] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-192, 132], pos: BlockPos{x=-3068, y=45, z=2112}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bunker_down:farm_bunker]
+[24Apr2025 03:18:27.887] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-192, 132], pos: BlockPos{x=-3067, y=45, z=2112}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bunker_down:farm_bunker]
+[24Apr2025 03:18:27.887] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-192, 132], pos: BlockPos{x=-3066, y=45, z=2112}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bunker_down:farm_bunker]
+[24Apr2025 03:18:27.887] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-192, 132], pos: BlockPos{x=-3065, y=45, z=2112}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bunker_down:farm_bunker]
+[24Apr2025 03:18:27.887] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-192, 132], pos: BlockPos{x=-3071, y=46, z=2112}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bunker_down:farm_bunker]
+[24Apr2025 03:18:27.887] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-192, 132], pos: BlockPos{x=-3070, y=46, z=2112}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bunker_down:farm_bunker]
+[24Apr2025 03:18:27.887] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-192, 132], pos: BlockPos{x=-3069, y=46, z=2112}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bunker_down:farm_bunker]
+[24Apr2025 03:18:27.887] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-192, 132], pos: BlockPos{x=-3068, y=46, z=2112}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bunker_down:farm_bunker]
+[24Apr2025 03:18:27.887] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-192, 132], pos: BlockPos{x=-3067, y=46, z=2112}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bunker_down:farm_bunker]
+[24Apr2025 03:18:27.887] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-192, 132], pos: BlockPos{x=-3066, y=46, z=2112}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bunker_down:farm_bunker]
+[24Apr2025 03:18:27.887] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-192, 132], pos: BlockPos{x=-3065, y=46, z=2112}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bunker_down:farm_bunker]
+[24Apr2025 03:18:27.887] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-192, 132], pos: BlockPos{x=-3071, y=47, z=2112}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bunker_down:farm_bunker]
+[24Apr2025 03:18:27.887] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-192, 132], pos: BlockPos{x=-3070, y=47, z=2112}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bunker_down:farm_bunker]
+[24Apr2025 03:18:27.887] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-192, 132], pos: BlockPos{x=-3069, y=47, z=2112}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bunker_down:farm_bunker]
+[24Apr2025 03:18:27.888] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-192, 132], pos: BlockPos{x=-3068, y=47, z=2112}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bunker_down:farm_bunker]
+[24Apr2025 03:18:27.888] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-192, 132], pos: BlockPos{x=-3067, y=47, z=2112}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bunker_down:farm_bunker]
+[24Apr2025 03:18:27.888] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-192, 132], pos: BlockPos{x=-3066, y=47, z=2112}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bunker_down:farm_bunker]
+[24Apr2025 03:18:27.888] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-192, 132], pos: BlockPos{x=-3065, y=47, z=2112}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bunker_down:farm_bunker]
+[24Apr2025 03:18:27.888] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-192, 132], pos: BlockPos{x=-3071, y=48, z=2112}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bunker_down:farm_bunker]
+[24Apr2025 03:18:27.888] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-192, 132], pos: BlockPos{x=-3070, y=48, z=2112}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bunker_down:farm_bunker]
+[24Apr2025 03:18:27.888] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-192, 132], pos: BlockPos{x=-3069, y=48, z=2112}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bunker_down:farm_bunker]
+[24Apr2025 03:18:27.888] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-192, 132], pos: BlockPos{x=-3068, y=48, z=2112}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bunker_down:farm_bunker]
+[24Apr2025 03:18:27.888] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-192, 132], pos: BlockPos{x=-3067, y=48, z=2112}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bunker_down:farm_bunker]
+[24Apr2025 03:18:27.888] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-192, 132], pos: BlockPos{x=-3066, y=48, z=2112}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bunker_down:farm_bunker]
+[24Apr2025 03:18:27.888] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-192, 132], pos: BlockPos{x=-3065, y=48, z=2112}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bunker_down:farm_bunker]
+[24Apr2025 03:18:27.888] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-192, 132], pos: BlockPos{x=-3071, y=49, z=2112}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bunker_down:farm_bunker]
+[24Apr2025 03:18:27.888] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-192, 132], pos: BlockPos{x=-3070, y=49, z=2112}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bunker_down:farm_bunker]
+[24Apr2025 03:18:27.888] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-192, 132], pos: BlockPos{x=-3069, y=49, z=2112}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bunker_down:farm_bunker]
+[24Apr2025 03:18:27.888] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-192, 132], pos: BlockPos{x=-3068, y=49, z=2112}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bunker_down:farm_bunker]
+[24Apr2025 03:18:27.888] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-192, 132], pos: BlockPos{x=-3067, y=49, z=2112}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bunker_down:farm_bunker]
+[24Apr2025 03:18:27.889] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-192, 132], pos: BlockPos{x=-3066, y=49, z=2112}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bunker_down:farm_bunker]
+[24Apr2025 03:18:27.889] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-192, 132], pos: BlockPos{x=-3065, y=49, z=2112}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bunker_down:farm_bunker]
+[24Apr2025 03:18:27.889] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-192, 132], pos: BlockPos{x=-3071, y=50, z=2112}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bunker_down:farm_bunker]
+[24Apr2025 03:18:27.889] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-192, 132], pos: BlockPos{x=-3070, y=50, z=2112}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bunker_down:farm_bunker]
+[24Apr2025 03:18:27.889] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-192, 132], pos: BlockPos{x=-3069, y=50, z=2112}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bunker_down:farm_bunker]
+[24Apr2025 03:18:27.889] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-192, 132], pos: BlockPos{x=-3068, y=50, z=2112}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bunker_down:farm_bunker]
+[24Apr2025 03:18:27.889] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-192, 132], pos: BlockPos{x=-3067, y=50, z=2112}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bunker_down:farm_bunker]
+[24Apr2025 03:18:27.889] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-192, 132], pos: BlockPos{x=-3066, y=50, z=2112}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bunker_down:farm_bunker]
+[24Apr2025 03:18:27.889] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-192, 132], pos: BlockPos{x=-3065, y=50, z=2112}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bunker_down:farm_bunker]
+[24Apr2025 03:18:31.693] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/335316, l='ServerLevel[world]', x=-3329.59, y=51.17, z=1871.57, removed=DISCARDED]
+[24Apr2025 03:18:40.241] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/335316, l='ServerLevel[world]', x=-3329.59, y=51.17, z=1871.57, removed=DISCARDED]
+[24Apr2025 03:18:47.061] [Server thread/WARN] [cgm/]: literal{qdrix}(e1a2164e-3385-3002-9d56-0820f595ae2a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 85
+[24Apr2025 03:18:51.564] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CamperEntity['Camper'/336338, l='ServerLevel[world]', x=-3283.72, y=74.00, z=1943.28] died: Camper was eliminated by qdrix
+[24Apr2025 03:18:54.399] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/340802, l='ServerLevel[world]', x=-3148.43, y=3.56, z=1990.27, removed=DISCARDED]
+[24Apr2025 03:18:54.764] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/340805, l='ServerLevel[world]', x=-3146.51, y=1.13, z=1989.49, removed=DISCARDED]
+[24Apr2025 03:18:54.912] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/340802, l='ServerLevel[world]', x=-3148.43, y=3.56, z=1990.27, removed=DISCARDED]
+[24Apr2025 03:18:54.950] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/340806, l='ServerLevel[world]', x=-3145.34, y=1.30, z=1990.33, removed=DISCARDED]
+[24Apr2025 03:18:54.950] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/340807, l='ServerLevel[world]', x=-3145.27, y=1.45, z=1989.56, removed=DISCARDED]
+[24Apr2025 03:18:55.210] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/340805, l='ServerLevel[world]', x=-3146.51, y=1.13, z=1989.49, removed=DISCARDED]
+[24Apr2025 03:18:55.411] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/340806, l='ServerLevel[world]', x=-3145.34, y=1.30, z=1990.33, removed=DISCARDED]
+[24Apr2025 03:18:55.462] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/340807, l='ServerLevel[world]', x=-3145.27, y=1.45, z=1989.56, removed=DISCARDED]
+[24Apr2025 03:19:11.810] [Server thread/WARN] [cgm/]: literal{axel}(34d47921-4a04-3f0d-9e05-51451c11bd23) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
+[24Apr2025 03:19:12.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Applied effect Regeneration to ElTermi04]
+[24Apr2025 03:19:58.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Teleported qdrix to axel]
+[24Apr2025 03:19:58.054] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/340802, l='ServerLevel[world]', x=-3148.43, y=3.56, z=1990.27, removed=DISCARDED]
+[24Apr2025 03:19:58.615] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/340805, l='ServerLevel[world]', x=-3146.51, y=1.13, z=1989.49, removed=DISCARDED]
+[24Apr2025 03:20:01.108] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/340802, l='ServerLevel[world]', x=-3148.43, y=3.56, z=1990.27, removed=DISCARDED]
+[24Apr2025 03:20:01.659] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/340805, l='ServerLevel[world]', x=-3146.51, y=1.13, z=1989.49, removed=DISCARDED]
+[24Apr2025 03:20:02.365] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/340807, l='ServerLevel[world]', x=-3145.27, y=1.45, z=1989.56, removed=DISCARDED]
+[24Apr2025 03:20:02.713] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/340806, l='ServerLevel[world]', x=-3145.34, y=1.30, z=1990.33, removed=DISCARDED]
+[24Apr2025 03:20:06.256] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/340802, l='ServerLevel[world]', x=-3148.43, y=3.56, z=1990.27, removed=DISCARDED]
+[24Apr2025 03:20:07.160] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/340802, l='ServerLevel[world]', x=-3148.43, y=3.56, z=1990.27, removed=DISCARDED]
+[24Apr2025 03:20:07.849] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/340805, l='ServerLevel[world]', x=-3146.51, y=1.13, z=1989.49, removed=DISCARDED]
+[24Apr2025 03:20:27.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: axel moved too quickly! -9.974319172560172,-0.20657080117572946,-1.1142173849862047
+[24Apr2025 03:20:27.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Added 70.0 sanity to ElTermi04]
+[24Apr2025 03:20:36.573] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/335316, l='ServerLevel[world]', x=-3329.59, y=51.17, z=1871.57, removed=DISCARDED]
+[24Apr2025 03:20:40.296] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/335316, l='ServerLevel[world]', x=-3329.59, y=51.17, z=1871.57, removed=DISCARDED]
+[24Apr2025 03:20:42.176] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/335316, l='ServerLevel[world]', x=-3329.59, y=51.17, z=1871.57, removed=DISCARDED]
+[24Apr2025 03:21:08.200] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 9.79538345336914) to LOW (avg. 21.1208438873291)
+[24Apr2025 03:21:15.701] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.1208438873291) to VERY_LOW (avg. 10.0341796875)
+[24Apr2025 03:21:17.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Added 70.0 sanity to ElTermi04]
+[24Apr2025 03:21:19.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Applied effect Regeneration to ElTermi04]
+[24Apr2025 03:21:30.702] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 10.0341796875) to LOW (avg. 24.055587768554688)
+[24Apr2025 03:21:49.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Applied effect Regeneration to ElTermi04]
+[24Apr2025 03:21:53.202] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.65374755859375) to VERY_LOW (avg. 12.194058418273926)
+[24Apr2025 03:22:05.961] [Server thread/WARN] [cgm/]: literal{qdrix}(e1a2164e-3385-3002-9d56-0820f595ae2a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 89
+[24Apr2025 03:22:23.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Applied effect Regeneration to ElTermi04]
+[24Apr2025 03:22:33.796] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/334137, l='ServerLevel[world]', x=-3406.63, y=-27.47, z=1793.70, removed=DISCARDED]
+[24Apr2025 03:22:55.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Added 70.0 sanity to ElTermi04]
+[24Apr2025 03:22:58.760] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/334137, l='ServerLevel[world]', x=-3406.63, y=-27.47, z=1793.70, removed=DISCARDED]
+[24Apr2025 03:23:09.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Applied effect Regeneration to ElTermi04]
+[24Apr2025 03:23:24.099] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/334137, l='ServerLevel[world]', x=-3406.63, y=-27.47, z=1793.70, removed=DISCARDED]
+[24Apr2025 03:23:36.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set the weather to clear]
+[24Apr2025 03:24:13.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: axel was slain by Sneaking Terror
+[24Apr2025 03:24:17.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElTermi04> zzz
+[24Apr2025 03:24:23.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <qdrix> zzz
+[24Apr2025 03:24:48.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: axel died because of Runner
+[24Apr2025 03:25:23.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Teleported axel to qdrix]
+[24Apr2025 03:25:23.305] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/334137, l='ServerLevel[world]', x=-3406.63, y=-27.47, z=1793.70, removed=DISCARDED]
+[24Apr2025 03:25:23.306] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/335316, l='ServerLevel[world]', x=-3329.59, y=51.17, z=1871.57, removed=DISCARDED]
+[24Apr2025 03:25:45.897] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/334137, l='ServerLevel[world]', x=-3406.63, y=-27.47, z=1793.70, removed=DISCARDED]
+[24Apr2025 03:25:57.607] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/334137, l='ServerLevel[world]', x=-3406.63, y=-27.47, z=1793.70, removed=DISCARDED]
+[24Apr2025 03:26:00.289] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/ShulkerBoxBlockEntity$AnimationStatus
+[24Apr2025 03:26:59.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Added 70.0 sanity to ElTermi04]
+[24Apr2025 03:27:45.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Applied enchantment Accelerator I to ElTermi04's item]
+[24Apr2025 03:27:56.857] [Netty Epoll Server IO #6/ERROR] [net.minecraft.network.PacketEncoder/]: Error receiving packet 83
+java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.ObjectArrayList.get(int)" because "this.wrapped" is null
+	at it.unimi.dsi.fastutil.objects.Object2ObjectOpenHashMap$MapIterator.nextEntry(Object2ObjectOpenHashMap.java:678) ~[fastutil-8.5.6.jar%2389!/:?]
+	at it.unimi.dsi.fastutil.objects.Object2ObjectOpenHashMap$KeyIterator.next(Object2ObjectOpenHashMap.java:1083) ~[fastutil-8.5.6.jar%2389!/:?]
+	at net.minecraft.nbt.CompoundTag.m_6434_(CompoundTag.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23369!/:?]
+	at net.minecraft.nbt.NbtIo.m_128950_(NbtIo.java:265) ~[server-1.19.2-20220805.130853-srg.jar%23369!/:?]
+	at net.minecraft.nbt.NbtIo.m_128941_(NbtIo.java:234) ~[server-1.19.2-20220805.130853-srg.jar%23369!/:?]
+	at net.minecraft.network.FriendlyByteBuf.m_130079_(FriendlyByteBuf.java:483) ~[server-1.19.2-20220805.130853-srg.jar%23369!/:?]
+	at net.minecraft.network.FriendlyByteBuf.writeItemStack(FriendlyByteBuf.java:541) ~[server-1.19.2-20220805.130853-srg.jar%23369!/:?]
+	at net.minecraft.network.FriendlyByteBuf.m_130055_(FriendlyByteBuf.java:520) ~[server-1.19.2-20220805.130853-srg.jar%23369!/:?]
+	at net.minecraft.network.protocol.game.ClientboundSetEquipmentPacket.m_5779_(ClientboundSetEquipmentPacket.java:49) ~[server-1.19.2-20220805.130853-srg.jar%23369!/:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:45) [server-1.19.2-20220805.130853-srg.jar%23369!/:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:14) [server-1.19.2-20220805.130853-srg.jar%23369!/:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) [netty-codec-4.1.77.Final.jar%2380!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:709) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:792) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:702) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:110) [netty-codec-4.1.77.Final.jar%2380!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:764) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext$WriteTask.run(AbstractChannelHandlerContext.java:1071) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:391) [netty-transport-classes-epoll-4.1.77.Final.jar%2385!/:4.1.77.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:995) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+[24Apr2025 03:27:56.857] [Netty Epoll Server IO #5/ERROR] [net.minecraft.network.PacketEncoder/]: Error receiving packet 83
+java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.ObjectArrayList.get(int)" because "this.wrapped" is null
+	at it.unimi.dsi.fastutil.objects.Object2ObjectOpenHashMap$MapIterator.nextEntry(Object2ObjectOpenHashMap.java:678) ~[fastutil-8.5.6.jar%2389!/:?]
+	at it.unimi.dsi.fastutil.objects.Object2ObjectOpenHashMap$KeyIterator.next(Object2ObjectOpenHashMap.java:1083) ~[fastutil-8.5.6.jar%2389!/:?]
+	at net.minecraft.nbt.CompoundTag.m_6434_(CompoundTag.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23369!/:?]
+	at net.minecraft.nbt.NbtIo.m_128950_(NbtIo.java:265) ~[server-1.19.2-20220805.130853-srg.jar%23369!/:?]
+	at net.minecraft.nbt.NbtIo.m_128941_(NbtIo.java:234) ~[server-1.19.2-20220805.130853-srg.jar%23369!/:?]
+	at net.minecraft.network.FriendlyByteBuf.m_130079_(FriendlyByteBuf.java:483) ~[server-1.19.2-20220805.130853-srg.jar%23369!/:?]
+	at net.minecraft.network.FriendlyByteBuf.writeItemStack(FriendlyByteBuf.java:541) ~[server-1.19.2-20220805.130853-srg.jar%23369!/:?]
+	at net.minecraft.network.FriendlyByteBuf.m_130055_(FriendlyByteBuf.java:520) ~[server-1.19.2-20220805.130853-srg.jar%23369!/:?]
+	at net.minecraft.network.protocol.game.ClientboundSetEquipmentPacket.m_5779_(ClientboundSetEquipmentPacket.java:49) ~[server-1.19.2-20220805.130853-srg.jar%23369!/:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:45) [server-1.19.2-20220805.130853-srg.jar%23369!/:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:14) [server-1.19.2-20220805.130853-srg.jar%23369!/:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) [netty-codec-4.1.77.Final.jar%2380!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:709) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:792) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:702) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:110) [netty-codec-4.1.77.Final.jar%2380!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:764) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext$WriteTask.run(AbstractChannelHandlerContext.java:1071) [netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:391) [netty-transport-classes-epoll-4.1.77.Final.jar%2385!/:4.1.77.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:995) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+[24Apr2025 03:27:56.909] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElTermi04 lost connection: Internal Exception: io.netty.handler.codec.EncoderException: java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.ObjectArrayList.get(int)" because "this.wrapped" is null
+[24Apr2025 03:27:56.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTermi04 left the game
+[24Apr2025 03:27:56.909] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of dcec059e-5777-39ca-a449-3f50e71571e6 was unloaded
+[24Apr2025 03:27:56.909] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ElTermi04
+[24Apr2025 03:27:56.919] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: axel lost connection: Internal Exception: io.netty.handler.codec.EncoderException: java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.ObjectArrayList.get(int)" because "this.wrapped" is null
+[24Apr2025 03:27:56.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: axel left the game
+[24Apr2025 03:27:56.919] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 34d47921-4a04-3f0d-9e05-51451c11bd23 was unloaded
+[24Apr2025 03:27:56.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: axel was slain by Sneaking Terror
+[24Apr2025 03:27:56.922] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client axel
+[24Apr2025 03:28:12.663] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3aafde72
+[24Apr2025 03:28:12.668] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElTermi04[/172.24.55.145:56417] logged in with entity id 380607 at (-3320.8479297361146, 72.0, 1799.300000011921)
+[24Apr2025 03:28:12.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTermi04 joined the game
+[24Apr2025 03:28:12.685] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/335316, l='ServerLevel[world]', x=-3329.59, y=51.17, z=1871.57, removed=DISCARDED]
+[24Apr2025 03:28:12.689] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/334137, l='ServerLevel[world]', x=-3406.63, y=-27.47, z=1793.70, removed=DISCARDED]
+[24Apr2025 03:28:12.729] [Server thread/INFO] [APTweaks(Player)/]: Player ElTermi04 ServerPlayer['ElTermi04'/380607, l='ServerLevel[world]', x=-3320.85, y=72.00, z=1799.30] logged in and will be protected for 90 secs.
+[24Apr2025 03:28:12.729] [Server thread/INFO] [Jade/]: Syncing config to ElTermi04 (dcec059e-5777-39ca-a449-3f50e71571e6)
+[24Apr2025 03:28:12.877] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ElTermi04 (18)
+[24Apr2025 03:28:12.878] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ElTermi04
+[24Apr2025 03:28:12.893] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of dcec059e-5777-39ca-a449-3f50e71571e6 was loaded
+[24Apr2025 03:28:15.442] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player dcec059e-5777-39ca-a449-3f50e71571e6
+[24Apr2025 03:28:16.445] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player dcec059e-5777-39ca-a449-3f50e71571e6
+[24Apr2025 03:28:16.445] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ElTermi04 (dcec059e-5777-39ca-a449-3f50e71571e6) successfully connected to voice chat
+[24Apr2025 03:28:17.151] [Server thread/INFO] [APTweaks(Player)/]: Protected Player ElTermi04 was successful validated after 4 secs.
+[24Apr2025 03:28:17.151] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player ElTermi04!
+[24Apr2025 03:28:22.461] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@38f2af52
+[24Apr2025 03:28:22.465] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: axel[/172.24.109.155:58776] logged in with entity id 380614 at (-3321.699999988079, 61.0, 1873.6747174669667)
+[24Apr2025 03:28:22.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: axel joined the game
+[24Apr2025 03:28:22.473] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/335316, l='ServerLevel[world]', x=-3329.59, y=51.17, z=1871.57, removed=DISCARDED]
+[24Apr2025 03:28:22.510] [Server thread/INFO] [APTweaks(Player)/]: Player axel ServerPlayer['axel'/380614, l='ServerLevel[world]', x=-3321.70, y=61.00, z=1873.67] logged in and will be protected for 90 secs.
+[24Apr2025 03:28:22.511] [Server thread/INFO] [Jade/]: Syncing config to axel (34d47921-4a04-3f0d-9e05-51451c11bd23)
+[24Apr2025 03:28:22.699] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of axel (18)
+[24Apr2025 03:28:22.700] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to axel
+[24Apr2025 03:28:22.797] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 34d47921-4a04-3f0d-9e05-51451c11bd23 was loaded
+[24Apr2025 03:28:23.509] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: axel lost connection: Internal Exception: java.lang.NullPointerException: Cannot invoke "mods.thecomputerizer.musictriggers.server.data.IPersistentTriggerData.writePreferredSort(int)" because the return value of "mods.thecomputerizer.musictriggers.server.data.PersistentTriggerDataProvider.getPlayerCapability(net.minecraft.server.level.ServerPlayer)" is null
+[24Apr2025 03:28:23.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: axel left the game
+[24Apr2025 03:28:23.509] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client axel

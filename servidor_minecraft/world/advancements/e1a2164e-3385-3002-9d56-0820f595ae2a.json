@@ -890,6 +890,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-04-13 04:28:50 +0000",
+      "minecraft:vex": "2025-04-24 03:19:21 +0000",
       "minecraft:zombie": "2025-04-13 04:26:27 +0000",
       "minecraft:drowned": "2025-04-09 03:35:12 +0000"
     },
