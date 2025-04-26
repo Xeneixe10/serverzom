@@ -3325,7 +3325,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-04-26 02:44:02 +0000"
+      "requirement": "2025-04-26 02:54:02 +0000"
     },
     "done": false
   },
