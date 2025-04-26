@@ -485,6 +485,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-04-26 03:31:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2025-04-13 03:30:45 +0000"
@@ -1825,6 +1831,7 @@
       "minecraft:river": "2025-04-09 02:52:54 +0000",
       "minecraft:snowy_plains": "2025-04-24 03:06:57 +0000",
       "minecraft:snowy_taiga": "2025-04-24 02:50:46 +0000",
+      "minecraft:dripstone_caves": "2025-04-26 03:29:39 +0000",
       "minecraft:cold_ocean": "2025-04-20 02:19:29 +0000",
       "minecraft:forest": "2025-04-17 01:59:43 +0000",
       "minecraft:lush_caves": "2025-04-09 01:54:58 +0000",
@@ -1836,6 +1843,7 @@
       "minecraft:snowy_beach": "2025-04-24 03:03:29 +0000",
       "minecraft:flower_forest": "2025-04-17 04:13:56 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-09 02:29:02 +0000",
+      "minecraft:deep_dark": "2025-04-26 03:31:30 +0000",
       "minecraft:plains": "2025-04-17 02:51:23 +0000"
     },
     "done": false
@@ -3331,7 +3339,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-04-26 03:24:02 +0000"
+      "requirement": "2025-04-26 03:34:02 +0000"
     },
     "done": false
   },

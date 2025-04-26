@@ -527,6 +527,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-04-26 03:31:23 +0000"
+    },
+    "done": true
+  },
   "projectarsenal:recipes/projectarsenal/ar15_classic": {
     "criteria": {
       "has_planks": "2025-04-09 02:31:53 +0000"
@@ -1821,6 +1827,7 @@
       "minecraft:snowy_beach": "2025-04-22 03:15:35 +0000",
       "minecraft:flower_forest": "2025-04-22 02:33:31 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-09 02:30:54 +0000",
+      "minecraft:deep_dark": "2025-04-26 03:26:09 +0000",
       "minecraft:plains": "2025-04-17 02:34:20 +0000"
     },
     "done": false
@@ -1972,6 +1979,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-04-20 02:42:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-04-26 03:31:08 +0000"
     },
     "done": true
   },
