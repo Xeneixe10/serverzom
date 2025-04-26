@@ -791,7 +791,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 03:47:38 +0000"
+      "log_spam_fixer": "2025-04-26 02:25:03 +0000"
     },
     "done": false
   },
@@ -1145,7 +1145,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 03:47:38 +0000"
+      "log_spam_fixer": "2025-04-26 02:25:03 +0000"
     },
     "done": false
   },
@@ -1562,7 +1562,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 03:47:38 +0000"
+      "log_spam_fixer": "2025-04-26 02:25:03 +0000"
     },
     "done": false
   },
@@ -1586,7 +1586,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 03:47:38 +0000"
+      "log_spam_fixer": "2025-04-26 02:25:03 +0000"
     },
     "done": false
   },
@@ -1715,17 +1715,17 @@
     },
     "done": true
   },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-24 03:47:38 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/cut_copper": {
     "criteria": {
       "has_copper_block": "2025-04-24 03:45:40 +0000"
     },
     "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-26 02:25:03 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
@@ -2005,7 +2005,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 03:47:38 +0000"
+      "log_spam_fixer": "2025-04-26 02:25:03 +0000"
     },
     "done": false
   },
@@ -2746,7 +2746,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 03:47:38 +0000"
+      "log_spam_fixer": "2025-04-26 02:25:03 +0000"
     },
     "done": false
   },
@@ -2932,7 +2932,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 03:47:38 +0000"
+      "log_spam_fixer": "2025-04-26 02:25:03 +0000"
     },
     "done": false
   },
@@ -3016,7 +3016,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 03:47:38 +0000"
+      "log_spam_fixer": "2025-04-26 02:25:03 +0000"
     },
     "done": false
   },
@@ -3646,7 +3646,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 03:47:38 +0000"
+      "log_spam_fixer": "2025-04-26 02:25:03 +0000"
     },
     "done": false
   },
@@ -3682,7 +3682,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 03:47:38 +0000"
+      "log_spam_fixer": "2025-04-26 02:25:03 +0000"
     },
     "done": false
   },
@@ -3712,10 +3712,9 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-04-24 03:47:38 +0000",
-      "log_spam_fixer": "2025-04-24 03:47:38 +0000"
+      "log_spam_fixer": "2025-04-26 02:25:03 +0000"
     },
-    "done": true
+    "done": false
   },
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
