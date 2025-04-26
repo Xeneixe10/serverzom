@@ -15834,3 +15834,82 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [26Apr2025 03:38:15.318] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful qdrix
 [26Apr2025 03:38:16.501] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa qdrix
 [26Apr2025 03:38:38.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Added 70.0 sanity to ElTermi04]
+[26Apr2025 03:38:50.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: axel has made the advancement [Master of Silence]
+[26Apr2025 03:39:02.241] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 03:39:02.256] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 03:39:38.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTermi04 has made the advancement [Master of Silence]
+[26Apr2025 03:40:08.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Applied effect Night Vision to axel]
+[26Apr2025 03:40:34.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Spectator Mode]
+[26Apr2025 03:40:43.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[26Apr2025 03:40:45.533] [Server thread/WARN] [cgm/]: literal{ElTermi04}(dcec059e-5777-39ca-a449-3f50e71571e6) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 147
+[26Apr2025 03:40:46.451] [Server thread/WARN] [cgm/]: literal{ElTermi04}(dcec059e-5777-39ca-a449-3f50e71571e6) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 132
+[26Apr2025 03:40:47.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[26Apr2025 03:40:48.386] [Server thread/WARN] [cgm/]: literal{ElTermi04}(dcec059e-5777-39ca-a449-3f50e71571e6) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
+[26Apr2025 03:40:55.887] [Server thread/WARN] [cgm/]: literal{ElTermi04}(dcec059e-5777-39ca-a449-3f50e71571e6) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 196
+[26Apr2025 03:40:57.653] [Server thread/WARN] [cgm/]: literal{axel}(34d47921-4a04-3f0d-9e05-51451c11bd23) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 251
+[26Apr2025 03:40:59.235] [Server thread/WARN] [cgm/]: literal{ElTermi04}(dcec059e-5777-39ca-a449-3f50e71571e6) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 98
+[26Apr2025 03:41:00.001] [Server thread/WARN] [cgm/]: literal{axel}(34d47921-4a04-3f0d-9e05-51451c11bd23) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 402
+[26Apr2025 03:41:00.788] [Server thread/WARN] [cgm/]: literal{ElTermi04}(dcec059e-5777-39ca-a449-3f50e71571e6) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 93
+[26Apr2025 03:41:01.950] [Server thread/WARN] [cgm/]: literal{axel}(34d47921-4a04-3f0d-9e05-51451c11bd23) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 351
+[26Apr2025 03:41:03.704] [Server thread/WARN] [cgm/]: literal{axel}(34d47921-4a04-3f0d-9e05-51451c11bd23) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 297
+[26Apr2025 03:41:06.535] [Server thread/WARN] [cgm/]: literal{ElTermi04}(dcec059e-5777-39ca-a449-3f50e71571e6) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 293
+[26Apr2025 03:41:07.281] [Server thread/WARN] [cgm/]: literal{ElTermi04}(dcec059e-5777-39ca-a449-3f50e71571e6) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 117
+[26Apr2025 03:41:17.130] [Server thread/WARN] [cgm/]: literal{ElTermi04}(dcec059e-5777-39ca-a449-3f50e71571e6) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 107
+[26Apr2025 03:41:18.140] [Server thread/WARN] [cgm/]: literal{ElTermi04}(dcec059e-5777-39ca-a449-3f50e71571e6) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 97
+[26Apr2025 03:41:27.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: axel was obliterated by a sonically-charged shriek
+[26Apr2025 03:41:27.364] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful axel
+[26Apr2025 03:41:28.621] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa axel
+[26Apr2025 03:41:35.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[26Apr2025 03:41:49.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Teleported axel to ElTermi04]
+[26Apr2025 03:42:05.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[26Apr2025 03:42:19.065] [Server thread/WARN] [cgm/]: literal{qdrix}(e1a2164e-3385-3002-9d56-0820f595ae2a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 93
+[26Apr2025 03:42:19.459] [Server thread/WARN] [cgm/]: literal{qdrix}(e1a2164e-3385-3002-9d56-0820f595ae2a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 96
+[26Apr2025 03:42:20.217] [Server thread/WARN] [cgm/]: literal{qdrix}(e1a2164e-3385-3002-9d56-0820f595ae2a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 95
+[26Apr2025 03:42:20.561] [Server thread/WARN] [cgm/]: literal{qdrix}(e1a2164e-3385-3002-9d56-0820f595ae2a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 95
+[26Apr2025 03:42:20.868] [Server thread/WARN] [cgm/]: literal{qdrix}(e1a2164e-3385-3002-9d56-0820f595ae2a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 93
+[26Apr2025 03:42:23.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: axel was obliterated by a sonically-charged shriek
+[26Apr2025 03:42:23.655] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful axel
+[26Apr2025 03:42:24.967] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa axel
+[26Apr2025 03:42:39.812] [Server thread/WARN] [cgm/]: literal{qdrix}(e1a2164e-3385-3002-9d56-0820f595ae2a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 89
+[26Apr2025 03:43:08.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix was obliterated by a sonically-charged shriek
+[26Apr2025 03:43:08.354] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful qdrix
+[26Apr2025 03:43:09.511] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa qdrix
+[26Apr2025 03:43:36.212] [Server thread/WARN] [cgm/]: literal{qdrix}(e1a2164e-3385-3002-9d56-0820f595ae2a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 95
+[26Apr2025 03:43:38.821] [Server thread/WARN] [cgm/]: literal{qdrix}(e1a2164e-3385-3002-9d56-0820f595ae2a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 91
+[26Apr2025 03:43:51.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix was slain by Rotting Stalker
+[26Apr2025 03:43:51.161] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful qdrix
+[26Apr2025 03:43:52.658] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa qdrix
+[26Apr2025 03:44:02.234] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 03:44:02.245] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 03:44:10.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[26Apr2025 03:44:13.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[26Apr2025 03:45:12.679] [Server thread/WARN] [cgm/]: literal{qdrix}(e1a2164e-3385-3002-9d56-0820f595ae2a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
+[26Apr2025 03:45:15.180] [Server thread/WARN] [cgm/]: literal{qdrix}(e1a2164e-3385-3002-9d56-0820f595ae2a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 101
+[26Apr2025 03:45:16.929] [Server thread/WARN] [cgm/]: literal{qdrix}(e1a2164e-3385-3002-9d56-0820f595ae2a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 101
+[26Apr2025 03:45:18.930] [Server thread/WARN] [cgm/]: literal{qdrix}(e1a2164e-3385-3002-9d56-0820f595ae2a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 102
+[26Apr2025 03:45:34.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix was slain by Rotting Stalker
+[26Apr2025 03:45:34.830] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful qdrix
+[26Apr2025 03:45:36.130] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa qdrix
+[26Apr2025 03:46:07.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Teleported axel to ElTermi04]
+[26Apr2025 03:46:14.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[26Apr2025 03:46:26.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[26Apr2025 03:46:42.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Added 70.0 sanity to ElTermi04]
+[26Apr2025 03:46:44.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[26Apr2025 03:46:57.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[26Apr2025 03:47:00.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: axel died because of Warden
+[26Apr2025 03:47:00.881] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful axel
+[26Apr2025 03:47:02.132] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa axel
+[26Apr2025 03:47:27.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[26Apr2025 03:47:43.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[26Apr2025 03:47:53.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: axel died
+[26Apr2025 03:47:53.881] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful axel
+[26Apr2025 03:47:55.379] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa axel
+[26Apr2025 03:48:24.159] [Server thread/WARN] [cgm/]: literal{qdrix}(e1a2164e-3385-3002-9d56-0820f595ae2a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 95
+[26Apr2025 03:48:24.715] [Server thread/WARN] [cgm/]: literal{qdrix}(e1a2164e-3385-3002-9d56-0820f595ae2a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 98
+[26Apr2025 03:48:41.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[26Apr2025 03:48:46.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: axel died because of Runner
+[26Apr2025 03:48:46.252] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful axel
+[26Apr2025 03:48:47.735] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa axel
+[26Apr2025 03:48:51.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: qdrix was slain by Warden
+[26Apr2025 03:48:51.607] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful qdrix
+[26Apr2025 03:48:52.822] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa qdrix
