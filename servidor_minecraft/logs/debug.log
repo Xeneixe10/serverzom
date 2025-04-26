@@ -15563,3 +15563,39 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [26Apr2025 03:17:37.325] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pool1
 [26Apr2025 03:17:40.548] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ruin2
 [26Apr2025 03:18:05.657] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:deepslate_city1
+[26Apr2025 03:18:27.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Spectator Mode]
+[26Apr2025 03:18:32.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[26Apr2025 03:19:02.228] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 03:19:02.240] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 03:20:01.772] [Netty Epoll Server IO #6/DEBUG] [emotecraft/]: [emotes server] Received data from: dcec059e-5777-39ca-a449-3f50e71571e6 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=f9f6669d-f1b3-4170-8bc5-475a9a600439, length=61, extra={valid=true}}, startingAt=0, player=null}
+[26Apr2025 03:20:04.360] [Netty Epoll Server IO #6/DEBUG] [emotecraft/]: [emotes server] Received data from: dcec059e-5777-39ca-a449-3f50e71571e6 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=f9f6669d-f1b3-4170-8bc5-475a9a600439, length=61, extra={valid=true}}, startingAt=0, player=null}
+[26Apr2025 03:20:06.445] [Netty Epoll Server IO #6/DEBUG] [emotecraft/]: [emotes server] Received data from: dcec059e-5777-39ca-a449-3f50e71571e6 data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=f9f6669d-f1b3-4170-8bc5-475a9a600439, emoteData=null, startingAt=0, player=null}
+[26Apr2025 03:20:47.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <axel> zzzz
+[26Apr2025 03:20:49.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Applied effect Regeneration to ElTermi04]
+[26Apr2025 03:21:33.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Applied effect Regeneration to ElTermi04]
+[26Apr2025 03:21:54.907] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-6047, y=103, z=28070}
+[26Apr2025 03:22:10.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Applied effect Regeneration to ElTermi04]
+[26Apr2025 03:22:48.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Teleported axel to ElTermi04]
+[26Apr2025 03:23:32.114] [Server thread/WARN] [cgm/]: literal{axel}(34d47921-4a04-3f0d-9e05-51451c11bd23) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 147
+[26Apr2025 03:24:02.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 03:24:02.249] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 03:24:03.736] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nullscape:skeleton/3
+[26Apr2025 03:24:09.997] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of structory:decoration/jungle_well
+[26Apr2025 03:24:38.535] [Server thread/WARN] [cgm/]: literal{ElTermi04}(dcec059e-5777-39ca-a449-3f50e71571e6) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 128
+[26Apr2025 03:24:47.892] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.672173500061035) to LOW (avg. 20.099746704101562)
+[26Apr2025 03:24:47.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[26Apr2025 03:24:51.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Applied effect Regeneration to ElTermi04]
+[26Apr2025 03:24:53.842] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:ruin/glacial/interior1
+[26Apr2025 03:25:01.038] [Worker-Main-14/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/ruin4 is being run through DFU (hash a939c6cd2d850996d47992a00cdb546afac0a87854974aa2a2134a3a71bf268c), this will cause launch time delays
+[26Apr2025 03:25:02.893] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.099746704101562) to VERY_LOW (avg. 13.529253005981445)
+[26Apr2025 03:25:03.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Applied effect Regeneration to ElTermi04]
+[26Apr2025 03:25:04.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[26Apr2025 03:25:07.899] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/sundial
+[26Apr2025 03:25:07.906] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/desert/copper_house2
+[26Apr2025 03:25:07.925] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/settlement_large
+[26Apr2025 03:25:25.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.811302185058594) to LOW (avg. 21.402069091796875)
+[26Apr2025 03:25:25.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Added 70.0 sanity to ElTermi04]
+[26Apr2025 03:25:40.393] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.402069091796875) to VERY_LOW (avg. 10.9435453414917)
+[26Apr2025 03:26:17.893] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.296016693115234) to LOW (avg. 30.868289947509766)
+[26Apr2025 03:26:32.893] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 30.868289947509766) to VERY_LOW (avg. 13.267109870910645)
+[26Apr2025 03:27:39.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Added 70.0 sanity to ElTermi04]

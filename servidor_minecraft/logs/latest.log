@@ -5797,3 +5797,25 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [26Apr2025 03:16:18.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Teleported axel to ElTermi04]
 [26Apr2025 03:16:40.392] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 9.716485023498535) to LOW (avg. 21.091394424438477)
 [26Apr2025 03:16:55.392] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.091394424438477) to VERY_LOW (avg. 5.378171443939209)
+[26Apr2025 03:18:27.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Spectator Mode]
+[26Apr2025 03:18:32.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[26Apr2025 03:20:47.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <axel> zzzz
+[26Apr2025 03:20:49.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Applied effect Regeneration to ElTermi04]
+[26Apr2025 03:21:33.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Applied effect Regeneration to ElTermi04]
+[26Apr2025 03:21:54.907] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-6047, y=103, z=28070}
+[26Apr2025 03:22:10.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Applied effect Regeneration to ElTermi04]
+[26Apr2025 03:22:48.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Teleported axel to ElTermi04]
+[26Apr2025 03:23:32.114] [Server thread/WARN] [cgm/]: literal{axel}(34d47921-4a04-3f0d-9e05-51451c11bd23) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 147
+[26Apr2025 03:24:38.535] [Server thread/WARN] [cgm/]: literal{ElTermi04}(dcec059e-5777-39ca-a449-3f50e71571e6) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 128
+[26Apr2025 03:24:47.892] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.672173500061035) to LOW (avg. 20.099746704101562)
+[26Apr2025 03:24:47.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[26Apr2025 03:24:51.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Applied effect Regeneration to ElTermi04]
+[26Apr2025 03:25:02.893] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.099746704101562) to VERY_LOW (avg. 13.529253005981445)
+[26Apr2025 03:25:03.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Applied effect Regeneration to ElTermi04]
+[26Apr2025 03:25:04.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[26Apr2025 03:25:25.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.811302185058594) to LOW (avg. 21.402069091796875)
+[26Apr2025 03:25:25.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Added 70.0 sanity to ElTermi04]
+[26Apr2025 03:25:40.393] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.402069091796875) to VERY_LOW (avg. 10.9435453414917)
+[26Apr2025 03:26:17.893] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.296016693115234) to LOW (avg. 30.868289947509766)
+[26Apr2025 03:26:32.893] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 30.868289947509766) to VERY_LOW (avg. 13.267109870910645)
+[26Apr2025 03:27:39.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Added 70.0 sanity to ElTermi04]

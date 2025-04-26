@@ -371,6 +371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-26 03:22:59 +0000"
+    },
+    "done": true
+  },
   "ags_day_counter:tenth_day_advancement": {
     "criteria": {
       "tenth_day_advancement": "2025-04-11 03:36:27 +0000"
@@ -933,6 +939,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-26 03:22:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 03:50:16 +0000"
@@ -960,6 +972,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_red_dye": "2025-04-13 03:46:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-26 03:22:59 +0000"
     },
     "done": true
   },
@@ -1137,6 +1155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-26 03:22:59 +0000"
+    },
+    "done": true
+  },
   "projectarsenal:recipes/projectarsenal/m231": {
     "criteria": {
       "has_iron_ingots": "2025-04-09 03:50:16 +0000"
@@ -1146,6 +1170,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-04-13 03:40:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-04-26 03:22:59 +0000"
     },
     "done": true
   },
@@ -1194,6 +1224,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-04-09 02:31:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-26 03:22:59 +0000"
     },
     "done": true
   },
@@ -1365,6 +1401,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-26 03:22:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2025-04-09 02:31:30 +0000"
@@ -1386,6 +1428,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-13 02:59:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-26 03:22:59 +0000"
     },
     "done": true
   },
@@ -2390,6 +2438,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-26 03:22:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-11 03:46:57 +0000"
@@ -2714,6 +2768,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-04-26 03:22:59 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/zerkalo_scope": {
     "criteria": {
       "has_redstone": "2025-04-11 03:48:17 +0000"
@@ -2965,12 +3025,6 @@
       "has_gravel": "2025-04-11 03:46:57 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-04-26 03:14:02 +0000"
-    },
-    "done": false
   },
   "majruszsdifficulty:game_stage_normal": {
     "criteria": {
@@ -3230,6 +3284,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-26 03:22:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/universal_block_reinforcer_lvl2": {
     "criteria": {
       "has_redstone": "2025-04-11 03:48:17 +0000"
@@ -3374,6 +3434,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-04-26 03:22:59 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/m4a4": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 03:50:16 +0000"
@@ -3395,6 +3461,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-04-09 02:31:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-04-26 03:22:59 +0000"
     },
     "done": true
   },
@@ -3548,6 +3620,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-26 03:22:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-04-22 03:26:00 +0000"
@@ -3557,6 +3635,12 @@
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2025-04-09 02:11:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-26 03:22:59 +0000"
     },
     "done": true
   },
@@ -3701,6 +3785,12 @@
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-09 03:46:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-26 03:22:59 +0000"
     },
     "done": true
   },
