@@ -15059,3 +15059,58 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [26Apr2025 02:27:31.599] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config lostsouls-server.toml' to 'fml:handshake' sequence 56
 [26Apr2025 02:27:32.313] [Server thread/WARN] [cgm/]: literal{ElTermi04}(dcec059e-5777-39ca-a449-3f50e71571e6) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 119
 [26Apr2025 02:27:37.327] [Server thread/WARN] [cgm/]: literal{ElTermi04}(dcec059e-5777-39ca-a449-3f50e71571e6) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 223
+[26Apr2025 02:27:55.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[26Apr2025 02:27:58.800] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3e4642b3[id=<null>,name=axel,properties={},legacy=false] (/172.24.109.155:60390) lost connection: Disconnected
+[26Apr2025 02:28:13.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Applied effect Regeneration to ElTermi04]
+[26Apr2025 02:28:20.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[26Apr2025 02:29:02.247] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 02:29:02.262] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 02:29:11.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[26Apr2025 02:29:33.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Applied effect Regeneration to ElTermi04]
+[26Apr2025 02:29:35.885] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:canada1
+[26Apr2025 02:29:41.643] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from VERY_LOW (avg. 14.732079449999999) to LOW (avg. 22.788223640000002)
+[26Apr2025 02:29:42.374] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nullscape:skeleton/2
+[26Apr2025 02:29:44.570] [Worker-Main-13/WARN] [ModernFix/]: The namespace structory contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[26Apr2025 02:29:44.570] [Worker-Main-13/DEBUG] [ModernFix/]: Structure structory:ruin/taiga_underground/quarters3 is being run through DFU (hash 1e51431ac9bea3d84dcb5dbec761a9246d9eeb9476c48fce6fe11a66f19be2a0), this will cause launch time delays
+[26Apr2025 02:29:44.570] [Worker-Main-13/INFO] [ModernFix/]: Instantiating Mojang DFU
+[26Apr2025 02:29:44.764] [Worker-Main-13/DEBUG] [mixin/]: Mixing DataFixMixin from armourersworkshop-mixins.json into net.minecraft.util.datafix.schemas.V1460
+[26Apr2025 02:29:44.765] [Worker-Main-13/DEBUG] [mixin/]: armourersworkshop-mixins.json:DataFixMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[26Apr2025 02:29:44.765] [Worker-Main-13/DEBUG] [mixin/]: Renaming synthetic method lambda$aw2$registerBlockEntities$1(Ljava/util/function/BiConsumer;Lnet/minecraft/resources/ResourceLocation;)V to mdb850a7$lambda$aw2$registerBlockEntities$1$0 in armourersworkshop-mixins.json:DataFixMixin
+[26Apr2025 02:29:44.765] [Worker-Main-13/DEBUG] [mixin/]: Renaming synthetic method lambda$aw2$registerEntities$0(Ljava/util/function/BiConsumer;Lnet/minecraft/resources/ResourceLocation;)V to mdb850a7$lambda$aw2$registerEntities$0$1 in armourersworkshop-mixins.json:DataFixMixin
+[26Apr2025 02:29:44.888] [Worker-Main-13/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[26Apr2025 02:29:44.957] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of structory:entities/witch
+[26Apr2025 02:29:44.959] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/treasure2
+[26Apr2025 02:29:45.292] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/castle
+[26Apr2025 02:29:47.025] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:desert1
+[26Apr2025 02:29:47.574] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/api/chemical/merged/MergedChemicalTank$Current
+[26Apr2025 02:29:47.574] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/capabilities/merged/MergedTank$CurrentType
+[26Apr2025 02:29:47.814] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[26Apr2025 02:29:47.826] [Server thread/DEBUG] [mixin/]: Mixing allocations.do_nothing.PiglinAiMixin from saturn.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[26Apr2025 02:29:47.893] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.340036392211914) to LOW (avg. 21.499805450439453)
+[26Apr2025 02:29:55.392] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.499805450439453) to VERY_LOW (avg. 17.735315322875977)
+[26Apr2025 02:30:08.607] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[26Apr2025 02:30:17.893] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.455955505371094) to LOW (avg. 21.845766067504883)
+[26Apr2025 02:30:25.392] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.845766067504883) to VERY_LOW (avg. 16.96050453186035)
+[26Apr2025 02:30:32.901] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.96050453186035) to LOW (avg. 31.640195846557617)
+[26Apr2025 02:30:40.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Teleported ElTermi04 to qdrix]
+[26Apr2025 02:30:42.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[26Apr2025 02:30:47.892] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 31.640195846557617) to VERY_LOW (avg. 8.162307739257812)
+[26Apr2025 02:32:55.392] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 12.809324264526367) to LOW (avg. 21.932870864868164)
+[26Apr2025 02:33:10.392] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.932870864868164) to VERY_LOW (avg. 7.195749282836914)
+[26Apr2025 02:33:17.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Added 70.0 sanity to ElTermi04]
+[26Apr2025 02:33:40.419] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 8.430765151977539) to LOW (avg. 25.876388549804688)
+[26Apr2025 02:33:45.875] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[26Apr2025 02:33:45.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElTermi04> zz
+[26Apr2025 02:33:47.893] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.876388549804688) to VERY_LOW (avg. 10.911897659301758)
+[26Apr2025 02:34:01.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set the weather to clear]
+[26Apr2025 02:34:02.237] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 02:34:02.250] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 02:34:38.142] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting moe/plushie/armourers_workshop/core/menu/SkinWardrobeMenu$Group
+[26Apr2025 02:34:54.710] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of ava:outpost_forest
+[26Apr2025 02:34:55.392] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.956844329833984) to LOW (avg. 20.042072296142578)
+[26Apr2025 02:35:06.771] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of ava:outpost_ocean
+[26Apr2025 02:35:10.392] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.042072296142578) to VERY_LOW (avg. 7.064624786376953)
+[26Apr2025 02:35:22.908] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:deep_ruin9
+[26Apr2025 02:36:10.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Added 70.0 sanity to ElTermi04]
+[26Apr2025 02:36:13.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Applied effect Regeneration to ElTermi04]
+[26Apr2025 02:37:38.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Teleported ElTermi04 to qdrix]
