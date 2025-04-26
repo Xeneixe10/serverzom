@@ -383,6 +383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-04-26 03:08:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 04:00:13 +0000"
@@ -889,6 +895,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-26 03:06:34 +0000",
       "minecraft:skeleton": "2025-04-13 04:28:50 +0000",
       "minecraft:vex": "2025-04-24 03:19:21 +0000",
       "minecraft:zombie": "2025-04-13 04:26:27 +0000",
@@ -2953,6 +2960,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-26 03:08:47 +0000"
     },
     "done": true
   },

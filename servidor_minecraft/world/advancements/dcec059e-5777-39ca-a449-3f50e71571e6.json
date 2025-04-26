@@ -3325,7 +3325,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-04-26 03:04:02 +0000"
+      "requirement": "2025-04-26 03:14:02 +0000"
     },
     "done": false
   },
@@ -3788,6 +3788,12 @@
   "additionalguns:recipes/additionalguns/ak12": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 03:39:58 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:paxel": {
+    "criteria": {
+      "any_paxel": "2025-04-26 03:07:13 +0000"
     },
     "done": true
   },
