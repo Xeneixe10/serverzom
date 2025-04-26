@@ -15508,3 +15508,23 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [26Apr2025 02:56:37.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElTermi04> zzz
 [26Apr2025 02:56:56.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElTermi04> kick qdrix
 [26Apr2025 02:56:59.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[26Apr2025 02:58:43.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[26Apr2025 02:59:02.232] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 02:59:02.245] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 02:59:11.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[26Apr2025 03:00:04.480] [Server thread/WARN] [cgm/]: literal{axel}(34d47921-4a04-3f0d-9e05-51451c11bd23) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 103
+[26Apr2025 03:01:36.006] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/circle_small
+[26Apr2025 03:01:36.014] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/tower3
+[26Apr2025 03:02:07.265] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nullscape:skeleton/5
+[26Apr2025 03:02:08.506] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nullscape:skeleton/4
+[26Apr2025 03:02:21.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Added 70.0 sanity to ElTermi04]
+[26Apr2025 03:02:44.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Spectator Mode]
+[26Apr2025 03:02:57.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[26Apr2025 03:04:02.227] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 03:04:02.238] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 03:06:19.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Spectator Mode]
+[26Apr2025 03:06:21.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[26Apr2025 03:06:55.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[26Apr2025 03:07:13.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTermi04 has made the advancement [Multi-Tool]
+[26Apr2025 03:07:16.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Added 70.0 sanity to ElTermi04]
+[26Apr2025 03:07:59.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <axel> zzz
