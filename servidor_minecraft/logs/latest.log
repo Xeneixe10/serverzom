@@ -5714,3 +5714,31 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [26Apr2025 02:36:10.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Added 70.0 sanity to ElTermi04]
 [26Apr2025 02:36:13.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Applied effect Regeneration to ElTermi04]
 [26Apr2025 02:37:38.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Teleported ElTermi04 to qdrix]
+[26Apr2025 02:38:16.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Added 70.0 sanity to ElTermi04]
+[26Apr2025 02:38:18.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[26Apr2025 02:38:20.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[26Apr2025 02:39:50.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Applied effect Regeneration to ElTermi04]
+[26Apr2025 02:39:55.421] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.227027893066406) to LOW (avg. 35.36677932739258)
+[26Apr2025 02:40:17.486] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/ShulkerBoxBlockEntity$AnimationStatus
+[26Apr2025 02:40:17.892] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.265043258666992) to VERY_LOW (avg. 5.7054972648620605)
+[26Apr2025 02:42:58.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[26Apr2025 02:43:23.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[26Apr2025 02:43:41.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Spectator Mode]
+[26Apr2025 02:43:53.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[26Apr2025 02:44:17.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Added 70.0 sanity to ElTermi04]
+[26Apr2025 02:44:23.807] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@d87d1bf
+[26Apr2025 02:44:23.814] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: axel[/172.24.109.155:61626] logged in with entity id 9261 at (-3290.0388163037474, 60.48249998688698, 1912.8005427684748)
+[26Apr2025 02:44:23.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: axel joined the game
+[26Apr2025 02:44:23.876] [Server thread/INFO] [APTweaks(Player)/]: Player axel ServerPlayer['axel'/9261, l='ServerLevel[world]', x=-3290.04, y=60.48, z=1912.80] logged in and will be protected for 90 secs.
+[26Apr2025 02:44:23.877] [Server thread/INFO] [Jade/]: Syncing config to axel (34d47921-4a04-3f0d-9e05-51451c11bd23)
+[26Apr2025 02:44:45.391] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of axel (18)
+[26Apr2025 02:44:45.391] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to axel
+[26Apr2025 02:44:46.382] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 34d47921-4a04-3f0d-9e05-51451c11bd23 was loaded
+[26Apr2025 02:45:01.035] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 34d47921-4a04-3f0d-9e05-51451c11bd23
+[26Apr2025 02:45:02.036] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 34d47921-4a04-3f0d-9e05-51451c11bd23
+[26Apr2025 02:45:02.037] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player axel (34d47921-4a04-3f0d-9e05-51451c11bd23) successfully connected to voice chat
+[26Apr2025 02:45:12.442] [Server thread/INFO] [APTweaks(Player)/]: Protected Player axel was successful validated after 48 secs.
+[26Apr2025 02:45:12.443] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player axel!
+[26Apr2025 02:46:53.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Spectator Mode]
+[26Apr2025 02:47:04.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[26Apr2025 02:47:53.698] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3273, l='ServerLevel[world]', x=-3599.13, y=-9.71, z=2025.17, removed=DISCARDED]
